@@ -1,0 +1,1522 @@
+{
+  "audioSrc": "audio/1106.MP3",
+  "durationSeconds": 87.092208,
+  "sourceSha256": "e7f35060a46260567a353999148e0607b8c909a73dfa943dae4fe3362161dca3",
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Bạn có 3 tỷ tài sản, nhưng nếu ngày mai cần gấp 200 triệu, bạn có chắc mình xoay được tiền không? Nghe vô lý đúng không? Nhưng đây là một sai lầm tài chính rất nhiều người đang mắc phải!",
+      "words": [
+        {
+          "text": "Bạn",
+          "start": 0,
+          "end": 0.56
+        },
+        {
+          "text": "có",
+          "start": 0.56,
+          "end": 0.78
+        },
+        {
+          "text": "3",
+          "start": 0.78,
+          "end": 0.98
+        },
+        {
+          "text": "tỷ",
+          "start": 0.98,
+          "end": 1.16
+        },
+        {
+          "text": "tài",
+          "start": 1.16,
+          "end": 1.36
+        },
+        {
+          "text": "sản,",
+          "start": 1.36,
+          "end": 1.62
+        },
+        {
+          "text": "nhưng",
+          "start": 2.02,
+          "end": 2.54
+        },
+        {
+          "text": "nếu",
+          "start": 2.54,
+          "end": 2.86
+        },
+        {
+          "text": "ngày",
+          "start": 2.86,
+          "end": 3.0
+        },
+        {
+          "text": "mai",
+          "start": 3.0,
+          "end": 3.22
+        },
+        {
+          "text": "cần",
+          "start": 3.22,
+          "end": 3.48
+        },
+        {
+          "text": "gấp",
+          "start": 3.48,
+          "end": 3.72
+        },
+        {
+          "text": "200",
+          "start": 3.72,
+          "end": 4.12
+        },
+        {
+          "text": "triệu,",
+          "start": 4.12,
+          "end": 4.52
+        },
+        {
+          "text": "bạn",
+          "start": 5.28,
+          "end": 5.48
+        },
+        {
+          "text": "có",
+          "start": 5.48,
+          "end": 5.66
+        },
+        {
+          "text": "chắc",
+          "start": 5.66,
+          "end": 5.86
+        },
+        {
+          "text": "mình",
+          "start": 5.86,
+          "end": 6.06
+        },
+        {
+          "text": "xoay",
+          "start": 6.06,
+          "end": 6.28
+        },
+        {
+          "text": "được",
+          "start": 6.28,
+          "end": 6.44
+        },
+        {
+          "text": "tiền",
+          "start": 6.44,
+          "end": 6.7
+        },
+        {
+          "text": "không?",
+          "start": 6.7,
+          "end": 6.9
+        },
+        {
+          "text": "Nghe",
+          "start": 7.58,
+          "end": 7.84
+        },
+        {
+          "text": "vô",
+          "start": 7.84,
+          "end": 8.06
+        },
+        {
+          "text": "lý",
+          "start": 8.06,
+          "end": 8.26
+        },
+        {
+          "text": "đúng",
+          "start": 8.26,
+          "end": 8.42
+        },
+        {
+          "text": "không?",
+          "start": 8.42,
+          "end": 8.8
+        },
+        {
+          "text": "Nhưng",
+          "start": 9.84,
+          "end": 10.16
+        },
+        {
+          "text": "đây",
+          "start": 10.16,
+          "end": 10.46
+        },
+        {
+          "text": "là",
+          "start": 10.46,
+          "end": 10.62
+        },
+        {
+          "text": "một",
+          "start": 10.62,
+          "end": 10.74
+        },
+        {
+          "text": "sai",
+          "start": 10.74,
+          "end": 10.98
+        },
+        {
+          "text": "lầm",
+          "start": 10.98,
+          "end": 11.16
+        },
+        {
+          "text": "tài",
+          "start": 11.16,
+          "end": 11.38
+        },
+        {
+          "text": "chính",
+          "start": 11.38,
+          "end": 11.58
+        },
+        {
+          "text": "rất",
+          "start": 12.34,
+          "end": 12.54
+        },
+        {
+          "text": "nhiều",
+          "start": 12.54,
+          "end": 12.76
+        },
+        {
+          "text": "người",
+          "start": 12.76,
+          "end": 12.98
+        },
+        {
+          "text": "đang",
+          "start": 12.98,
+          "end": 13.18
+        },
+        {
+          "text": "mắc",
+          "start": 13.18,
+          "end": 13.36
+        },
+        {
+          "text": "phải!",
+          "start": 13.36,
+          "end": 13.62
+        }
+      ]
+    },
+    {
+      "id": "situation",
+      "text": "Hãy tưởng tượng: Bạn có một căn nhà trị giá 2,5 tỷ, 300 triệu tiền vàng và 200 triệu cổ phiếu. Tổng tài sản là 3 tỷ. Nhưng bất ngờ gia đình cần 200 triệu để giải quyết một việc khẩn cấp. Nhà thì không thể bán ngay, vàng có thể đang lỗ nếu bán lúc này, cổ phiếu thì có thể đang giảm sâu. Vậy tiền đâu để sử dụng?",
+      "words": [
+        {
+          "text": "Hãy",
+          "start": 14.18,
+          "end": 14.4
+        },
+        {
+          "text": "tưởng",
+          "start": 14.4,
+          "end": 14.72
+        },
+        {
+          "text": "tượng:",
+          "start": 14.72,
+          "end": 14.96
+        },
+        {
+          "text": "Bạn",
+          "start": 14.96,
+          "end": 15.24
+        },
+        {
+          "text": "có",
+          "start": 15.24,
+          "end": 15.56
+        },
+        {
+          "text": "một",
+          "start": 15.56,
+          "end": 15.78
+        },
+        {
+          "text": "căn",
+          "start": 15.78,
+          "end": 15.94
+        },
+        {
+          "text": "nhà",
+          "start": 15.94,
+          "end": 16.18
+        },
+        {
+          "text": "trị",
+          "start": 16.18,
+          "end": 16.4
+        },
+        {
+          "text": "giá",
+          "start": 16.4,
+          "end": 16.68
+        },
+        {
+          "text": "2,5",
+          "start": 16.68,
+          "end": 17.24
+        },
+        {
+          "text": "tỷ,",
+          "start": 17.24,
+          "end": 17.54
+        },
+        {
+          "text": "300",
+          "start": 17.98,
+          "end": 18.22
+        },
+        {
+          "text": "triệu",
+          "start": 18.22,
+          "end": 18.58
+        },
+        {
+          "text": "tiền",
+          "start": 18.58,
+          "end": 18.76
+        },
+        {
+          "text": "vàng",
+          "start": 18.76,
+          "end": 19.14
+        },
+        {
+          "text": "và",
+          "start": 19.14,
+          "end": 19.28
+        },
+        {
+          "text": "200",
+          "start": 19.28,
+          "end": 19.58
+        },
+        {
+          "text": "triệu",
+          "start": 19.58,
+          "end": 19.9
+        },
+        {
+          "text": "cổ",
+          "start": 19.9,
+          "end": 20.08
+        },
+        {
+          "text": "phiếu.",
+          "start": 20.08,
+          "end": 20.42
+        },
+        {
+          "text": "Tổng",
+          "start": 20.98,
+          "end": 21.26
+        },
+        {
+          "text": "tài",
+          "start": 21.26,
+          "end": 21.4
+        },
+        {
+          "text": "sản",
+          "start": 21.4,
+          "end": 21.64
+        },
+        {
+          "text": "là",
+          "start": 21.64,
+          "end": 21.78
+        },
+        {
+          "text": "3",
+          "start": 21.78,
+          "end": 22.04
+        },
+        {
+          "text": "tỷ.",
+          "start": 22.04,
+          "end": 22.26
+        },
+        {
+          "text": "Nhưng",
+          "start": 22.72,
+          "end": 22.9
+        },
+        {
+          "text": "bất",
+          "start": 22.9,
+          "end": 23.12
+        },
+        {
+          "text": "ngờ",
+          "start": 23.12,
+          "end": 23.36
+        },
+        {
+          "text": "gia",
+          "start": 23.36,
+          "end": 23.54
+        },
+        {
+          "text": "đình",
+          "start": 23.54,
+          "end": 23.7
+        },
+        {
+          "text": "cần",
+          "start": 23.7,
+          "end": 23.92
+        },
+        {
+          "text": "200",
+          "start": 23.92,
+          "end": 24.34
+        },
+        {
+          "text": "triệu",
+          "start": 24.34,
+          "end": 24.74
+        },
+        {
+          "text": "để",
+          "start": 24.74,
+          "end": 24.9
+        },
+        {
+          "text": "giải",
+          "start": 24.9,
+          "end": 25.08
+        },
+        {
+          "text": "quyết",
+          "start": 25.08,
+          "end": 25.3
+        },
+        {
+          "text": "một",
+          "start": 25.3,
+          "end": 25.42
+        },
+        {
+          "text": "việc",
+          "start": 25.42,
+          "end": 25.6
+        },
+        {
+          "text": "khẩn",
+          "start": 25.6,
+          "end": 25.82
+        },
+        {
+          "text": "cấp.",
+          "start": 25.82,
+          "end": 26.04
+        },
+        {
+          "text": "Nhà",
+          "start": 26.5,
+          "end": 26.94
+        },
+        {
+          "text": "thì",
+          "start": 26.94,
+          "end": 27.1
+        },
+        {
+          "text": "không",
+          "start": 27.1,
+          "end": 27.28
+        },
+        {
+          "text": "thể",
+          "start": 27.28,
+          "end": 27.44
+        },
+        {
+          "text": "bán",
+          "start": 27.44,
+          "end": 27.6
+        },
+        {
+          "text": "ngay,",
+          "start": 27.6,
+          "end": 27.9
+        },
+        {
+          "text": "vàng",
+          "start": 27.9,
+          "end": 28.56
+        },
+        {
+          "text": "có",
+          "start": 28.56,
+          "end": 28.66
+        },
+        {
+          "text": "thể",
+          "start": 28.66,
+          "end": 28.8
+        },
+        {
+          "text": "đang",
+          "start": 28.8,
+          "end": 28.98
+        },
+        {
+          "text": "lỗ",
+          "start": 28.98,
+          "end": 29.22
+        },
+        {
+          "text": "nếu",
+          "start": 29.22,
+          "end": 29.52
+        },
+        {
+          "text": "bán",
+          "start": 29.52,
+          "end": 29.72
+        },
+        {
+          "text": "lúc",
+          "start": 29.72,
+          "end": 29.9
+        },
+        {
+          "text": "này,",
+          "start": 29.9,
+          "end": 30.14
+        },
+        {
+          "text": "cổ",
+          "start": 30.7,
+          "end": 30.86
+        },
+        {
+          "text": "phiếu",
+          "start": 30.86,
+          "end": 31.16
+        },
+        {
+          "text": "thì",
+          "start": 31.16,
+          "end": 31.36
+        },
+        {
+          "text": "có",
+          "start": 31.36,
+          "end": 31.56
+        },
+        {
+          "text": "thể",
+          "start": 31.56,
+          "end": 31.74
+        },
+        {
+          "text": "đang",
+          "start": 31.74,
+          "end": 31.96
+        },
+        {
+          "text": "giảm",
+          "start": 31.96,
+          "end": 32.18
+        },
+        {
+          "text": "sâu.",
+          "start": 32.18,
+          "end": 32.48
+        },
+        {
+          "text": "Vậy",
+          "start": 32.92,
+          "end": 33.24
+        },
+        {
+          "text": "tiền",
+          "start": 33.24,
+          "end": 33.48
+        },
+        {
+          "text": "đâu",
+          "start": 33.48,
+          "end": 33.66
+        },
+        {
+          "text": "để",
+          "start": 33.66,
+          "end": 33.82
+        },
+        {
+          "text": "sử",
+          "start": 33.82,
+          "end": 33.98
+        },
+        {
+          "text": "dụng?",
+          "start": 33.98,
+          "end": 34.3
+        }
+      ]
+    },
+    {
+      "id": "analysis",
+      "text": "Đây chính là sự khác biệt giữa GIÀU CÓ và KHẢ NĂNG TÀI CHÍNH. Có tài sản không đồng nghĩa với có tiền mặt. Một người có 3 tỷ tài sản nhưng không có quỹ dự phòng đôi khi còn dễ rơi vào khủng hoảng hơn người có ít tài sản nhưng dòng tiền ổn định. Vì vậy, quản lý tài chính không chỉ là làm sao để kiếm được nhiều tiền hơn, mà còn phải biết giữ tiền và đảm bảo khả năng thanh khoản.",
+      "words": [
+        {
+          "text": "Đây",
+          "start": 34.66,
+          "end": 34.82
+        },
+        {
+          "text": "chính",
+          "start": 34.82,
+          "end": 35.08
+        },
+        {
+          "text": "là",
+          "start": 35.08,
+          "end": 35.28
+        },
+        {
+          "text": "sự",
+          "start": 35.28,
+          "end": 35.42
+        },
+        {
+          "text": "khác",
+          "start": 35.42,
+          "end": 35.6
+        },
+        {
+          "text": "biệt",
+          "start": 35.6,
+          "end": 35.86
+        },
+        {
+          "text": "giữa",
+          "start": 35.86,
+          "end": 36.09
+        },
+        {
+          "text": "GIÀU",
+          "start": 36.09,
+          "end": 36.32
+        },
+        {
+          "text": "CÓ",
+          "start": 36.32,
+          "end": 36.66
+        },
+        {
+          "text": "và",
+          "start": 36.66,
+          "end": 36.9
+        },
+        {
+          "text": "KHẢ",
+          "start": 36.9,
+          "end": 37.12
+        },
+        {
+          "text": "NĂNG",
+          "start": 37.12,
+          "end": 37.4
+        },
+        {
+          "text": "TÀI",
+          "start": 37.4,
+          "end": 37.64
+        },
+        {
+          "text": "CHÍNH.",
+          "start": 37.64,
+          "end": 37.9
+        },
+        {
+          "text": "Có",
+          "start": 38.78,
+          "end": 39.22
+        },
+        {
+          "text": "tài",
+          "start": 39.22,
+          "end": 39.4
+        },
+        {
+          "text": "sản",
+          "start": 39.4,
+          "end": 39.64
+        },
+        {
+          "text": "không",
+          "start": 39.64,
+          "end": 39.88
+        },
+        {
+          "text": "đồng",
+          "start": 39.88,
+          "end": 40.08
+        },
+        {
+          "text": "nghĩa",
+          "start": 40.08,
+          "end": 40.34
+        },
+        {
+          "text": "với",
+          "start": 40.34,
+          "end": 40.42
+        },
+        {
+          "text": "có",
+          "start": 40.42,
+          "end": 40.6
+        },
+        {
+          "text": "tiền",
+          "start": 40.6,
+          "end": 40.78
+        },
+        {
+          "text": "mặt.",
+          "start": 40.78,
+          "end": 40.98
+        },
+        {
+          "text": "Một",
+          "start": 41.84,
+          "end": 42.0
+        },
+        {
+          "text": "người",
+          "start": 42.0,
+          "end": 42.2
+        },
+        {
+          "text": "có",
+          "start": 42.2,
+          "end": 42.38
+        },
+        {
+          "text": "3",
+          "start": 42.38,
+          "end": 42.58
+        },
+        {
+          "text": "tỷ",
+          "start": 42.58,
+          "end": 42.74
+        },
+        {
+          "text": "tài",
+          "start": 42.74,
+          "end": 42.92
+        },
+        {
+          "text": "sản",
+          "start": 42.92,
+          "end": 43.22
+        },
+        {
+          "text": "nhưng",
+          "start": 43.22,
+          "end": 43.48
+        },
+        {
+          "text": "không",
+          "start": 43.48,
+          "end": 43.66
+        },
+        {
+          "text": "có",
+          "start": 43.66,
+          "end": 43.84
+        },
+        {
+          "text": "quỹ",
+          "start": 43.84,
+          "end": 44.02
+        },
+        {
+          "text": "dự",
+          "start": 44.02,
+          "end": 44.18
+        },
+        {
+          "text": "phòng",
+          "start": 44.18,
+          "end": 44.46
+        },
+        {
+          "text": "đôi",
+          "start": 45.06,
+          "end": 45.16
+        },
+        {
+          "text": "khi",
+          "start": 45.16,
+          "end": 45.34
+        },
+        {
+          "text": "còn",
+          "start": 45.34,
+          "end": 45.52
+        },
+        {
+          "text": "dễ",
+          "start": 45.52,
+          "end": 45.74
+        },
+        {
+          "text": "rơi",
+          "start": 45.74,
+          "end": 45.91
+        },
+        {
+          "text": "vào",
+          "start": 45.91,
+          "end": 46.08
+        },
+        {
+          "text": "khủng",
+          "start": 46.08,
+          "end": 46.34
+        },
+        {
+          "text": "hoảng",
+          "start": 46.34,
+          "end": 46.5
+        },
+        {
+          "text": "hơn",
+          "start": 46.5,
+          "end": 46.78
+        },
+        {
+          "text": "người",
+          "start": 47.34,
+          "end": 47.58
+        },
+        {
+          "text": "có",
+          "start": 47.58,
+          "end": 47.78
+        },
+        {
+          "text": "ít",
+          "start": 47.78,
+          "end": 47.96
+        },
+        {
+          "text": "tài",
+          "start": 47.96,
+          "end": 48.14
+        },
+        {
+          "text": "sản",
+          "start": 48.14,
+          "end": 48.44
+        },
+        {
+          "text": "nhưng",
+          "start": 48.44,
+          "end": 48.74
+        },
+        {
+          "text": "dòng",
+          "start": 48.74,
+          "end": 48.96
+        },
+        {
+          "text": "tiền",
+          "start": 48.96,
+          "end": 49.18
+        },
+        {
+          "text": "ổn",
+          "start": 49.18,
+          "end": 49.42
+        },
+        {
+          "text": "định.",
+          "start": 49.42,
+          "end": 49.62
+        },
+        {
+          "text": "Vì",
+          "start": 50.5,
+          "end": 50.84
+        },
+        {
+          "text": "vậy,",
+          "start": 50.84,
+          "end": 51.06
+        },
+        {
+          "text": "quản",
+          "start": 51.3,
+          "end": 51.36
+        },
+        {
+          "text": "lý",
+          "start": 51.36,
+          "end": 51.5
+        },
+        {
+          "text": "tài",
+          "start": 51.5,
+          "end": 51.7
+        },
+        {
+          "text": "chính",
+          "start": 51.7,
+          "end": 51.92
+        },
+        {
+          "text": "không",
+          "start": 51.92,
+          "end": 52.2
+        },
+        {
+          "text": "chỉ",
+          "start": 52.2,
+          "end": 52.44
+        },
+        {
+          "text": "là",
+          "start": 52.44,
+          "end": 52.58
+        },
+        {
+          "text": "làm",
+          "start": 52.58,
+          "end": 52.8
+        },
+        {
+          "text": "sao",
+          "start": 52.8,
+          "end": 53.06
+        },
+        {
+          "text": "để",
+          "start": 53.06,
+          "end": 53.26
+        },
+        {
+          "text": "kiếm",
+          "start": 53.26,
+          "end": 53.44
+        },
+        {
+          "text": "được",
+          "start": 53.44,
+          "end": 53.6
+        },
+        {
+          "text": "nhiều",
+          "start": 53.6,
+          "end": 53.74
+        },
+        {
+          "text": "tiền",
+          "start": 53.74,
+          "end": 54.0
+        },
+        {
+          "text": "hơn,",
+          "start": 54.0,
+          "end": 54.26
+        },
+        {
+          "text": "mà",
+          "start": 54.26,
+          "end": 54.78
+        },
+        {
+          "text": "còn",
+          "start": 54.78,
+          "end": 55.0
+        },
+        {
+          "text": "phải",
+          "start": 55.0,
+          "end": 55.18
+        },
+        {
+          "text": "biết",
+          "start": 55.18,
+          "end": 55.32
+        },
+        {
+          "text": "giữ",
+          "start": 55.32,
+          "end": 55.54
+        },
+        {
+          "text": "tiền",
+          "start": 55.54,
+          "end": 55.82
+        },
+        {
+          "text": "và",
+          "start": 55.82,
+          "end": 56.14
+        },
+        {
+          "text": "đảm",
+          "start": 56.14,
+          "end": 56.34
+        },
+        {
+          "text": "bảo",
+          "start": 56.34,
+          "end": 56.52
+        },
+        {
+          "text": "khả",
+          "start": 56.52,
+          "end": 56.76
+        },
+        {
+          "text": "năng",
+          "start": 56.76,
+          "end": 56.98
+        },
+        {
+          "text": "thanh",
+          "start": 56.98,
+          "end": 57.16
+        },
+        {
+          "text": "khoản.",
+          "start": 57.16,
+          "end": 57.42
+        }
+      ]
+    },
+    {
+      "id": "solution",
+      "text": "3 bước để quản lý tài chính thật tốt. Một. Luôn xây dựng quỹ dự phòng khoảng 3–6 tháng chi phí thiết yếu, tùy hoàn cảnh. Hai. Không đầu tư toàn bộ tiền nhàn rỗi vào những tài sản khó bán. Ba. Trước khi đầu tư, hãy xác định rõ khi nào bạn cần sử dụng số tiền đó.",
+      "words": [
+        {
+          "text": "3",
+          "start": 57.94,
+          "end": 58.16
+        },
+        {
+          "text": "bước",
+          "start": 58.16,
+          "end": 58.38
+        },
+        {
+          "text": "để",
+          "start": 58.38,
+          "end": 58.58
+        },
+        {
+          "text": "quản",
+          "start": 58.58,
+          "end": 58.74
+        },
+        {
+          "text": "lý",
+          "start": 58.74,
+          "end": 58.88
+        },
+        {
+          "text": "tài",
+          "start": 58.88,
+          "end": 59.04
+        },
+        {
+          "text": "chính",
+          "start": 59.04,
+          "end": 59.22
+        },
+        {
+          "text": "thật",
+          "start": 59.22,
+          "end": 59.4
+        },
+        {
+          "text": "tốt.",
+          "start": 59.4,
+          "end": 59.68
+        },
+        {
+          "text": "Một.",
+          "start": 60.18,
+          "end": 60.58
+        },
+        {
+          "text": "Luôn",
+          "start": 61.32,
+          "end": 61.4
+        },
+        {
+          "text": "xây",
+          "start": 61.4,
+          "end": 61.56
+        },
+        {
+          "text": "dựng",
+          "start": 61.56,
+          "end": 61.8
+        },
+        {
+          "text": "quỹ",
+          "start": 61.8,
+          "end": 61.94
+        },
+        {
+          "text": "dự",
+          "start": 61.94,
+          "end": 62.06
+        },
+        {
+          "text": "phòng",
+          "start": 62.06,
+          "end": 62.3
+        },
+        {
+          "text": "khoảng",
+          "start": 62.3,
+          "end": 62.56
+        },
+        {
+          "text": "3–6",
+          "start": 62.56,
+          "end": 63.16
+        },
+        {
+          "text": "tháng",
+          "start": 63.16,
+          "end": 63.46
+        },
+        {
+          "text": "chi",
+          "start": 63.94,
+          "end": 64.0
+        },
+        {
+          "text": "phí",
+          "start": 64.0,
+          "end": 64.2
+        },
+        {
+          "text": "thiết",
+          "start": 64.2,
+          "end": 64.36
+        },
+        {
+          "text": "yếu,",
+          "start": 64.36,
+          "end": 64.64
+        },
+        {
+          "text": "tùy",
+          "start": 64.64,
+          "end": 64.88
+        },
+        {
+          "text": "hoàn",
+          "start": 64.88,
+          "end": 65.06
+        },
+        {
+          "text": "cảnh.",
+          "start": 65.06,
+          "end": 65.32
+        },
+        {
+          "text": "Hai.",
+          "start": 66.18,
+          "end": 66.58
+        },
+        {
+          "text": "Không",
+          "start": 67.08,
+          "end": 67.16
+        },
+        {
+          "text": "đầu",
+          "start": 67.16,
+          "end": 67.36
+        },
+        {
+          "text": "tư",
+          "start": 67.36,
+          "end": 67.56
+        },
+        {
+          "text": "toàn",
+          "start": 67.56,
+          "end": 67.78
+        },
+        {
+          "text": "bộ",
+          "start": 67.78,
+          "end": 67.94
+        },
+        {
+          "text": "tiền",
+          "start": 67.94,
+          "end": 68.14
+        },
+        {
+          "text": "nhàn",
+          "start": 68.14,
+          "end": 68.32
+        },
+        {
+          "text": "rỗi",
+          "start": 68.32,
+          "end": 68.56
+        },
+        {
+          "text": "vào",
+          "start": 68.56,
+          "end": 68.74
+        },
+        {
+          "text": "những",
+          "start": 68.74,
+          "end": 68.88
+        },
+        {
+          "text": "tài",
+          "start": 68.88,
+          "end": 69.08
+        },
+        {
+          "text": "sản",
+          "start": 69.08,
+          "end": 69.26
+        },
+        {
+          "text": "khó",
+          "start": 69.26,
+          "end": 69.46
+        },
+        {
+          "text": "bán.",
+          "start": 69.46,
+          "end": 69.7
+        },
+        {
+          "text": "Ba.",
+          "start": 70.6,
+          "end": 71.0
+        },
+        {
+          "text": "Trước",
+          "start": 71.54,
+          "end": 71.62
+        },
+        {
+          "text": "khi",
+          "start": 71.62,
+          "end": 71.74
+        },
+        {
+          "text": "đầu",
+          "start": 71.74,
+          "end": 71.9
+        },
+        {
+          "text": "tư,",
+          "start": 71.9,
+          "end": 72.18
+        },
+        {
+          "text": "hãy",
+          "start": 72.56,
+          "end": 72.66
+        },
+        {
+          "text": "xác",
+          "start": 72.66,
+          "end": 72.82
+        },
+        {
+          "text": "định",
+          "start": 72.82,
+          "end": 73.02
+        },
+        {
+          "text": "rõ",
+          "start": 73.02,
+          "end": 73.22
+        },
+        {
+          "text": "khi",
+          "start": 73.22,
+          "end": 73.4
+        },
+        {
+          "text": "nào",
+          "start": 73.4,
+          "end": 73.58
+        },
+        {
+          "text": "bạn",
+          "start": 73.58,
+          "end": 73.74
+        },
+        {
+          "text": "cần",
+          "start": 73.74,
+          "end": 73.92
+        },
+        {
+          "text": "sử",
+          "start": 73.92,
+          "end": 74.08
+        },
+        {
+          "text": "dụng",
+          "start": 74.08,
+          "end": 74.26
+        },
+        {
+          "text": "số",
+          "start": 74.26,
+          "end": 74.38
+        },
+        {
+          "text": "tiền",
+          "start": 74.38,
+          "end": 74.6
+        },
+        {
+          "text": "đó.",
+          "start": 74.6,
+          "end": 74.84
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "text": "Bạn chọn phương án nào: có 3 tỷ tài sản nhưng không có tiền mặt, hay có 1 tỷ tài sản nhưng luôn chủ động về dòng tiền? Hãy bình luận bên dưới. Tôi muốn biết quan điểm của bạn!",
+      "words": [
+        {
+          "text": "Bạn",
+          "start": 75.48,
+          "end": 75.66
+        },
+        {
+          "text": "chọn",
+          "start": 75.66,
+          "end": 75.88
+        },
+        {
+          "text": "phương",
+          "start": 75.88,
+          "end": 76.06
+        },
+        {
+          "text": "án",
+          "start": 76.06,
+          "end": 76.24
+        },
+        {
+          "text": "nào:",
+          "start": 76.24,
+          "end": 76.46
+        },
+        {
+          "text": "có",
+          "start": 77.4,
+          "end": 77.58
+        },
+        {
+          "text": "3",
+          "start": 77.58,
+          "end": 77.76
+        },
+        {
+          "text": "tỷ",
+          "start": 77.76,
+          "end": 77.94
+        },
+        {
+          "text": "tài",
+          "start": 77.94,
+          "end": 78.1
+        },
+        {
+          "text": "sản",
+          "start": 78.1,
+          "end": 78.42
+        },
+        {
+          "text": "nhưng",
+          "start": 78.42,
+          "end": 78.78
+        },
+        {
+          "text": "không",
+          "start": 78.78,
+          "end": 78.98
+        },
+        {
+          "text": "có",
+          "start": 78.98,
+          "end": 79.12
+        },
+        {
+          "text": "tiền",
+          "start": 79.12,
+          "end": 79.28
+        },
+        {
+          "text": "mặt,",
+          "start": 79.28,
+          "end": 79.5
+        },
+        {
+          "text": "hay",
+          "start": 80.08,
+          "end": 80.28
+        },
+        {
+          "text": "có",
+          "start": 80.28,
+          "end": 80.44
+        },
+        {
+          "text": "1",
+          "start": 80.44,
+          "end": 80.6
+        },
+        {
+          "text": "tỷ",
+          "start": 80.6,
+          "end": 80.76
+        },
+        {
+          "text": "tài",
+          "start": 80.76,
+          "end": 80.92
+        },
+        {
+          "text": "sản",
+          "start": 80.92,
+          "end": 81.22
+        },
+        {
+          "text": "nhưng",
+          "start": 81.22,
+          "end": 81.58
+        },
+        {
+          "text": "luôn",
+          "start": 81.58,
+          "end": 81.8
+        },
+        {
+          "text": "chủ",
+          "start": 81.8,
+          "end": 82.0
+        },
+        {
+          "text": "động",
+          "start": 82.0,
+          "end": 82.16
+        },
+        {
+          "text": "về",
+          "start": 82.16,
+          "end": 82.32
+        },
+        {
+          "text": "dòng",
+          "start": 82.32,
+          "end": 82.48
+        },
+        {
+          "text": "tiền?",
+          "start": 82.48,
+          "end": 82.78
+        },
+        {
+          "text": "Hãy",
+          "start": 83.66,
+          "end": 84.06
+        },
+        {
+          "text": "bình",
+          "start": 84.06,
+          "end": 84.2
+        },
+        {
+          "text": "luận",
+          "start": 84.2,
+          "end": 84.42
+        },
+        {
+          "text": "bên",
+          "start": 84.42,
+          "end": 84.56
+        },
+        {
+          "text": "dưới.",
+          "start": 84.56,
+          "end": 84.94
+        },
+        {
+          "text": "Tôi",
+          "start": 85.44,
+          "end": 85.64
+        },
+        {
+          "text": "muốn",
+          "start": 85.64,
+          "end": 85.82
+        },
+        {
+          "text": "biết",
+          "start": 85.82,
+          "end": 85.98
+        },
+        {
+          "text": "quan",
+          "start": 85.98,
+          "end": 86.18
+        },
+        {
+          "text": "điểm",
+          "start": 86.18,
+          "end": 86.4
+        },
+        {
+          "text": "của",
+          "start": 86.4,
+          "end": 86.54
+        },
+        {
+          "text": "bạn!",
+          "start": 86.54,
+          "end": 86.68
+        }
+      ]
+    }
+  ]
+}

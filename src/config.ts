@@ -1,29 +1,37 @@
+import recording1106 from './data/1106-alignment.json';
+import type { AlignedRecording } from './timing';
+
 export const VIDEO = {
   fps: 30,
-  durationInFrames: 1800,
   width: 1080,
   height: 1920,
 } as const;
 
-export const TIMELINE = [
-  { id: 'hook', from: 0, duration: 5 },
-  { id: 'situation', from: 5, duration: 15 },
-  { id: 'analysis', from: 20, duration: 20 },
-  { id: 'solution', from: 40, duration: 15 },
-  { id: 'cta', from: 55, duration: 5 },
-] as const;
+export const SCENE_IDS = ['hook', 'situation', 'analysis', 'solution', 'cta'] as const;
 
 export type AssetKind = 'home' | 'gold' | 'stock';
 export type VideoProps = {
   brand: string;
   series: string;
   showCaptions: boolean;
+  timing: {
+    audioDurationSeconds: number;
+    recording: AlignedRecording | null;
+    syllablesPerSecond: number;
+    commaPauseSeconds: number;
+    sentencePauseSeconds: number;
+    leadInSeconds: number;
+    tailSeconds: number;
+    markers: Record<string, string>[];
+  };
   theme: {
     background: string;
     panel: string;
     text: string;
     muted: string;
     accent: string;
+    highlight: string;
+    onAccent: string;
     danger: string;
     gold: string;
   };
@@ -79,16 +87,51 @@ export const defaultProps: VideoProps = {
   brand: 'TIỀN & TƯƠNG LAI',
   series: 'GÓC NHÌN TÀI CHÍNH / 01',
   showCaptions: true,
-  theme: {
-    background: '#091614',
-    panel: '#142724',
-    text: '#F3F3E9',
-    muted: '#A0B4AA',
-    accent: '#C1F581',
-    danger: '#FF8A79',
-    gold: '#EACB83',
+  timing: {
+    audioDurationSeconds: recording1106.durationSeconds,
+    recording: recording1106,
+    syllablesPerSecond: 4.2,
+    commaPauseSeconds: 0.16,
+    sentencePauseSeconds: 0.35,
+    leadInSeconds: 0.35,
+    tailSeconds: 0.7,
+    markers: [
+      { bridge: 'nhưng nếu ngày mai', urgent: '200 triệu', question: 'bạn có chắc' },
+      {
+        home: 'một căn nhà',
+        gold: '300 triệu tiền vàng',
+        stock: '200 triệu cổ phiếu',
+        total: 'Tổng tài sản',
+        emergency: 'Nhưng bất ngờ',
+        homeRisk: 'Nhà thì không thể',
+        goldRisk: 'vàng có thể',
+        stockRisk: 'cổ phiếu thì có thể',
+        question: 'Vậy tiền đâu',
+      },
+      {
+        wealth: 'GIÀU CÓ',
+        liquidity: 'KHẢ NĂNG TÀI CHÍNH',
+        equation: 'Có tài sản không đồng nghĩa',
+        crisis: 'Một người có 3 tỷ',
+        stable: 'người có ít tài sản',
+        pillars: 'Vì vậy, quản lý tài chính',
+      },
+      { step1: 'Một.', step2: 'Hai.', step3: 'Ba.' },
+      { choiceA: 'có 3 tỷ', choiceB: 'có 1 tỷ', action: 'Hãy bình luận' },
+    ],
   },
-  audio: { voiceover: '', music: '', musicVolume: 0.1 },
+  theme: {
+    background: '#10091F',
+    panel: '#231138',
+    text: '#FBF7FF',
+    muted: '#BBA8D0',
+    accent: '#8229e3',
+    highlight: '#DFBEFF',
+    onAccent: '#FFFFFF',
+    danger: '#FF8DB7',
+    gold: '#D6AFF3',
+  },
+  audio: { voiceover: recording1106.audioSrc, music: '', musicVolume: 0.1 },
   copy: {
     sections: ['NGHỊCH LÝ', 'TÌNH HUỐNG', 'BẢN CHẤT', 'GIẢI PHÁP', 'LỰA CHỌN'],
     hook: {

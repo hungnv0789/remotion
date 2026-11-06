@@ -1,47 +1,45 @@
-import { useMemo, type FC } from 'react';
-import { interpolate, useCurrentFrame, useVideoConfig } from 'remotion';
-import { TIMELINE, type VideoProps } from '../config';
+import type { FC } from 'react';
+import { interpolate, useCurrentFrame } from 'remotion';
+import type { VideoProps } from '../config';
+import type { SceneTiming, SpokenWord } from '../timing';
 import { CLAMP } from './UI';
 
 export type CaptionCue = { start: number; end: number; text: string };
 
-// Chia nguyên văn lời dẫn thành các cụm dễ đọc, không làm mất từ.
-// Timeline ước lượng theo số từ; căn lại nếu thêm bản thu thật.
-export const buildCaptionCues = (narration: string[], fps: number): CaptionCue[] =>
-  TIMELINE.flatMap((scene, index) => {
-    const words = (narration[index] ?? '').trim().split(/\s+/).filter(Boolean);
-    if (words.length === 0) return [];
-    const groups: string[][] = [];
-    let group: string[] = [];
-    for (const word of words) {
-      if (group.length && [...group, word].join(' ').length > 85) {
+// Phụ đề dùng timestamp cùng nguồn với các marker animation.
+export const buildCaptionCues = (timeline: SceneTiming[]): CaptionCue[] =>
+  timeline.flatMap((scene) => {
+    const groups: SpokenWord[][] = [];
+    let group: SpokenWord[] = [];
+    for (const word of scene.words) {
+      if (group.length && [...group, word].map((item) => item.text).join(' ').length > 85) {
         groups.push(group);
         group = [];
       }
       group.push(word);
+      if (
+        /[.!?…]["”')]*$/.test(word.text) &&
+        group.map((item) => item.text).join(' ').length >= 35
+      ) {
+        groups.push(group);
+        group = [];
+      }
     }
     if (group.length) groups.push(group);
-    let consumed = 0;
-    const start = Math.round(scene.from * fps);
-    const duration = Math.round(scene.duration * fps);
-    return groups.map((chunk) => {
-      const cueStart = start + Math.round((consumed / words.length) * duration);
-      consumed += chunk.length;
-      return {
-        start: cueStart,
-        end: start + Math.round((consumed / words.length) * duration),
-        text: chunk.join(' '),
-      };
-    });
+    return groups.map((chunk, index) => ({
+      start: scene.from + chunk[0].from,
+      end:
+        scene.from +
+        (index === groups.length - 1 ? scene.durationInFrames : groups[index + 1][0].from),
+      text: chunk.map((word) => word.text).join(' '),
+    }));
   });
 
-export const Captions: FC<{ narration: string[]; theme: VideoProps['theme'] }> = ({
-  narration,
+export const Captions: FC<{ cues: CaptionCue[]; theme: VideoProps['theme'] }> = ({
+  cues,
   theme,
 }) => {
   const frame = useCurrentFrame();
-  const { fps } = useVideoConfig();
-  const cues = useMemo(() => buildCaptionCues(narration, fps), [narration, fps]);
   const cue = cues.find(({ start, end }) => frame >= start && frame < end);
   if (!cue) return null;
   return (
@@ -58,7 +56,7 @@ export const Captions: FC<{ narration: string[]; theme: VideoProps['theme'] }> =
         alignItems: 'center',
         justifyContent: 'center',
         textAlign: 'center',
-        background: '#06100ff0',
+        background: `${theme.background}f0`,
         border: '1px solid #ffffff18',
         borderRadius: 22,
         fontSize: 33,

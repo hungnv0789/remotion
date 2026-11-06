@@ -5,15 +5,13 @@ import type { AssetKind, VideoProps } from '../config';
 export const CLAMP = { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' } as const;
 export type Theme = VideoProps['theme'];
 
-export const Reveal: FC<PropsWithChildren<{ delay?: number; style?: CSSProperties }>> = ({
-  children,
-  delay = 0,
-  style,
-}) => {
+export const Reveal: FC<
+  PropsWithChildren<{ delay?: number; delayFrames?: number; style?: CSSProperties }>
+> = ({ children, delay = 0, delayFrames, style }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const progress = spring({
-    frame: frame - delay * fps,
+    frame: frame - (delayFrames ?? delay * fps),
     fps,
     config: { damping: 22, stiffness: 115, mass: 0.8 },
   });
@@ -118,18 +116,17 @@ export const Icon: FC<{ kind: AssetKind | 'wallet' | 'arrow'; color: string; siz
 
 export const SceneShell: FC<
   PropsWithChildren<{
-    duration: number;
+    durationInFrames: number;
     index: number;
     label: string;
     theme: Theme;
   }>
-> = ({ children, duration, index, label, theme }) => {
+> = ({ children, durationInFrames, index, label, theme }) => {
   const frame = useCurrentFrame();
-  const { fps } = useVideoConfig();
-  // Giữ nguyên mốc 0/5/20/40/55s; fade-through-background trong 8 frame.
+  // Thời điểm chuyển cảnh lấy từ bản thu; fade qua nền chung trong 8 frame.
   const opacity = interpolate(
     frame,
-    [0, 8, duration * fps - 9, duration * fps - 1],
+    [0, 8, durationInFrames - 9, durationInFrames - 1],
     [0, 1, 1, 0],
     CLAMP,
   );
@@ -153,7 +150,7 @@ export const SceneShell: FC<
             gap: 18,
             alignItems: 'center',
             marginBottom: 36,
-            color: theme.accent,
+            color: theme.highlight,
             fontSize: 22,
             fontWeight: 700,
             letterSpacing: 3,

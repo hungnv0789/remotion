@@ -1,12 +1,14 @@
 import type { FC } from 'react';
-import { interpolate, useCurrentFrame, useVideoConfig } from 'remotion';
-import type { VideoProps } from '../config';
+import { interpolate, useCurrentFrame } from 'remotion';
+import { cue, type SceneProps } from '../timing';
 import { CLAMP, Panel, Reveal, Title } from '../components/UI';
 
-export const SolutionScene: FC<VideoProps> = ({ theme, copy }) => {
+export const SolutionScene: FC<SceneProps> = ({ theme, copy, scene }) => {
   const frame = useCurrentFrame();
-  const { fps } = useVideoConfig();
-  const active = Math.min(2, Math.floor(frame / (5 * fps)));
+  const starts = copy.solution.steps.map((_, index) =>
+    cue(scene, `step${index + 1}`, index / Math.max(1, copy.solution.steps.length)),
+  );
+  const active = starts.reduce((selected, start, index) => (frame >= start ? index : selected), -1);
   return (
     <>
       <Reveal>
@@ -17,12 +19,12 @@ export const SolutionScene: FC<VideoProps> = ({ theme, copy }) => {
           const selected = active === index;
           const progress = interpolate(
             frame,
-            [index * 5 * fps, (index + 1) * 5 * fps - 1],
+            [starts[index], Math.max(starts[index] + 1, (starts[index + 1] ?? scene.speechTo) - 1)],
             [0, 100],
             CLAMP,
           );
           return (
-            <Reveal key={step.title} delay={index * 0.18}>
+            <Reveal key={step.title} delayFrames={starts[index]}>
               <Panel
                 theme={theme}
                 style={{
@@ -42,7 +44,7 @@ export const SolutionScene: FC<VideoProps> = ({ theme, copy }) => {
                       height: 58,
                       borderRadius: 16,
                       background: selected ? theme.accent : '#ffffff0e',
-                      color: selected ? theme.background : theme.muted,
+                      color: selected ? theme.onAccent : theme.muted,
                       fontSize: 31,
                       fontWeight: 800,
                     }}
@@ -63,7 +65,7 @@ export const SolutionScene: FC<VideoProps> = ({ theme, copy }) => {
                         display: 'inline-block',
                         padding: '8px 12px',
                         borderRadius: 7,
-                        color: theme.accent,
+                        color: theme.highlight,
                         background: `${theme.accent}0e`,
                         marginTop: 16,
                         fontSize: 20,

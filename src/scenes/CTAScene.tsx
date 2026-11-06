@@ -1,9 +1,9 @@
 import type { FC } from 'react';
 import { useCurrentFrame, useVideoConfig } from 'remotion';
-import type { VideoProps } from '../config';
+import { cue, type SceneProps } from '../timing';
 import { Icon, Panel, Reveal, Title } from '../components/UI';
 
-export const CTAScene: FC<VideoProps> = ({ theme, copy }) => {
+export const CTAScene: FC<SceneProps> = ({ theme, copy, scene }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const pulse = 1 + Math.sin((frame / fps) * Math.PI * 2) * 0.012;
@@ -14,7 +14,10 @@ export const CTAScene: FC<VideoProps> = ({ theme, copy }) => {
       </Reveal>
       <div style={{ display: 'flex', flexDirection: 'column', gap: 22 }}>
         {copy.cta.choices.map((choice, index) => (
-          <Reveal key={choice.label} delay={0.2 + index * 0.25}>
+          <Reveal
+            key={choice.label}
+            delayFrames={cue(scene, index === 0 ? 'choiceA' : 'choiceB', 0.15 + index * 0.35)}
+          >
             <Panel
               theme={theme}
               style={{
@@ -31,7 +34,7 @@ export const CTAScene: FC<VideoProps> = ({ theme, copy }) => {
                     display: 'grid',
                     placeItems: 'center',
                     flexShrink: 0,
-                    color: theme.background,
+                    color: index === 0 ? theme.background : theme.onAccent,
                     background: index === 0 ? theme.danger : theme.accent,
                     fontSize: 33,
                     fontWeight: 800,
@@ -46,7 +49,7 @@ export const CTAScene: FC<VideoProps> = ({ theme, copy }) => {
                       lineHeight: 1.25,
                       fontWeight: 800,
                       letterSpacing: -4,
-                      color: index === 0 ? theme.text : theme.accent,
+                      color: index === 0 ? theme.text : theme.highlight,
                     }}
                   >
                     {choice.amount}
@@ -60,7 +63,7 @@ export const CTAScene: FC<VideoProps> = ({ theme, copy }) => {
           </Reveal>
         ))}
       </div>
-      <Reveal delay={1.05}>
+      <Reveal delayFrames={cue(scene, 'action', 0.75)}>
         <div
           style={{
             transform: `scale(${pulse})`,
@@ -69,7 +72,7 @@ export const CTAScene: FC<VideoProps> = ({ theme, copy }) => {
             justifyContent: 'center',
             alignItems: 'center',
             background: theme.accent,
-            color: theme.background,
+            color: theme.onAccent,
             borderRadius: 20,
             padding: '23px 15px',
             marginTop: 36,
@@ -78,7 +81,7 @@ export const CTAScene: FC<VideoProps> = ({ theme, copy }) => {
           }}
         >
           {copy.cta.action}
-          <Icon kind="arrow" color={theme.background} size={37} />
+          <Icon kind="arrow" color={theme.onAccent} size={37} />
         </div>
         <div style={{ fontSize: 25, color: theme.muted, textAlign: 'center', marginTop: 22 }}>
           {copy.cta.footer}

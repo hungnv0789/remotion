@@ -1,8 +1,8 @@
 import type { FC } from 'react';
-import type { VideoProps } from '../config';
+import { cue, type SceneProps } from '../timing';
 import { Panel, Reveal, Title } from '../components/UI';
 
-export const AnalysisScene: FC<VideoProps> = ({ theme, copy }) => {
+export const AnalysisScene: FC<SceneProps> = ({ theme, copy, scene }) => {
   const data = copy.analysis;
   return (
     <>
@@ -12,9 +12,12 @@ export const AnalysisScene: FC<VideoProps> = ({ theme, copy }) => {
       <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 18 }}>
         {[
           { title: data.wealthTitle, detail: data.wealthDetail, color: theme.gold },
-          { title: data.liquidityTitle, detail: data.liquidityDetail, color: theme.accent },
+          { title: data.liquidityTitle, detail: data.liquidityDetail, color: theme.highlight },
         ].map((item, index) => (
-          <Reveal key={item.title} delay={0.4 + index * 0.5}>
+          <Reveal
+            key={item.title}
+            delayFrames={cue(scene, index === 0 ? 'wealth' : 'liquidity', 0.05 + index * 0.08)}
+          >
             <Panel
               theme={theme}
               style={{ height: 268, boxSizing: 'border-box', borderTop: `3px solid ${item.color}` }}
@@ -45,7 +48,7 @@ export const AnalysisScene: FC<VideoProps> = ({ theme, copy }) => {
           </Reveal>
         ))}
       </div>
-      <Reveal delay={4}>
+      <Reveal delayFrames={cue(scene, 'equation', 0.2)}>
         <div
           style={{
             margin: '28px 0',
@@ -55,7 +58,7 @@ export const AnalysisScene: FC<VideoProps> = ({ theme, copy }) => {
             borderBottom: `1px solid ${theme.accent}55`,
             fontSize: 34,
             fontWeight: 800,
-            color: theme.accent,
+            color: theme.highlight,
             letterSpacing: -1,
           }}
         >
@@ -64,10 +67,13 @@ export const AnalysisScene: FC<VideoProps> = ({ theme, copy }) => {
       </Reveal>
       <div style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
         {data.cards.map((card, index) => (
-          <Reveal key={card.title} delay={8 + index * 4}>
+          <Reveal
+            key={card.title}
+            delayFrames={cue(scene, index === 0 ? 'crisis' : 'stable', 0.35 + index * 0.25)}
+          >
             <div
               style={{
-                borderLeft: `3px solid ${index === 0 ? theme.danger : theme.accent}`,
+                borderLeft: `3px solid ${index === 0 ? theme.danger : theme.highlight}`,
                 paddingLeft: 24,
               }}
             >
@@ -75,7 +81,7 @@ export const AnalysisScene: FC<VideoProps> = ({ theme, copy }) => {
                 style={{
                   fontSize: 29,
                   fontWeight: 700,
-                  color: index === 0 ? theme.danger : theme.accent,
+                  color: index === 0 ? theme.danger : theme.highlight,
                 }}
               >
                 {card.title}
@@ -87,7 +93,7 @@ export const AnalysisScene: FC<VideoProps> = ({ theme, copy }) => {
           </Reveal>
         ))}
       </div>
-      <Reveal delay={16}>
+      <Reveal delayFrames={cue(scene, 'pillars', 0.8)}>
         <div style={{ display: 'flex', gap: 10, marginTop: 35 }}>
           {data.pillars.map((pillar) => (
             <div
@@ -97,7 +103,7 @@ export const AnalysisScene: FC<VideoProps> = ({ theme, copy }) => {
                 padding: '19px 8px',
                 borderRadius: 14,
                 background: theme.accent,
-                color: theme.background,
+                color: theme.onAccent,
                 fontSize: 21,
                 textAlign: 'center',
                 fontWeight: 800,

@@ -1,4 +1,4 @@
-import { useEffect, useState, type FC } from 'react';
+import { useEffect, useMemo, useState, type FC } from 'react';
 import {
   AbsoluteFill,
   Html5Audio,
@@ -21,8 +21,9 @@ import '@fontsource/be-vietnam-pro/latin-700.css';
 import '@fontsource/be-vietnam-pro/vietnamese-700.css';
 import '@fontsource/be-vietnam-pro/latin-800.css';
 import '@fontsource/be-vietnam-pro/vietnamese-800.css';
-import { TIMELINE, type VideoProps } from './config';
-import { Captions } from './components/Captions';
+import type { VideoProps } from './config';
+import { buildTimeline } from './timing';
+import { buildCaptionCues, Captions } from './components/Captions';
 import { CLAMP, SceneShell } from './components/UI';
 import { HookScene } from './scenes/HookScene';
 import { SituationScene } from './scenes/SituationScene';
@@ -33,10 +34,15 @@ import { CTAScene } from './scenes/CTAScene';
 const SCENES = [HookScene, SituationScene, AnalysisScene, SolutionScene, CTAScene] as const;
 const assetSource = (path: string) => (/^https?:\/\//i.test(path) ? path : staticFile(path));
 
+const formatTime = (seconds: number) =>
+  `${Math.floor(seconds / 60)}:${String(Math.floor(seconds % 60)).padStart(2, '0')}`;
+
 export const MainVideo: FC<VideoProps> = (props) => {
   const { theme, brand, series, showCaptions, audio, copy } = props;
   const frame = useCurrentFrame();
   const { fps, durationInFrames, width, height } = useVideoConfig();
+  const timeline = useMemo(() => buildTimeline(props, fps), [props, fps]);
+  const captions = useMemo(() => buildCaptionCues(timeline), [timeline]);
   const [fontHandle] = useState(() => delayRender('Loading Vietnamese typography'));
 
   useEffect(() => {
@@ -86,7 +92,7 @@ export const MainVideo: FC<VideoProps> = (props) => {
             width: 1150,
             height: 1150,
             borderRadius: '50%',
-            background: `radial-gradient(circle, ${theme.accent}15, transparent 67%)`,
+            background: `radial-gradient(circle, ${theme.accent}55, transparent 67%)`,
           }}
         />
         <div
@@ -136,28 +142,28 @@ export const MainVideo: FC<VideoProps> = (props) => {
           </div>
         </div>
 
-        {TIMELINE.map((scene, index) => {
+        {timeline.map((scene, index) => {
           const Scene = SCENES[index];
           return (
             <Sequence
               key={scene.id}
               name={copy.sections[index] ?? scene.id}
-              from={Math.round(scene.from * fps)}
-              durationInFrames={Math.round(scene.duration * fps)}
+              from={scene.from}
+              durationInFrames={scene.durationInFrames}
             >
               <SceneShell
-                duration={scene.duration}
+                durationInFrames={scene.durationInFrames}
                 index={index}
                 label={copy.sections[index] ?? scene.id}
                 theme={theme}
               >
-                <Scene {...props} />
+                <Scene {...props} scene={scene} />
               </SceneShell>
             </Sequence>
           );
         })}
 
-        {showCaptions ? <Captions narration={copy.narration} theme={theme} /> : null}
+        {showCaptions ? <Captions cues={captions} theme={theme} /> : null}
 
         <div
           style={{
@@ -188,8 +194,7 @@ export const MainVideo: FC<VideoProps> = (props) => {
         >
           <div>{series}</div>
           <div>
-            {String(Math.floor(frame / fps)).padStart(2, '0')} /{' '}
-            {Math.round(durationInFrames / fps)}
+            {formatTime(frame / fps)} / {formatTime(durationInFrames / fps)}
           </div>
         </div>
       </div>

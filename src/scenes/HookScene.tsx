@@ -1,13 +1,18 @@
 import type { FC } from 'react';
 import { interpolate, useCurrentFrame, useVideoConfig } from 'remotion';
-import type { VideoProps } from '../config';
+import { cue, type SceneProps } from '../timing';
 import { CLAMP, Icon, Reveal } from '../components/UI';
 
-export const HookScene: FC<VideoProps> = ({ theme, copy }) => {
+export const HookScene: FC<SceneProps> = ({ theme, copy, scene }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const data = copy.hook;
-  const lineWidth = interpolate(frame, [0.8 * fps, 1.6 * fps], [0, 100], CLAMP);
+  const lineWidth = interpolate(
+    frame,
+    [cue(scene, 'urgent', 0.3), cue(scene, 'urgent', 0.3) + 0.5 * fps],
+    [0, 100],
+    CLAMP,
+  );
   return (
     <>
       <Reveal>
@@ -18,7 +23,7 @@ export const HookScene: FC<VideoProps> = ({ theme, copy }) => {
             lineHeight: 1.16,
             fontWeight: 800,
             letterSpacing: -12,
-            color: theme.accent,
+            color: theme.highlight,
           }}
         >
           {data.wealth}
@@ -31,7 +36,7 @@ export const HookScene: FC<VideoProps> = ({ theme, copy }) => {
           <Icon kind="home" color={theme.muted} size={48} />
         </div>
       </Reveal>
-      <Reveal delay={0.65}>
+      <Reveal delayFrames={cue(scene, 'bridge', 0.15)}>
         <div
           style={{
             maxWidth: 680,
@@ -44,7 +49,7 @@ export const HookScene: FC<VideoProps> = ({ theme, copy }) => {
           {data.bridge}
         </div>
       </Reveal>
-      <Reveal delay={1.1}>
+      <Reveal delayFrames={cue(scene, 'urgent', 0.3)}>
         <div style={{ position: 'relative', display: 'inline-block', paddingBottom: 14 }}>
           <div
             style={{
@@ -72,9 +77,9 @@ export const HookScene: FC<VideoProps> = ({ theme, copy }) => {
           {data.urgentLabel}
         </div>
       </Reveal>
-      <Reveal delay={2.35}>
+      <Reveal delayFrames={cue(scene, 'question', 0.45)}>
         <div style={{ display: 'flex', gap: 22, alignItems: 'center', marginTop: 46 }}>
-          <Icon kind="wallet" color={theme.accent} />
+          <Icon kind="wallet" color={theme.highlight} />
           <div style={{ fontSize: 39, fontWeight: 600, lineHeight: 1.4, whiteSpace: 'pre-line' }}>
             {data.question}
           </div>
