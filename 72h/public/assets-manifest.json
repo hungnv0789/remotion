@@ -1,0 +1,50 @@
+[
+  {
+    "publicPath": "images/supplies-box.jpg",
+    "source": "asset/Thực phẩm dự trữ/-cWVfOs0ali2GtSQ6kf31WFCdjYiZKtjJ2BYP_FzLaZamhDHV2ZcQD5qIsSXTDgxIzhaEQZwg1HHIisfCeNWO4EMNcd6DHAgaJO3i3aD21oNvVeG2EWBDONx2gdxCGzrBUrERUiYWYLEI_wPjLaUjzaDwRk5z_XH6y7SXvr0ekc4plgSZpVy7lG5dM4EwcZ.jfif",
+    "width": 2048,
+    "height": 1365
+  },
+  {
+    "publicPath": "images/relief-box.jpg",
+    "source": "asset/Thực phẩm dự trữ/gtX7oCwqxBlPNB2NWsNWBmDTNbguUvxjJBHqdFSq6-7fKjxC4WTYhZ1OryUq2A_4qtRcchzqxnOuUK0z6M21c4_8-J8EKh1ZIquywLmwzTHh5Z6CAHojEiGxaqm0UCVl7Zgj4YFU3tlnwfnksleLeOf-obbg3hTsnePw8dZuLSZGZ8y3g4v1nNkyuIRTJXw.jfif",
+    "width": 1920,
+    "height": 1280
+  },
+  {
+    "publicPath": "images/family-kit.jpg",
+    "source": "asset/Thực phẩm dự trữ/jId0GEUhFkZHcODaik9h9TljerRYfD4SysSmwE0iC_uiFAu36EA3KIaU13xIX-uKF3AbasOU_66-5wI3RnF3C073Rsccxd1Y1QMfZ4eX4ZvrnZ4KbOveddNxnjMVHY6nFWHy_Zi7wQwJs3jGK0qHI6AKqrPHj7z1G3aICJmvoHPdw8qbWJ5BXeuNQDw9EL5w.jfif",
+    "width": 1534,
+    "height": 1023
+  },
+  {
+    "publicPath": "images/reserve-food.jpg",
+    "source": "asset/Thực phẩm dự trữ/lXHFNAUu_N7lJnDsyJ2_N2GD7luJ7rXOsATGTrWGh9jG0S-5XklDAFBSn7tmRAlb_HLsxzb8dAkynx48Lm83xQJZg7hFNDlLXhYP83Q48xjJBDQwo3ojU5mRVK-_Ewl2h4cXI1-6sbIH4Mqzh9nJFIEZlecmaEhXgWfl4uKC9mTRmNfCpDAlrXwgJMtWuh1.jfif",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "publicPath": "images/water-food.jpg",
+    "source": "asset/Thực phẩm dự trữ/r4ZGLjaoiA8cds_O7GGIxl3at0erH5EVU30Ygz-MoApGrGDCHJwV_ixEjeFFLS_a606EwnHsc9hfytR40XKjHB7NyrG7hGNqMoQlzEDj8HT-IEkFSzRjepQR1-PMj9PM-LENwaISasauv68dQ9S8LCni6ufDFRl8aQUGYeU4q9-9Ue9C5PoUcFN4jjLpdDt.jfif",
+    "width": 1820,
+    "height": 1024
+  },
+  {
+    "publicPath": "images/first-aid.jpg",
+    "source": "asset/Đồ dùng khẩn cấp/NUg5oMIrIiRBdAsmb0GHpYF_e6h85qBXTR6VPXQl8X32MB2YIPkxoOflSlxuvGWL-W4TXve4hcaSIHQzijGrWjPRU--cx5HC_y-m0FuO2tDUThJDcGETQxjjDJmzHsfLAboZRxWhNbk86dlMvkp7AeSxZBMkd8w3Sg0yxslUhC8KvE3jthFK3ig-hbdFBYw.jfif",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "publicPath": "images/emergency-bag.jpg",
+    "source": "asset/Đồ dùng khẩn cấp/cQDKvofyvhtX7WCTH-0zxXCD6HvDaPgamKK-TOHhM2bW547pZwdVPm8iGqtiNOhT1bWvTOMmgNtKa0AE12_PNnKP_DGEXF6gU84eVwVDGm2EXJegByTy34SwumQiguIwZKbxBSZvqMhgVRAhmEcZf_BFRZBNNvX0I5lOCyohu27jiEKs_oiYA-7yxUZQqe2.jfif",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "publicPath": "images/home-preparation.jpg",
+    "source": "asset/Đồ dùng khẩn cấp/xrnu3boYQTcsiK_2NK5cBjvdSbAp0PT5fFbqfEAscFNkonyPixGUQ4EP_ryIe4iu0GyF5E7YGPEfSKy0o4K__WElga-7LBgYsnbHpHpBFraPWb5zP45HBbIrfIIjUcTFWxwoRhrkwjfsEQxTm2DrmeRykR7oYAEAZ1Ydgj3uvAu-njh-FZo68buK3tvJzJy.jfif",
+    "width": 1290,
+    "height": 860
+  }
+]
