@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "path": "public/audio/0911.mp3",
+      "bytes": 1231735,
+      "sha256": "eeea25d01e569b3fdc14b04fa7e07adb0ca61e94a4754bbcf0e14f645a607a30"
+    },
+    {
+      "path": "public/images/alstom-signing.jpg",
+      "bytes": 114264,
+      "sha256": "767737b3bf1ba4afad9040a4af493632330b0c30f30e27d6c76ddbd47b355664"
+    },
+    {
+      "path": "public/images/signing.jpg",
+      "bytes": 934135,
+      "sha256": "362196ad7ea80e8b8725a15e6d40e72378fefbb631e69d62d73b1e94927e7c78"
+    }
+  ],
+  "photoAttribution": "See ASSETS.md; press photographs are copyrighted, not CC licensed."
+}
