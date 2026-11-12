@@ -1,0 +1,1948 @@
+{
+  "audioSrc": "audio/voiceover.mp3",
+  "durationSeconds": 127.11425,
+  "sourceSha256": "5898a66f1b19310d57258349f67de7901a0746dfe2262764c4f19271a6fac5fc",
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Một tín hiệu bơm tiền đáng chú ý vừa xuất hiện! Ngân hàng Nhà nước bắt đầu mua USD trở lại, và điều này có thể mở ra một chu kỳ thanh khoản mới cho thị trường.",
+      "words": [
+        {
+          "text": "Một",
+          "start": 0,
+          "end": 0.26
+        },
+        {
+          "text": "tín",
+          "start": 0.26,
+          "end": 0.46
+        },
+        {
+          "text": "hiệu",
+          "start": 0.46,
+          "end": 0.72
+        },
+        {
+          "text": "bơm",
+          "start": 0.72,
+          "end": 1
+        },
+        {
+          "text": "tiền",
+          "start": 1,
+          "end": 1.28
+        },
+        {
+          "text": "đáng",
+          "start": 1.28,
+          "end": 1.56
+        },
+        {
+          "text": "chú",
+          "start": 1.56,
+          "end": 1.8
+        },
+        {
+          "text": "ý",
+          "start": 1.8,
+          "end": 1.98
+        },
+        {
+          "text": "vừa",
+          "start": 1.98,
+          "end": 2.26
+        },
+        {
+          "text": "xuất",
+          "start": 2.26,
+          "end": 2.46
+        },
+        {
+          "text": "hiện!",
+          "start": 2.46,
+          "end": 2.66
+        },
+        {
+          "text": "Ngân",
+          "start": 3.28,
+          "end": 3.42
+        },
+        {
+          "text": "hàng",
+          "start": 3.42,
+          "end": 3.64
+        },
+        {
+          "text": "Nhà",
+          "start": 3.64,
+          "end": 3.82
+        },
+        {
+          "text": "nước",
+          "start": 3.82,
+          "end": 4.04
+        },
+        {
+          "text": "bắt",
+          "start": 4.04,
+          "end": 4.38
+        },
+        {
+          "text": "đầu",
+          "start": 4.38,
+          "end": 4.64
+        },
+        {
+          "text": "mua",
+          "start": 4.64,
+          "end": 4.9
+        },
+        {
+          "text": "USD",
+          "start": 4.9,
+          "end": 5.4
+        },
+        {
+          "text": "trở",
+          "start": 5.4,
+          "end": 5.76
+        },
+        {
+          "text": "lại,",
+          "start": 5.76,
+          "end": 5.98
+        },
+        {
+          "text": "và",
+          "start": 6.7,
+          "end": 6.9
+        },
+        {
+          "text": "điều",
+          "start": 6.9,
+          "end": 7.06
+        },
+        {
+          "text": "này",
+          "start": 7.06,
+          "end": 7.28
+        },
+        {
+          "text": "có",
+          "start": 7.28,
+          "end": 7.54
+        },
+        {
+          "text": "thể",
+          "start": 7.54,
+          "end": 7.7
+        },
+        {
+          "text": "mở",
+          "start": 7.7,
+          "end": 7.92
+        },
+        {
+          "text": "ra",
+          "start": 7.92,
+          "end": 8.16
+        },
+        {
+          "text": "một",
+          "start": 8.16,
+          "end": 8.34
+        },
+        {
+          "text": "chu",
+          "start": 8.34,
+          "end": 8.62
+        },
+        {
+          "text": "kỳ",
+          "start": 8.62,
+          "end": 8.86
+        },
+        {
+          "text": "thanh",
+          "start": 8.86,
+          "end": 9.08
+        },
+        {
+          "text": "khoản",
+          "start": 9.08,
+          "end": 9.36
+        },
+        {
+          "text": "mới",
+          "start": 9.36,
+          "end": 9.58
+        },
+        {
+          "text": "cho",
+          "start": 9.58,
+          "end": 9.86
+        },
+        {
+          "text": "thị",
+          "start": 9.86,
+          "end": 10.02
+        },
+        {
+          "text": "trường.",
+          "start": 10.02,
+          "end": 10.38
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "text": "Từ ngày 11 tháng 11, NHNN triển khai mua USD giao ngay từ các ngân hàng thương mại, với tỷ giá 25.500 đồng một USD. Hoạt động diễn ra định kỳ vào thứ Hai và thứ Tư hàng tuần, dành cho những ngân hàng có trạng thái ngoại tệ dương.",
+      "words": [
+        {
+          "text": "Từ",
+          "start": 11.4345,
+          "end": 11.6745
+        },
+        {
+          "text": "ngày",
+          "start": 11.6745,
+          "end": 11.8545
+        },
+        {
+          "text": "11",
+          "start": 11.8545,
+          "end": 12.2945
+        },
+        {
+          "text": "tháng",
+          "start": 12.2945,
+          "end": 12.5745
+        },
+        {
+          "text": "11,",
+          "start": 12.5745,
+          "end": 12.9345
+        },
+        {
+          "text": "NHNN",
+          "start": 13.5145,
+          "end": 14.2345
+        },
+        {
+          "text": "triển",
+          "start": 14.2345,
+          "end": 14.5745
+        },
+        {
+          "text": "khai",
+          "start": 14.5745,
+          "end": 14.8545
+        },
+        {
+          "text": "mua",
+          "start": 14.8545,
+          "end": 15.0745
+        },
+        {
+          "text": "USD",
+          "start": 15.0745,
+          "end": 15.4345
+        },
+        {
+          "text": "giao",
+          "start": 15.4345,
+          "end": 15.7945
+        },
+        {
+          "text": "ngay",
+          "start": 15.7945,
+          "end": 16.1145
+        },
+        {
+          "text": "từ",
+          "start": 16.1145,
+          "end": 16.2945
+        },
+        {
+          "text": "các",
+          "start": 16.2945,
+          "end": 16.4545
+        },
+        {
+          "text": "ngân",
+          "start": 16.4545,
+          "end": 16.6945
+        },
+        {
+          "text": "hàng",
+          "start": 16.6945,
+          "end": 16.9145
+        },
+        {
+          "text": "thương",
+          "start": 16.9145,
+          "end": 17.1145
+        },
+        {
+          "text": "mại,",
+          "start": 17.1145,
+          "end": 17.4345
+        },
+        {
+          "text": "với",
+          "start": 18.2145,
+          "end": 18.3345
+        },
+        {
+          "text": "tỷ",
+          "start": 18.3345,
+          "end": 18.5745
+        },
+        {
+          "text": "giá",
+          "start": 18.5745,
+          "end": 18.8745
+        },
+        {
+          "text": "25.500",
+          "start": 18.8745,
+          "end": 20.1345
+        },
+        {
+          "text": "đồng",
+          "start": 20.1345,
+          "end": 20.4345
+        },
+        {
+          "text": "một",
+          "start": 20.4345,
+          "end": 20.8445
+        },
+        {
+          "text": "USD.",
+          "start": 20.8445,
+          "end": 21.2545
+        },
+        {
+          "text": "Hoạt",
+          "start": 22.0145,
+          "end": 22.2545
+        },
+        {
+          "text": "động",
+          "start": 22.2545,
+          "end": 22.4745
+        },
+        {
+          "text": "diễn",
+          "start": 22.4745,
+          "end": 22.7745
+        },
+        {
+          "text": "ra",
+          "start": 22.7745,
+          "end": 22.9145
+        },
+        {
+          "text": "định",
+          "start": 22.9145,
+          "end": 23.1545
+        },
+        {
+          "text": "kỳ",
+          "start": 23.1545,
+          "end": 23.4145
+        },
+        {
+          "text": "vào",
+          "start": 23.4145,
+          "end": 23.6145
+        },
+        {
+          "text": "thứ",
+          "start": 23.6145,
+          "end": 23.7745
+        },
+        {
+          "text": "Hai",
+          "start": 23.7745,
+          "end": 24.0745
+        },
+        {
+          "text": "và",
+          "start": 24.0745,
+          "end": 24.2945
+        },
+        {
+          "text": "thứ",
+          "start": 24.2945,
+          "end": 24.4745
+        },
+        {
+          "text": "Tư",
+          "start": 24.4745,
+          "end": 24.6745
+        },
+        {
+          "text": "hàng",
+          "start": 24.6745,
+          "end": 24.8545
+        },
+        {
+          "text": "tuần,",
+          "start": 24.8545,
+          "end": 25.2145
+        },
+        {
+          "text": "dành",
+          "start": 25.8545,
+          "end": 26.1745
+        },
+        {
+          "text": "cho",
+          "start": 26.1745,
+          "end": 26.3545
+        },
+        {
+          "text": "những",
+          "start": 26.3545,
+          "end": 26.5145
+        },
+        {
+          "text": "ngân",
+          "start": 26.5145,
+          "end": 26.7945
+        },
+        {
+          "text": "hàng",
+          "start": 26.7945,
+          "end": 27.0745
+        },
+        {
+          "text": "có",
+          "start": 27.0745,
+          "end": 27.2945
+        },
+        {
+          "text": "trạng",
+          "start": 27.2945,
+          "end": 27.6145
+        },
+        {
+          "text": "thái",
+          "start": 27.6145,
+          "end": 27.8345
+        },
+        {
+          "text": "ngoại",
+          "start": 27.8345,
+          "end": 28.0945
+        },
+        {
+          "text": "tệ",
+          "start": 28.0945,
+          "end": 28.3145
+        },
+        {
+          "text": "dương.",
+          "start": 28.3145,
+          "end": 28.6345
+        }
+      ]
+    },
+    {
+      "id": "explain",
+      "text": "Nhưng cần phân biệt với nghiệp vụ hoán đổi 2 tỷ USD trước đó. Với hoán đổi, NHNN nhận USD, bơm VND ra và cam kết bán lại USD sau 182 ngày. Còn lần này là mua giao ngay, không có cam kết bán lại USD theo kỳ hạn đó. Đây mới là điểm quan trọng!",
+      "words": [
+        {
+          "text": "Nhưng",
+          "start": 29.29592,
+          "end": 29.49592
+        },
+        {
+          "text": "cần",
+          "start": 29.49592,
+          "end": 29.75592
+        },
+        {
+          "text": "phân",
+          "start": 29.75592,
+          "end": 30.01592
+        },
+        {
+          "text": "biệt",
+          "start": 30.01592,
+          "end": 30.27592
+        },
+        {
+          "text": "với",
+          "start": 30.27592,
+          "end": 30.45592
+        },
+        {
+          "text": "nghiệp",
+          "start": 30.45592,
+          "end": 30.73592
+        },
+        {
+          "text": "vụ",
+          "start": 30.73592,
+          "end": 30.97592
+        },
+        {
+          "text": "hoán",
+          "start": 30.97592,
+          "end": 31.21592
+        },
+        {
+          "text": "đổi",
+          "start": 31.21592,
+          "end": 31.49592
+        },
+        {
+          "text": "2",
+          "start": 31.49592,
+          "end": 31.73592
+        },
+        {
+          "text": "tỷ",
+          "start": 31.73592,
+          "end": 31.95592
+        },
+        {
+          "text": "USD",
+          "start": 31.95592,
+          "end": 32.47592
+        },
+        {
+          "text": "trước",
+          "start": 32.47592,
+          "end": 32.73592
+        },
+        {
+          "text": "đó.",
+          "start": 32.73592,
+          "end": 33.11592
+        },
+        {
+          "text": "Với",
+          "start": 33.87592,
+          "end": 34.11592
+        },
+        {
+          "text": "hoán",
+          "start": 34.11592,
+          "end": 34.33592
+        },
+        {
+          "text": "đổi,",
+          "start": 34.33592,
+          "end": 34.71592
+        },
+        {
+          "text": "NHNN",
+          "start": 35.09592,
+          "end": 35.85592
+        },
+        {
+          "text": "nhận",
+          "start": 35.85592,
+          "end": 36.19592
+        },
+        {
+          "text": "USD,",
+          "start": 36.19592,
+          "end": 36.87592
+        },
+        {
+          "text": "bơm",
+          "start": 36.87592,
+          "end": 37.57592
+        },
+        {
+          "text": "VND",
+          "start": 37.57592,
+          "end": 38.19592
+        },
+        {
+          "text": "ra",
+          "start": 38.19592,
+          "end": 38.53592
+        },
+        {
+          "text": "và",
+          "start": 38.53592,
+          "end": 38.73592
+        },
+        {
+          "text": "cam",
+          "start": 38.73592,
+          "end": 38.93592
+        },
+        {
+          "text": "kết",
+          "start": 38.93592,
+          "end": 39.19592
+        },
+        {
+          "text": "bán",
+          "start": 39.19592,
+          "end": 39.47592
+        },
+        {
+          "text": "lại",
+          "start": 39.47592,
+          "end": 39.69592
+        },
+        {
+          "text": "USD",
+          "start": 39.69592,
+          "end": 40.31592
+        },
+        {
+          "text": "sau",
+          "start": 40.31592,
+          "end": 40.63592
+        },
+        {
+          "text": "182",
+          "start": 40.63592,
+          "end": 41.69592
+        },
+        {
+          "text": "ngày.",
+          "start": 41.69592,
+          "end": 41.97592
+        },
+        {
+          "text": "Còn",
+          "start": 42.75592,
+          "end": 42.97592
+        },
+        {
+          "text": "lần",
+          "start": 42.97592,
+          "end": 43.15592
+        },
+        {
+          "text": "này",
+          "start": 43.15592,
+          "end": 43.37592
+        },
+        {
+          "text": "là",
+          "start": 43.37592,
+          "end": 43.59592
+        },
+        {
+          "text": "mua",
+          "start": 43.59592,
+          "end": 43.83592
+        },
+        {
+          "text": "giao",
+          "start": 43.83592,
+          "end": 44.01592
+        },
+        {
+          "text": "ngay,",
+          "start": 44.01592,
+          "end": 44.35592
+        },
+        {
+          "text": "không",
+          "start": 44.89592,
+          "end": 45.07592
+        },
+        {
+          "text": "có",
+          "start": 45.07592,
+          "end": 45.29592
+        },
+        {
+          "text": "cam",
+          "start": 45.29592,
+          "end": 45.49592
+        },
+        {
+          "text": "kết",
+          "start": 45.49592,
+          "end": 45.79592
+        },
+        {
+          "text": "bán",
+          "start": 45.79592,
+          "end": 46.07592
+        },
+        {
+          "text": "lại",
+          "start": 46.07592,
+          "end": 46.29592
+        },
+        {
+          "text": "USD",
+          "start": 46.29592,
+          "end": 46.89592
+        },
+        {
+          "text": "theo",
+          "start": 46.89592,
+          "end": 47.13592
+        },
+        {
+          "text": "kỳ",
+          "start": 47.13592,
+          "end": 47.37592
+        },
+        {
+          "text": "hạn",
+          "start": 47.37592,
+          "end": 47.57592
+        },
+        {
+          "text": "đó.",
+          "start": 47.57592,
+          "end": 47.89592
+        },
+        {
+          "text": "Đây",
+          "start": 48.67592,
+          "end": 48.87592
+        },
+        {
+          "text": "mới",
+          "start": 48.87592,
+          "end": 49.11592
+        },
+        {
+          "text": "là",
+          "start": 49.11592,
+          "end": 49.31592
+        },
+        {
+          "text": "điểm",
+          "start": 49.31592,
+          "end": 49.55592
+        },
+        {
+          "text": "quan",
+          "start": 49.55592,
+          "end": 49.77592
+        },
+        {
+          "text": "trọng!",
+          "start": 49.77592,
+          "end": 50.13592
+        }
+      ]
+    },
+    {
+      "id": "flow",
+      "text": "Hiểu đơn giản, khi NHNN mua 1 tỷ USD, hệ thống ngân hàng sẽ nhận tương ứng khoảng 25.500 tỷ đồng. Lượng tiền này giúp cải thiện thanh khoản, giảm áp lực vốn ngắn hạn. Nếu dòng tiền được duy trì và hấp thụ tốt, lãi suất có thể hạ nhiệt, tạo điều kiện cho tín dụng và hoạt động kinh doanh.",
+      "words": [
+        {
+          "text": "Hiểu",
+          "start": 50.75862,
+          "end": 51.11862
+        },
+        {
+          "text": "đơn",
+          "start": 51.11862,
+          "end": 51.33862
+        },
+        {
+          "text": "giản,",
+          "start": 51.33862,
+          "end": 51.65862
+        },
+        {
+          "text": "khi",
+          "start": 51.65862,
+          "end": 52.15862
+        },
+        {
+          "text": "NHNN",
+          "start": 52.15862,
+          "end": 53.01862
+        },
+        {
+          "text": "mua",
+          "start": 53.01862,
+          "end": 53.37862
+        },
+        {
+          "text": "1",
+          "start": 53.37862,
+          "end": 53.57862
+        },
+        {
+          "text": "tỷ",
+          "start": 53.57862,
+          "end": 53.79862
+        },
+        {
+          "text": "USD,",
+          "start": 53.79862,
+          "end": 54.35862
+        },
+        {
+          "text": "hệ",
+          "start": 54.97862,
+          "end": 55.05862
+        },
+        {
+          "text": "thống",
+          "start": 55.05862,
+          "end": 55.27863
+        },
+        {
+          "text": "ngân",
+          "start": 55.27863,
+          "end": 55.51862
+        },
+        {
+          "text": "hàng",
+          "start": 55.51862,
+          "end": 55.81862
+        },
+        {
+          "text": "sẽ",
+          "start": 55.81862,
+          "end": 56.01862
+        },
+        {
+          "text": "nhận",
+          "start": 56.01862,
+          "end": 56.25862
+        },
+        {
+          "text": "tương",
+          "start": 56.25862,
+          "end": 56.47862
+        },
+        {
+          "text": "ứng",
+          "start": 56.47862,
+          "end": 56.71862
+        },
+        {
+          "text": "khoảng",
+          "start": 56.71862,
+          "end": 57.13863
+        },
+        {
+          "text": "25.500",
+          "start": 57.13863,
+          "end": 58.31862
+        },
+        {
+          "text": "tỷ",
+          "start": 58.31862,
+          "end": 58.63863
+        },
+        {
+          "text": "đồng.",
+          "start": 58.63863,
+          "end": 58.89862
+        },
+        {
+          "text": "Lượng",
+          "start": 59.63863,
+          "end": 59.87862
+        },
+        {
+          "text": "tiền",
+          "start": 59.87862,
+          "end": 60.09862
+        },
+        {
+          "text": "này",
+          "start": 60.09862,
+          "end": 60.31862
+        },
+        {
+          "text": "giúp",
+          "start": 60.31862,
+          "end": 60.61862
+        },
+        {
+          "text": "cải",
+          "start": 60.61862,
+          "end": 60.87862
+        },
+        {
+          "text": "thiện",
+          "start": 60.87862,
+          "end": 61.13863
+        },
+        {
+          "text": "thanh",
+          "start": 61.13863,
+          "end": 61.41863
+        },
+        {
+          "text": "khoản,",
+          "start": 61.41863,
+          "end": 61.71862
+        },
+        {
+          "text": "giảm",
+          "start": 62.21862,
+          "end": 62.45862
+        },
+        {
+          "text": "áp",
+          "start": 62.45862,
+          "end": 62.69862
+        },
+        {
+          "text": "lực",
+          "start": 62.69862,
+          "end": 62.85862
+        },
+        {
+          "text": "vốn",
+          "start": 62.85862,
+          "end": 63.15862
+        },
+        {
+          "text": "ngắn",
+          "start": 63.15862,
+          "end": 63.35862
+        },
+        {
+          "text": "hạn.",
+          "start": 63.35862,
+          "end": 63.67862
+        },
+        {
+          "text": "Nếu",
+          "start": 64.11863,
+          "end": 64.29862
+        },
+        {
+          "text": "dòng",
+          "start": 64.29862,
+          "end": 64.49862
+        },
+        {
+          "text": "tiền",
+          "start": 64.49862,
+          "end": 64.83863
+        },
+        {
+          "text": "được",
+          "start": 64.83863,
+          "end": 65.01862
+        },
+        {
+          "text": "duy",
+          "start": 65.01862,
+          "end": 65.27863
+        },
+        {
+          "text": "trì",
+          "start": 65.27863,
+          "end": 65.61863
+        },
+        {
+          "text": "và",
+          "start": 65.61863,
+          "end": 65.81862
+        },
+        {
+          "text": "hấp",
+          "start": 65.81862,
+          "end": 65.97863
+        },
+        {
+          "text": "thụ",
+          "start": 65.97863,
+          "end": 66.19863
+        },
+        {
+          "text": "tốt,",
+          "start": 66.19863,
+          "end": 66.51862
+        },
+        {
+          "text": "lãi",
+          "start": 66.97862,
+          "end": 67.21862
+        },
+        {
+          "text": "suất",
+          "start": 67.21862,
+          "end": 67.47862
+        },
+        {
+          "text": "có",
+          "start": 67.47862,
+          "end": 67.67863
+        },
+        {
+          "text": "thể",
+          "start": 67.67863,
+          "end": 67.87862
+        },
+        {
+          "text": "hạ",
+          "start": 67.87862,
+          "end": 68.07862
+        },
+        {
+          "text": "nhiệt,",
+          "start": 68.07862,
+          "end": 68.41863
+        },
+        {
+          "text": "tạo",
+          "start": 68.87862,
+          "end": 69.05863
+        },
+        {
+          "text": "điều",
+          "start": 69.05863,
+          "end": 69.17863
+        },
+        {
+          "text": "kiện",
+          "start": 69.17863,
+          "end": 69.51862
+        },
+        {
+          "text": "cho",
+          "start": 69.51862,
+          "end": 69.69863
+        },
+        {
+          "text": "tín",
+          "start": 69.69863,
+          "end": 69.93862
+        },
+        {
+          "text": "dụng",
+          "start": 69.93862,
+          "end": 70.25862
+        },
+        {
+          "text": "và",
+          "start": 70.25862,
+          "end": 70.39863
+        },
+        {
+          "text": "hoạt",
+          "start": 70.39863,
+          "end": 70.57862
+        },
+        {
+          "text": "động",
+          "start": 70.57862,
+          "end": 70.77863
+        },
+        {
+          "text": "kinh",
+          "start": 70.77863,
+          "end": 70.99862
+        },
+        {
+          "text": "doanh.",
+          "start": 70.99862,
+          "end": 71.29862
+        }
+      ]
+    },
+    {
+      "id": "opportunity",
+      "text": "Vậy nhóm nào có thể hưởng lợi? Đầu tiên là ngân hàng, khi thanh khoản cải thiện và áp lực chi phí vốn có thể giảm. Thứ hai là chứng khoán, bởi dòng tiền rẻ hơn có thể thúc đẩy hoạt động giao dịch và nhu cầu sử dụng margin. Thứ ba là bất động sản và xây dựng, nếu lãi suất cho vay giảm, doanh nghiệp có thể giảm áp lực tài chính và cải thiện khả năng tiếp cận vốn. Cuối cùng là những doanh nghiệp sản xuất, kinh doanh có nhu cầu vốn lớn.",
+      "words": [
+        {
+          "text": "Vậy",
+          "start": 71.96471,
+          "end": 72.24471
+        },
+        {
+          "text": "nhóm",
+          "start": 72.24471,
+          "end": 72.42471
+        },
+        {
+          "text": "nào",
+          "start": 72.42471,
+          "end": 72.68471
+        },
+        {
+          "text": "có",
+          "start": 72.68471,
+          "end": 72.92471
+        },
+        {
+          "text": "thể",
+          "start": 72.92471,
+          "end": 73.08471
+        },
+        {
+          "text": "hưởng",
+          "start": 73.08471,
+          "end": 73.26471
+        },
+        {
+          "text": "lợi?",
+          "start": 73.26471,
+          "end": 73.70471
+        },
+        {
+          "text": "Đầu",
+          "start": 74.18471,
+          "end": 74.40471
+        },
+        {
+          "text": "tiên",
+          "start": 74.40471,
+          "end": 74.72471
+        },
+        {
+          "text": "là",
+          "start": 74.72471,
+          "end": 74.90471
+        },
+        {
+          "text": "ngân",
+          "start": 74.90471,
+          "end": 75.12471
+        },
+        {
+          "text": "hàng,",
+          "start": 75.12471,
+          "end": 75.40471
+        },
+        {
+          "text": "khi",
+          "start": 75.88471,
+          "end": 76.10471
+        },
+        {
+          "text": "thanh",
+          "start": 76.10471,
+          "end": 76.32471
+        },
+        {
+          "text": "khoản",
+          "start": 76.32471,
+          "end": 76.56471
+        },
+        {
+          "text": "cải",
+          "start": 76.56471,
+          "end": 76.78471
+        },
+        {
+          "text": "thiện",
+          "start": 76.78471,
+          "end": 77.10471
+        },
+        {
+          "text": "và",
+          "start": 77.10471,
+          "end": 77.30471
+        },
+        {
+          "text": "áp",
+          "start": 77.30471,
+          "end": 77.54471
+        },
+        {
+          "text": "lực",
+          "start": 77.54471,
+          "end": 77.72471
+        },
+        {
+          "text": "chi",
+          "start": 77.72471,
+          "end": 77.96471
+        },
+        {
+          "text": "phí",
+          "start": 77.96471,
+          "end": 78.24471
+        },
+        {
+          "text": "vốn",
+          "start": 78.24471,
+          "end": 78.54471
+        },
+        {
+          "text": "có",
+          "start": 78.54471,
+          "end": 78.74471
+        },
+        {
+          "text": "thể",
+          "start": 78.74471,
+          "end": 78.90471
+        },
+        {
+          "text": "giảm.",
+          "start": 78.90471,
+          "end": 79.58471
+        },
+        {
+          "text": "Thứ",
+          "start": 79.94471,
+          "end": 80.18471
+        },
+        {
+          "text": "hai",
+          "start": 80.18471,
+          "end": 80.46471
+        },
+        {
+          "text": "là",
+          "start": 80.46471,
+          "end": 80.70471
+        },
+        {
+          "text": "chứng",
+          "start": 80.70471,
+          "end": 80.92471
+        },
+        {
+          "text": "khoán,",
+          "start": 80.92471,
+          "end": 81.34471
+        },
+        {
+          "text": "bởi",
+          "start": 81.88471,
+          "end": 82.06471
+        },
+        {
+          "text": "dòng",
+          "start": 82.06471,
+          "end": 82.22471
+        },
+        {
+          "text": "tiền",
+          "start": 82.22471,
+          "end": 82.50471
+        },
+        {
+          "text": "rẻ",
+          "start": 82.50471,
+          "end": 82.72471
+        },
+        {
+          "text": "hơn",
+          "start": 82.72471,
+          "end": 82.98471
+        },
+        {
+          "text": "có",
+          "start": 82.98471,
+          "end": 83.24471
+        },
+        {
+          "text": "thể",
+          "start": 83.24471,
+          "end": 83.40471
+        },
+        {
+          "text": "thúc",
+          "start": 83.40471,
+          "end": 83.64471
+        },
+        {
+          "text": "đẩy",
+          "start": 83.64471,
+          "end": 83.94471
+        },
+        {
+          "text": "hoạt",
+          "start": 83.94471,
+          "end": 84.14471
+        },
+        {
+          "text": "động",
+          "start": 84.14471,
+          "end": 84.34471
+        },
+        {
+          "text": "giao",
+          "start": 84.34471,
+          "end": 84.54471
+        },
+        {
+          "text": "dịch",
+          "start": 84.54471,
+          "end": 84.80471
+        },
+        {
+          "text": "và",
+          "start": 84.80471,
+          "end": 85.06471
+        },
+        {
+          "text": "nhu",
+          "start": 85.06471,
+          "end": 85.26471
+        },
+        {
+          "text": "cầu",
+          "start": 85.26471,
+          "end": 85.50471
+        },
+        {
+          "text": "sử",
+          "start": 85.50471,
+          "end": 85.78471
+        },
+        {
+          "text": "dụng",
+          "start": 85.78471,
+          "end": 86.02471
+        },
+        {
+          "text": "margin.",
+          "start": 86.02471,
+          "end": 86.44471
+        },
+        {
+          "text": "Thứ",
+          "start": 87.22471,
+          "end": 87.42471
+        },
+        {
+          "text": "ba",
+          "start": 87.42471,
+          "end": 87.68471
+        },
+        {
+          "text": "là",
+          "start": 87.68471,
+          "end": 87.86471
+        },
+        {
+          "text": "bất",
+          "start": 87.86471,
+          "end": 88.04471
+        },
+        {
+          "text": "động",
+          "start": 88.04471,
+          "end": 88.26471
+        },
+        {
+          "text": "sản",
+          "start": 88.26471,
+          "end": 88.60471
+        },
+        {
+          "text": "và",
+          "start": 88.60471,
+          "end": 88.82471
+        },
+        {
+          "text": "xây",
+          "start": 88.82471,
+          "end": 89.02471
+        },
+        {
+          "text": "dựng,",
+          "start": 89.02471,
+          "end": 89.28471
+        },
+        {
+          "text": "nếu",
+          "start": 89.74471,
+          "end": 89.90471
+        },
+        {
+          "text": "lãi",
+          "start": 89.90471,
+          "end": 90.20471
+        },
+        {
+          "text": "suất",
+          "start": 90.20471,
+          "end": 90.38471
+        },
+        {
+          "text": "cho",
+          "start": 90.38471,
+          "end": 90.62471
+        },
+        {
+          "text": "vay",
+          "start": 90.62471,
+          "end": 90.82471
+        },
+        {
+          "text": "giảm,",
+          "start": 90.82471,
+          "end": 91.30471
+        },
+        {
+          "text": "doanh",
+          "start": 91.76471,
+          "end": 91.92471
+        },
+        {
+          "text": "nghiệp",
+          "start": 91.92471,
+          "end": 92.20471
+        },
+        {
+          "text": "có",
+          "start": 92.20471,
+          "end": 92.40471
+        },
+        {
+          "text": "thể",
+          "start": 92.40471,
+          "end": 92.58471
+        },
+        {
+          "text": "giảm",
+          "start": 92.58471,
+          "end": 92.90471
+        },
+        {
+          "text": "áp",
+          "start": 92.90471,
+          "end": 93.12471
+        },
+        {
+          "text": "lực",
+          "start": 93.12471,
+          "end": 93.30471
+        },
+        {
+          "text": "tài",
+          "start": 93.30471,
+          "end": 93.56471
+        },
+        {
+          "text": "chính",
+          "start": 93.56471,
+          "end": 93.82471
+        },
+        {
+          "text": "và",
+          "start": 93.82471,
+          "end": 94.12471
+        },
+        {
+          "text": "cải",
+          "start": 94.12471,
+          "end": 94.30471
+        },
+        {
+          "text": "thiện",
+          "start": 94.30471,
+          "end": 94.56471
+        },
+        {
+          "text": "khả",
+          "start": 94.56471,
+          "end": 94.82471
+        },
+        {
+          "text": "năng",
+          "start": 94.82471,
+          "end": 95.08471
+        },
+        {
+          "text": "tiếp",
+          "start": 95.08471,
+          "end": 95.28471
+        },
+        {
+          "text": "cận",
+          "start": 95.28471,
+          "end": 95.56471
+        },
+        {
+          "text": "vốn.",
+          "start": 95.56471,
+          "end": 95.86471
+        },
+        {
+          "text": "Cuối",
+          "start": 96.66471,
+          "end": 96.84471
+        },
+        {
+          "text": "cùng",
+          "start": 96.84471,
+          "end": 97.06471
+        },
+        {
+          "text": "là",
+          "start": 97.06471,
+          "end": 97.30471
+        },
+        {
+          "text": "những",
+          "start": 97.30471,
+          "end": 97.48471
+        },
+        {
+          "text": "doanh",
+          "start": 97.48471,
+          "end": 97.82471
+        },
+        {
+          "text": "nghiệp",
+          "start": 97.82471,
+          "end": 98.08471
+        },
+        {
+          "text": "sản",
+          "start": 98.08471,
+          "end": 98.32471
+        },
+        {
+          "text": "xuất,",
+          "start": 98.32471,
+          "end": 98.62471
+        },
+        {
+          "text": "kinh",
+          "start": 99.10471,
+          "end": 99.20471
+        },
+        {
+          "text": "doanh",
+          "start": 99.20471,
+          "end": 99.48471
+        },
+        {
+          "text": "có",
+          "start": 99.48471,
+          "end": 99.72471
+        },
+        {
+          "text": "nhu",
+          "start": 99.72471,
+          "end": 99.94471
+        },
+        {
+          "text": "cầu",
+          "start": 99.94471,
+          "end": 100.16471
+        },
+        {
+          "text": "vốn",
+          "start": 100.16471,
+          "end": 100.40471
+        },
+        {
+          "text": "lớn.",
+          "start": 100.40471,
+          "end": 100.74471
+        }
+      ]
+    },
+    {
+      "id": "conclusion",
+      "text": "Nhưng đừng vội nghĩ cứ bơm tiền là chứng khoán sẽ tăng! Hãy theo dõi lượng USD NHNN thực sự mua vào, lãi suất liên ngân hàng, tín dụng và dòng tiền trên thị trường chứng khoán. Đây có thể là một tín hiệu tích cực, nhưng cơ hội chỉ thuộc về người biết quan sát dòng tiền. Bạn nghĩ nhóm ngân hàng, chứng khoán hay bất động sản sẽ hưởng lợi nhiều nhất? Bình luận bên dưới nhé!",
+      "words": [
+        {
+          "text": "Nhưng",
+          "start": 101.39717,
+          "end": 101.61717
+        },
+        {
+          "text": "đừng",
+          "start": 101.61717,
+          "end": 101.87717
+        },
+        {
+          "text": "vội",
+          "start": 101.87717,
+          "end": 102.07717
+        },
+        {
+          "text": "nghĩ",
+          "start": 102.07717,
+          "end": 102.38717
+        },
+        {
+          "text": "cứ",
+          "start": 102.38717,
+          "end": 102.69717
+        },
+        {
+          "text": "bơm",
+          "start": 102.69717,
+          "end": 102.93717
+        },
+        {
+          "text": "tiền",
+          "start": 102.93717,
+          "end": 103.17717
+        },
+        {
+          "text": "là",
+          "start": 103.17717,
+          "end": 103.39717
+        },
+        {
+          "text": "chứng",
+          "start": 103.39717,
+          "end": 103.59717
+        },
+        {
+          "text": "khoán",
+          "start": 103.59717,
+          "end": 103.89717
+        },
+        {
+          "text": "sẽ",
+          "start": 103.89717,
+          "end": 104.13717
+        },
+        {
+          "text": "tăng!",
+          "start": 104.13717,
+          "end": 104.41717
+        },
+        {
+          "text": "Hãy",
+          "start": 105.37717,
+          "end": 105.61717
+        },
+        {
+          "text": "theo",
+          "start": 105.61717,
+          "end": 105.81717
+        },
+        {
+          "text": "dõi",
+          "start": 105.81717,
+          "end": 106.09717
+        },
+        {
+          "text": "lượng",
+          "start": 106.09717,
+          "end": 106.31717
+        },
+        {
+          "text": "USD",
+          "start": 106.31717,
+          "end": 107.00717
+        },
+        {
+          "text": "NHNN",
+          "start": 107.00717,
+          "end": 107.69717
+        },
+        {
+          "text": "thực",
+          "start": 107.69717,
+          "end": 107.93717
+        },
+        {
+          "text": "sự",
+          "start": 107.93717,
+          "end": 108.23717
+        },
+        {
+          "text": "mua",
+          "start": 108.23717,
+          "end": 108.51717
+        },
+        {
+          "text": "vào,",
+          "start": 108.51717,
+          "end": 108.75717
+        },
+        {
+          "text": "lãi",
+          "start": 109.63717,
+          "end": 109.83717
+        },
+        {
+          "text": "suất",
+          "start": 109.83717,
+          "end": 110.09717
+        },
+        {
+          "text": "liên",
+          "start": 110.09717,
+          "end": 110.33717
+        },
+        {
+          "text": "ngân",
+          "start": 110.33717,
+          "end": 110.51717
+        },
+        {
+          "text": "hàng,",
+          "start": 110.51717,
+          "end": 110.85717
+        },
+        {
+          "text": "tín",
+          "start": 111.35717,
+          "end": 111.51717
+        },
+        {
+          "text": "dụng",
+          "start": 111.51717,
+          "end": 111.85717
+        },
+        {
+          "text": "và",
+          "start": 111.85717,
+          "end": 111.99717
+        },
+        {
+          "text": "dòng",
+          "start": 111.99717,
+          "end": 112.19717
+        },
+        {
+          "text": "tiền",
+          "start": 112.19717,
+          "end": 112.53717
+        },
+        {
+          "text": "trên",
+          "start": 112.53717,
+          "end": 112.77717
+        },
+        {
+          "text": "thị",
+          "start": 112.77717,
+          "end": 112.97717
+        },
+        {
+          "text": "trường",
+          "start": 112.97717,
+          "end": 113.23717
+        },
+        {
+          "text": "chứng",
+          "start": 113.23717,
+          "end": 113.45717
+        },
+        {
+          "text": "khoán.",
+          "start": 113.45717,
+          "end": 113.87717
+        },
+        {
+          "text": "Đây",
+          "start": 114.39717,
+          "end": 114.51717
+        },
+        {
+          "text": "có",
+          "start": 114.51717,
+          "end": 114.75717
+        },
+        {
+          "text": "thể",
+          "start": 114.75717,
+          "end": 114.91717
+        },
+        {
+          "text": "là",
+          "start": 114.91717,
+          "end": 115.13717
+        },
+        {
+          "text": "một",
+          "start": 115.13717,
+          "end": 115.27717
+        },
+        {
+          "text": "tín",
+          "start": 115.27717,
+          "end": 115.53717
+        },
+        {
+          "text": "hiệu",
+          "start": 115.53717,
+          "end": 115.81717
+        },
+        {
+          "text": "tích",
+          "start": 115.81717,
+          "end": 116.03717
+        },
+        {
+          "text": "cực,",
+          "start": 116.03717,
+          "end": 116.51717
+        },
+        {
+          "text": "nhưng",
+          "start": 116.71717,
+          "end": 116.87717
+        },
+        {
+          "text": "cơ",
+          "start": 116.87717,
+          "end": 117.11717
+        },
+        {
+          "text": "hội",
+          "start": 117.11717,
+          "end": 117.35717
+        },
+        {
+          "text": "chỉ",
+          "start": 117.35717,
+          "end": 117.59717
+        },
+        {
+          "text": "thuộc",
+          "start": 117.59717,
+          "end": 117.83717
+        },
+        {
+          "text": "về",
+          "start": 117.83717,
+          "end": 117.99717
+        },
+        {
+          "text": "người",
+          "start": 117.99717,
+          "end": 118.19717
+        },
+        {
+          "text": "biết",
+          "start": 118.19717,
+          "end": 118.47717
+        },
+        {
+          "text": "quan",
+          "start": 118.47717,
+          "end": 118.75717
+        },
+        {
+          "text": "sát",
+          "start": 118.75717,
+          "end": 119.09717
+        },
+        {
+          "text": "dòng",
+          "start": 119.09717,
+          "end": 119.37717
+        },
+        {
+          "text": "tiền.",
+          "start": 119.37717,
+          "end": 119.75717
+        },
+        {
+          "text": "Bạn",
+          "start": 120.49717,
+          "end": 120.75717
+        },
+        {
+          "text": "nghĩ",
+          "start": 120.75717,
+          "end": 120.97717
+        },
+        {
+          "text": "nhóm",
+          "start": 120.97717,
+          "end": 121.31717
+        },
+        {
+          "text": "ngân",
+          "start": 121.31717,
+          "end": 121.55717
+        },
+        {
+          "text": "hàng,",
+          "start": 121.55717,
+          "end": 121.85717
+        },
+        {
+          "text": "chứng",
+          "start": 122.31717,
+          "end": 122.55717
+        },
+        {
+          "text": "khoán",
+          "start": 122.55717,
+          "end": 122.91717
+        },
+        {
+          "text": "hay",
+          "start": 122.91717,
+          "end": 123.07717
+        },
+        {
+          "text": "bất",
+          "start": 123.07717,
+          "end": 123.25717
+        },
+        {
+          "text": "động",
+          "start": 123.25717,
+          "end": 123.43717
+        },
+        {
+          "text": "sản",
+          "start": 123.43717,
+          "end": 123.79717
+        },
+        {
+          "text": "sẽ",
+          "start": 123.79717,
+          "end": 124.03717
+        },
+        {
+          "text": "hưởng",
+          "start": 124.03717,
+          "end": 124.27717
+        },
+        {
+          "text": "lợi",
+          "start": 124.27717,
+          "end": 124.55717
+        },
+        {
+          "text": "nhiều",
+          "start": 124.55717,
+          "end": 124.67717
+        },
+        {
+          "text": "nhất?",
+          "start": 124.67717,
+          "end": 124.95717
+        },
+        {
+          "text": "Bình",
+          "start": 125.53717,
+          "end": 125.67717
+        },
+        {
+          "text": "luận",
+          "start": 125.67717,
+          "end": 125.91717
+        },
+        {
+          "text": "bên",
+          "start": 125.91717,
+          "end": 126.09717
+        },
+        {
+          "text": "dưới",
+          "start": 126.09717,
+          "end": 126.43717
+        },
+        {
+          "text": "nhé!",
+          "start": 126.43717,
+          "end": 126.67717
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+gTTS==2.5.4
+numpy>=2.0,<3
+faster-whisper==1.2.1
+av==16.0.1
+huggingface-hub>=0.21,<1

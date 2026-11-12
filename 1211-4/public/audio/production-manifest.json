@@ -1,0 +1,42 @@
+{
+  "voiceAlias": "female_north",
+  "provider": "gTTS / Google Translate TTS",
+  "language": "vi",
+  "tld": "com",
+  "tempo": 1.12,
+  "scenePauseSeconds": 0.18,
+  "decodedDurationSeconds": 127.11425,
+  "alignment": [
+    {
+      "id": "hook",
+      "matchRatio": 0.9473684210526315,
+      "duration": 11.2545
+    },
+    {
+      "id": "news",
+      "matchRatio": 0.7407407407407407,
+      "duration": 17.681416666666667
+    },
+    {
+      "id": "explain",
+      "matchRatio": 0.8,
+      "duration": 21.282708333333332
+    },
+    {
+      "id": "flow",
+      "matchRatio": 0.8615384615384616,
+      "duration": 21.026083333333332
+    },
+    {
+      "id": "opportunity",
+      "matchRatio": 0.9381443298969072,
+      "duration": 29.252458333333333
+    },
+    {
+      "id": "conclusion",
+      "matchRatio": 0.8711656441717791,
+      "duration": 25.717083333333335
+    }
+  ],
+  "music": "Original procedural electronic news composition, 120 BPM"
+}

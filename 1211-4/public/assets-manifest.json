@@ -1,0 +1,35 @@
+{
+  "assets": [
+    {
+      "path": "audio/finance-news.wav",
+      "sha256": "59b5b1bd5f48aa82d5460382ff55660efe32ea2b91cf08d9e5501a656539b0c8",
+      "bytes": 12395012
+    },
+    {
+      "path": "audio/news-sting.wav",
+      "sha256": "95fb7d4095889e4ea3c1fd339a1179597f631884eb9105cbbdde0c1b8c321533",
+      "bytes": 33644
+    },
+    {
+      "path": "audio/production-manifest.json",
+      "sha256": "6cd717f894b13b2b751e4d378b90ceead1a3614ff894b6af327fdfae8042e17e",
+      "bytes": 942
+    },
+    {
+      "path": "audio/voiceover.mp3",
+      "sha256": "5898a66f1b19310d57258349f67de7901a0746dfe2262764c4f19271a6fac5fc",
+      "bytes": 2035244
+    },
+    {
+      "path": "audio/voiceover.wav",
+      "sha256": "7acb5d131830e9c02e39883c5ca02150c138a104a661402b80fba15768e68b0b",
+      "bytes": 6101528
+    },
+    {
+      "path": "images/nhnn-hanoi.jpg",
+      "sha256": "2ebd10b8e92308dd1a28dc885f0b95ddcac769ef07f6050c4bf750d6c80db4f0",
+      "bytes": 205561
+    }
+  ],
+  "credits": "ASSETS.md and CREDITS.txt"
+}
