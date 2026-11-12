@@ -1,9 +1,0 @@
-import type { FC } from 'react';
-import type { SceneProps } from '../timing';
-import { at } from '../timing';
-import { Title, Phase, Panel, Pill, Metric, Reveal } from '../components/UI';
-import { SymbolIcon } from '../components/MarketIllustrations';
-export const BankScene: FC<SceneProps> = ({theme,copy,scene}) => {
-  const c=copy.bank; const detail=at(scene,'Thì Epstein'); const settlement=at(scene,'Thậm chí');
-  return <><Phase from={0} to={detail}><Title>{c.title}</Title><SymbolIcon name="bank" color={theme.accent} size={180} /><Panel theme={theme} style={{marginTop:35}}><div style={{fontSize:57,fontWeight:800}}>{c.name}</div><div style={{color:theme.muted,fontSize:23,marginTop:16}}>{c.role}</div></Panel><Reveal from={at(scene,'Jeffrey Epstein')} style={{marginTop:25}}><Pill theme={theme}>{c.connection}</Pill><div style={{fontSize:44,fontWeight:700,marginTop:23}}>{c.person}</div></Reveal></Phase><Phase from={detail} to={settlement}><Title>{c.title}</Title><Pill theme={theme}>{c.qualifier}</Pill><div style={{display:'flex',gap:22,marginTop:35}}>{[[c.years,c.yearsUnit,0],[c.flow,c.flowUnit,at(scene,'một tỷ')]].map(([value,label,from])=><Reveal key={value} from={Number(from)} style={{flex:1}}><Panel theme={theme}><div style={{fontSize:122,fontWeight:800,color:theme.accent}}>{value}</div><div style={{fontSize:23,lineHeight:1.5,color:theme.muted}}>{label}</div></Panel></Reveal>)}</div><div style={{marginTop:40}}><SymbolIcon name="files" color={theme.teal} size={150} /></div></Phase><Phase from={settlement}><Title>{c.title}</Title><Pill theme={theme}>{c.year}</Pill><div style={{height:40}} /><Metric theme={theme} value={c.amount} label={c.amountUnit} /><Panel theme={theme} style={{marginTop:40}}><div style={{fontSize:31,lineHeight:1.5,fontWeight:600}}>{c.settlement}</div><div style={{fontSize:18,color:theme.muted,marginTop:20}}>{c.qualifier}</div></Panel></Phase></>;
-};
