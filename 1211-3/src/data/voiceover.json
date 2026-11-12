@@ -1,0 +1,1633 @@
+{
+  "audioSrc": "audio/1211-3.mp3",
+  "durationSeconds": 85.877551,
+  "sourceSha256": "ada871b5f2544dd4b78acfbbfcab6c4fe7d6a85dbbc983ed01de33a69705353b",
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Nhà Vin mở bữa tiệc tăng trưởng cổ phiếu, tỷ phú Phạm Nhật Vượng đón tin vui. Lợi nhuận Vinpearl tăng 6,6 lần. Vincom Retail bỏ túi gần 4.800 tỷ đồng. Nhóm Vin vừa tung ra những con số kinh doanh đáng chú ý sau 9 tháng đầu năm. Và nếu nghĩ hệ sinh thái này chỉ chờ đợi bất động sản hay xe điện thì hai cái tên dưới đây cho thấy bức tranh còn rộng hơn thế.",
+      "words": [
+        {
+          "text": "Nhà",
+          "start": 0,
+          "end": 0.18
+        },
+        {
+          "text": "Vin",
+          "start": 0.18,
+          "end": 0.4
+        },
+        {
+          "text": "mở",
+          "start": 0.4,
+          "end": 0.6
+        },
+        {
+          "text": "bữa",
+          "start": 0.6,
+          "end": 0.72
+        },
+        {
+          "text": "tiệc",
+          "start": 0.72,
+          "end": 0.92
+        },
+        {
+          "text": "tăng",
+          "start": 0.92,
+          "end": 1.1
+        },
+        {
+          "text": "trưởng",
+          "start": 1.1,
+          "end": 1.34
+        },
+        {
+          "text": "cổ",
+          "start": 1.34,
+          "end": 1.48
+        },
+        {
+          "text": "phiếu,",
+          "start": 1.48,
+          "end": 1.76
+        },
+        {
+          "text": "tỷ",
+          "start": 2.2,
+          "end": 2.28
+        },
+        {
+          "text": "phú",
+          "start": 2.28,
+          "end": 2.48
+        },
+        {
+          "text": "Phạm",
+          "start": 2.48,
+          "end": 2.76
+        },
+        {
+          "text": "Nhật",
+          "start": 2.76,
+          "end": 2.86
+        },
+        {
+          "text": "Vượng",
+          "start": 2.86,
+          "end": 3.14
+        },
+        {
+          "text": "đón",
+          "start": 3.14,
+          "end": 3.34
+        },
+        {
+          "text": "tin",
+          "start": 3.34,
+          "end": 3.52
+        },
+        {
+          "text": "vui.",
+          "start": 3.52,
+          "end": 3.74
+        },
+        {
+          "text": "Lợi",
+          "start": 4.28,
+          "end": 4.5133
+        },
+        {
+          "text": "nhuận",
+          "start": 4.5133,
+          "end": 4.7467
+        },
+        {
+          "text": "Vinpearl",
+          "start": 4.7467,
+          "end": 4.98
+        },
+        {
+          "text": "tăng",
+          "start": 4.98,
+          "end": 5.24
+        },
+        {
+          "text": "6,6",
+          "start": 5.24,
+          "end": 5.9
+        },
+        {
+          "text": "lần.",
+          "start": 5.9,
+          "end": 6.1
+        },
+        {
+          "text": "Vincom",
+          "start": 6.52,
+          "end": 6.9
+        },
+        {
+          "text": "Retail",
+          "start": 6.9,
+          "end": 7.36
+        },
+        {
+          "text": "bỏ",
+          "start": 7.36,
+          "end": 7.56
+        },
+        {
+          "text": "túi",
+          "start": 7.56,
+          "end": 7.82
+        },
+        {
+          "text": "gần",
+          "start": 7.82,
+          "end": 7.98
+        },
+        {
+          "text": "4.800",
+          "start": 7.98,
+          "end": 8.74
+        },
+        {
+          "text": "tỷ",
+          "start": 8.74,
+          "end": 9
+        },
+        {
+          "text": "đồng.",
+          "start": 9,
+          "end": 9.2
+        },
+        {
+          "text": "Nhóm",
+          "start": 9.72,
+          "end": 9.84
+        },
+        {
+          "text": "Vin",
+          "start": 9.84,
+          "end": 10.12
+        },
+        {
+          "text": "vừa",
+          "start": 10.12,
+          "end": 10.34
+        },
+        {
+          "text": "tung",
+          "start": 10.34,
+          "end": 10.48
+        },
+        {
+          "text": "ra",
+          "start": 10.48,
+          "end": 10.68
+        },
+        {
+          "text": "những",
+          "start": 10.68,
+          "end": 10.82
+        },
+        {
+          "text": "con",
+          "start": 10.82,
+          "end": 10.94
+        },
+        {
+          "text": "số",
+          "start": 10.94,
+          "end": 11.1
+        },
+        {
+          "text": "kinh",
+          "start": 11.1,
+          "end": 11.26
+        },
+        {
+          "text": "doanh",
+          "start": 11.26,
+          "end": 11.5
+        },
+        {
+          "text": "đáng",
+          "start": 11.5,
+          "end": 11.7
+        },
+        {
+          "text": "chú",
+          "start": 11.7,
+          "end": 11.9
+        },
+        {
+          "text": "ý",
+          "start": 11.9,
+          "end": 12.06
+        },
+        {
+          "text": "sau",
+          "start": 12.06,
+          "end": 12.3
+        },
+        {
+          "text": "9",
+          "start": 12.3,
+          "end": 12.62
+        },
+        {
+          "text": "tháng",
+          "start": 12.62,
+          "end": 12.78
+        },
+        {
+          "text": "đầu",
+          "start": 12.78,
+          "end": 12.94
+        },
+        {
+          "text": "năm.",
+          "start": 12.94,
+          "end": 13.14
+        },
+        {
+          "text": "Và",
+          "start": 13.62,
+          "end": 13.92
+        },
+        {
+          "text": "nếu",
+          "start": 13.92,
+          "end": 14.04
+        },
+        {
+          "text": "nghĩ",
+          "start": 14.04,
+          "end": 14.26
+        },
+        {
+          "text": "hệ",
+          "start": 14.26,
+          "end": 14.5
+        },
+        {
+          "text": "sinh",
+          "start": 14.5,
+          "end": 14.66
+        },
+        {
+          "text": "thái",
+          "start": 14.66,
+          "end": 14.8
+        },
+        {
+          "text": "này",
+          "start": 14.8,
+          "end": 15
+        },
+        {
+          "text": "chỉ",
+          "start": 15,
+          "end": 15.26
+        },
+        {
+          "text": "chờ",
+          "start": 15.26,
+          "end": 15.46
+        },
+        {
+          "text": "đợi",
+          "start": 15.46,
+          "end": 15.64
+        },
+        {
+          "text": "bất",
+          "start": 15.64,
+          "end": 15.76
+        },
+        {
+          "text": "động",
+          "start": 15.76,
+          "end": 15.88
+        },
+        {
+          "text": "sản",
+          "start": 15.88,
+          "end": 16.18
+        },
+        {
+          "text": "hay",
+          "start": 16.18,
+          "end": 16.44
+        },
+        {
+          "text": "xe",
+          "start": 16.44,
+          "end": 16.62
+        },
+        {
+          "text": "điện",
+          "start": 16.62,
+          "end": 16.86
+        },
+        {
+          "text": "thì",
+          "start": 17.2,
+          "end": 17.38
+        },
+        {
+          "text": "hai",
+          "start": 17.38,
+          "end": 17.6
+        },
+        {
+          "text": "cái",
+          "start": 17.6,
+          "end": 17.72
+        },
+        {
+          "text": "tên",
+          "start": 17.72,
+          "end": 17.86
+        },
+        {
+          "text": "dưới",
+          "start": 17.86,
+          "end": 18.02
+        },
+        {
+          "text": "đây",
+          "start": 18.02,
+          "end": 18.26
+        },
+        {
+          "text": "cho",
+          "start": 18.26,
+          "end": 18.5
+        },
+        {
+          "text": "thấy",
+          "start": 18.5,
+          "end": 18.66
+        },
+        {
+          "text": "bức",
+          "start": 18.66,
+          "end": 18.8
+        },
+        {
+          "text": "tranh",
+          "start": 18.8,
+          "end": 19.08
+        },
+        {
+          "text": "còn",
+          "start": 19.08,
+          "end": 19.24
+        },
+        {
+          "text": "rộng",
+          "start": 19.24,
+          "end": 19.54
+        },
+        {
+          "text": "hơn",
+          "start": 19.54,
+          "end": 19.66
+        },
+        {
+          "text": "thế.",
+          "start": 19.66,
+          "end": 19.86
+        }
+      ]
+    },
+    {
+      "id": "vinpearl",
+      "text": "Đầu tiên là Vinpearl. Doanh nghiệp du lịch nghỉ dưỡng này báo lãi hơn 2.800 tỷ đồng sau 9 tháng, tăng gấp 6,6 lần cùng kỳ. Điều này cho thấy mảng du lịch đang đóng góp thế nào vào bức tranh kinh doanh của hệ sinh thái Vin.",
+      "words": [
+        {
+          "text": "Đầu",
+          "start": 20.38,
+          "end": 20.66
+        },
+        {
+          "text": "tiên",
+          "start": 20.66,
+          "end": 20.9
+        },
+        {
+          "text": "là",
+          "start": 20.9,
+          "end": 21.18
+        },
+        {
+          "text": "Vinpearl.",
+          "start": 21.18,
+          "end": 21.73
+        },
+        {
+          "text": "Doanh",
+          "start": 21.73,
+          "end": 22.28
+        },
+        {
+          "text": "nghiệp",
+          "start": 22.28,
+          "end": 22.42
+        },
+        {
+          "text": "du",
+          "start": 22.42,
+          "end": 22.56
+        },
+        {
+          "text": "lịch",
+          "start": 22.56,
+          "end": 22.7
+        },
+        {
+          "text": "nghỉ",
+          "start": 22.7,
+          "end": 22.86
+        },
+        {
+          "text": "dưỡng",
+          "start": 22.86,
+          "end": 23.1
+        },
+        {
+          "text": "này",
+          "start": 23.1,
+          "end": 23.24
+        },
+        {
+          "text": "báo",
+          "start": 23.24,
+          "end": 23.48
+        },
+        {
+          "text": "lãi",
+          "start": 23.48,
+          "end": 23.7
+        },
+        {
+          "text": "hơn",
+          "start": 23.7,
+          "end": 23.88
+        },
+        {
+          "text": "2.800",
+          "start": 23.88,
+          "end": 24.6
+        },
+        {
+          "text": "tỷ",
+          "start": 24.6,
+          "end": 24.88
+        },
+        {
+          "text": "đồng",
+          "start": 24.88,
+          "end": 25.08
+        },
+        {
+          "text": "sau",
+          "start": 25.08,
+          "end": 25.26
+        },
+        {
+          "text": "9",
+          "start": 25.26,
+          "end": 25.58
+        },
+        {
+          "text": "tháng,",
+          "start": 25.58,
+          "end": 25.86
+        },
+        {
+          "text": "tăng",
+          "start": 25.86,
+          "end": 26.38
+        },
+        {
+          "text": "gấp",
+          "start": 26.38,
+          "end": 26.56
+        },
+        {
+          "text": "6,6",
+          "start": 26.56,
+          "end": 27.26
+        },
+        {
+          "text": "lần",
+          "start": 27.26,
+          "end": 27.44
+        },
+        {
+          "text": "cùng",
+          "start": 27.44,
+          "end": 27.58
+        },
+        {
+          "text": "kỳ.",
+          "start": 27.58,
+          "end": 27.8
+        },
+        {
+          "text": "Điều",
+          "start": 28.08,
+          "end": 28.52
+        },
+        {
+          "text": "này",
+          "start": 28.52,
+          "end": 28.62
+        },
+        {
+          "text": "cho",
+          "start": 28.62,
+          "end": 28.76
+        },
+        {
+          "text": "thấy",
+          "start": 28.76,
+          "end": 28.98
+        },
+        {
+          "text": "mảng",
+          "start": 28.98,
+          "end": 29.3
+        },
+        {
+          "text": "du",
+          "start": 29.3,
+          "end": 29.38
+        },
+        {
+          "text": "lịch",
+          "start": 29.38,
+          "end": 29.58
+        },
+        {
+          "text": "đang",
+          "start": 29.58,
+          "end": 29.76
+        },
+        {
+          "text": "đóng",
+          "start": 29.76,
+          "end": 29.98
+        },
+        {
+          "text": "góp",
+          "start": 29.98,
+          "end": 30.1
+        },
+        {
+          "text": "thế",
+          "start": 30.1,
+          "end": 30.28
+        },
+        {
+          "text": "nào",
+          "start": 30.28,
+          "end": 30.56
+        },
+        {
+          "text": "vào",
+          "start": 30.56,
+          "end": 30.74
+        },
+        {
+          "text": "bức",
+          "start": 30.74,
+          "end": 30.86
+        },
+        {
+          "text": "tranh",
+          "start": 30.86,
+          "end": 31.12
+        },
+        {
+          "text": "kinh",
+          "start": 31.12,
+          "end": 31.26
+        },
+        {
+          "text": "doanh",
+          "start": 31.26,
+          "end": 31.5
+        },
+        {
+          "text": "của",
+          "start": 31.5,
+          "end": 31.66
+        },
+        {
+          "text": "hệ",
+          "start": 31.66,
+          "end": 31.8
+        },
+        {
+          "text": "sinh",
+          "start": 31.8,
+          "end": 31.94
+        },
+        {
+          "text": "thái",
+          "start": 31.94,
+          "end": 32.1
+        },
+        {
+          "text": "Vin.",
+          "start": 32.1,
+          "end": 32.32
+        }
+      ]
+    },
+    {
+      "id": "retail",
+      "text": "Nhưng chưa hết, một doanh nghiệp con của Vin khác cũng vừa công bố kết quả kinh doanh với con số tăng trưởng tốt: Vincom Retail. Sau 9 tháng, doanh nghiệp này có lợi nhuận 4.737 tỷ đồng, tăng 25,1% so với cùng kỳ. Riêng quý 3, lợi nhuận sau thuế đạt 1.522 tỷ đồng, tăng 10,6%.",
+      "words": [
+        {
+          "text": "Nhưng",
+          "start": 32.72,
+          "end": 32.94
+        },
+        {
+          "text": "chưa",
+          "start": 32.94,
+          "end": 33.14
+        },
+        {
+          "text": "hết,",
+          "start": 33.14,
+          "end": 33.32
+        },
+        {
+          "text": "một",
+          "start": 33.78,
+          "end": 33.9
+        },
+        {
+          "text": "doanh",
+          "start": 33.9,
+          "end": 34.02
+        },
+        {
+          "text": "nghiệp",
+          "start": 34.02,
+          "end": 34.2
+        },
+        {
+          "text": "con",
+          "start": 34.2,
+          "end": 34.38
+        },
+        {
+          "text": "của",
+          "start": 34.38,
+          "end": 34.58
+        },
+        {
+          "text": "Vin",
+          "start": 34.58,
+          "end": 34.76
+        },
+        {
+          "text": "khác",
+          "start": 34.76,
+          "end": 35
+        },
+        {
+          "text": "cũng",
+          "start": 35,
+          "end": 35.24
+        },
+        {
+          "text": "vừa",
+          "start": 35.24,
+          "end": 35.48
+        },
+        {
+          "text": "công",
+          "start": 35.48,
+          "end": 35.64
+        },
+        {
+          "text": "bố",
+          "start": 35.64,
+          "end": 35.82
+        },
+        {
+          "text": "kết",
+          "start": 35.82,
+          "end": 35.94
+        },
+        {
+          "text": "quả",
+          "start": 35.94,
+          "end": 36.1
+        },
+        {
+          "text": "kinh",
+          "start": 36.1,
+          "end": 36.24
+        },
+        {
+          "text": "doanh",
+          "start": 36.24,
+          "end": 36.48
+        },
+        {
+          "text": "với",
+          "start": 36.48,
+          "end": 36.66
+        },
+        {
+          "text": "con",
+          "start": 36.66,
+          "end": 36.8
+        },
+        {
+          "text": "số",
+          "start": 36.8,
+          "end": 37.04
+        },
+        {
+          "text": "tăng",
+          "start": 37.04,
+          "end": 37.18
+        },
+        {
+          "text": "trưởng",
+          "start": 37.18,
+          "end": 37.4
+        },
+        {
+          "text": "tốt:",
+          "start": 37.4,
+          "end": 37.62
+        },
+        {
+          "text": "Vincom",
+          "start": 38.1,
+          "end": 38.52
+        },
+        {
+          "text": "Retail.",
+          "start": 38.52,
+          "end": 38.98
+        },
+        {
+          "text": "Sau",
+          "start": 39.38,
+          "end": 39.7
+        },
+        {
+          "text": "9",
+          "start": 39.7,
+          "end": 39.92
+        },
+        {
+          "text": "tháng,",
+          "start": 39.92,
+          "end": 40.16
+        },
+        {
+          "text": "doanh",
+          "start": 40.56,
+          "end": 40.64
+        },
+        {
+          "text": "nghiệp",
+          "start": 40.64,
+          "end": 40.78
+        },
+        {
+          "text": "này",
+          "start": 40.78,
+          "end": 40.94
+        },
+        {
+          "text": "có",
+          "start": 40.94,
+          "end": 41.14
+        },
+        {
+          "text": "lợi",
+          "start": 41.14,
+          "end": 41.6
+        },
+        {
+          "text": "nhuận",
+          "start": 41.6,
+          "end": 42.06
+        },
+        {
+          "text": "4.737",
+          "start": 42.06,
+          "end": 42.52
+        },
+        {
+          "text": "tỷ",
+          "start": 42.52,
+          "end": 42.72
+        },
+        {
+          "text": "đồng,",
+          "start": 42.72,
+          "end": 42.92
+        },
+        {
+          "text": "tăng",
+          "start": 43.34,
+          "end": 43.4
+        },
+        {
+          "text": "25,1%",
+          "start": 43.4,
+          "end": 44.6
+        },
+        {
+          "text": "so",
+          "start": 44.6,
+          "end": 44.82
+        },
+        {
+          "text": "với",
+          "start": 44.82,
+          "end": 44.94
+        },
+        {
+          "text": "cùng",
+          "start": 44.94,
+          "end": 45.08
+        },
+        {
+          "text": "kỳ.",
+          "start": 45.08,
+          "end": 45.3
+        },
+        {
+          "text": "Riêng",
+          "start": 45.76,
+          "end": 46.06
+        },
+        {
+          "text": "quý",
+          "start": 46.06,
+          "end": 46.2
+        },
+        {
+          "text": "3,",
+          "start": 46.2,
+          "end": 46.4
+        },
+        {
+          "text": "lợi",
+          "start": 46.82,
+          "end": 46.88
+        },
+        {
+          "text": "nhuận",
+          "start": 46.88,
+          "end": 47.04
+        },
+        {
+          "text": "sau",
+          "start": 47.04,
+          "end": 47.18
+        },
+        {
+          "text": "thuế",
+          "start": 47.18,
+          "end": 47.44
+        },
+        {
+          "text": "đạt",
+          "start": 47.44,
+          "end": 47.68
+        },
+        {
+          "text": "1.522",
+          "start": 47.68,
+          "end": 48.98
+        },
+        {
+          "text": "tỷ",
+          "start": 48.98,
+          "end": 49.18
+        },
+        {
+          "text": "đồng,",
+          "start": 49.18,
+          "end": 49.38
+        },
+        {
+          "text": "tăng",
+          "start": 49.8,
+          "end": 49.88
+        },
+        {
+          "text": "10,6%.",
+          "start": 49.88,
+          "end": 51.02
+        }
+      ]
+    },
+    {
+      "id": "visitors",
+      "text": "Điều đáng nói là sau những tỷ lệ lợi nhuận vẫn là một dòng người. Trong 9 tháng, hệ thống trung tâm thương mại Vincom đã đón được 171,1 triệu lượt khách, cộng thêm 20,4 triệu lượt xe tại các khu thương mại, trung bình tương đương hơn 700.000 lượt khách mỗi ngày.",
+      "words": [
+        {
+          "text": "Điều",
+          "start": 51.02,
+          "end": 51.62
+        },
+        {
+          "text": "đáng",
+          "start": 51.62,
+          "end": 51.74
+        },
+        {
+          "text": "nói",
+          "start": 51.74,
+          "end": 51.98
+        },
+        {
+          "text": "là",
+          "start": 51.98,
+          "end": 52.24
+        },
+        {
+          "text": "sau",
+          "start": 52.24,
+          "end": 52.46
+        },
+        {
+          "text": "những",
+          "start": 52.46,
+          "end": 52.72
+        },
+        {
+          "text": "tỷ",
+          "start": 53.08,
+          "end": 53.16
+        },
+        {
+          "text": "lệ",
+          "start": 53.16,
+          "end": 53.28
+        },
+        {
+          "text": "lợi",
+          "start": 53.28,
+          "end": 53.48
+        },
+        {
+          "text": "nhuận",
+          "start": 53.48,
+          "end": 53.68
+        },
+        {
+          "text": "vẫn",
+          "start": 53.68,
+          "end": 53.92
+        },
+        {
+          "text": "là",
+          "start": 53.92,
+          "end": 54.14
+        },
+        {
+          "text": "một",
+          "start": 54.14,
+          "end": 54.24
+        },
+        {
+          "text": "dòng",
+          "start": 54.24,
+          "end": 54.4
+        },
+        {
+          "text": "người.",
+          "start": 54.4,
+          "end": 54.62
+        },
+        {
+          "text": "Trong",
+          "start": 54.62,
+          "end": 55.32
+        },
+        {
+          "text": "9",
+          "start": 55.32,
+          "end": 55.54
+        },
+        {
+          "text": "tháng,",
+          "start": 55.54,
+          "end": 55.82
+        },
+        {
+          "text": "hệ",
+          "start": 56.2,
+          "end": 56.28
+        },
+        {
+          "text": "thống",
+          "start": 56.28,
+          "end": 56.44
+        },
+        {
+          "text": "trung",
+          "start": 56.44,
+          "end": 56.64
+        },
+        {
+          "text": "tâm",
+          "start": 56.64,
+          "end": 56.76
+        },
+        {
+          "text": "thương",
+          "start": 56.76,
+          "end": 56.92
+        },
+        {
+          "text": "mại",
+          "start": 56.92,
+          "end": 57.08
+        },
+        {
+          "text": "Vincom",
+          "start": 57.08,
+          "end": 57.48
+        },
+        {
+          "text": "đã",
+          "start": 57.48,
+          "end": 57.82
+        },
+        {
+          "text": "đón",
+          "start": 57.82,
+          "end": 58
+        },
+        {
+          "text": "được",
+          "start": 58,
+          "end": 58.18
+        },
+        {
+          "text": "171,1",
+          "start": 58.18,
+          "end": 59.6
+        },
+        {
+          "text": "triệu",
+          "start": 59.6,
+          "end": 59.84
+        },
+        {
+          "text": "lượt",
+          "start": 59.84,
+          "end": 59.98
+        },
+        {
+          "text": "khách,",
+          "start": 59.98,
+          "end": 60.2
+        },
+        {
+          "text": "cộng",
+          "start": 60.58,
+          "end": 60.74
+        },
+        {
+          "text": "thêm",
+          "start": 60.74,
+          "end": 60.88
+        },
+        {
+          "text": "20,4",
+          "start": 60.88,
+          "end": 61.68
+        },
+        {
+          "text": "triệu",
+          "start": 61.68,
+          "end": 61.92
+        },
+        {
+          "text": "lượt",
+          "start": 61.92,
+          "end": 62.08
+        },
+        {
+          "text": "xe",
+          "start": 62.08,
+          "end": 62.26
+        },
+        {
+          "text": "tại",
+          "start": 62.26,
+          "end": 62.5
+        },
+        {
+          "text": "các",
+          "start": 62.5,
+          "end": 62.64
+        },
+        {
+          "text": "khu",
+          "start": 62.64,
+          "end": 62.78
+        },
+        {
+          "text": "thương",
+          "start": 62.78,
+          "end": 62.92
+        },
+        {
+          "text": "mại,",
+          "start": 62.92,
+          "end": 63.14
+        },
+        {
+          "text": "trung",
+          "start": 63.52,
+          "end": 63.7
+        },
+        {
+          "text": "bình",
+          "start": 63.7,
+          "end": 63.86
+        },
+        {
+          "text": "tương",
+          "start": 63.86,
+          "end": 64.04
+        },
+        {
+          "text": "đương",
+          "start": 64.04,
+          "end": 64.24
+        },
+        {
+          "text": "hơn",
+          "start": 64.24,
+          "end": 64.5
+        },
+        {
+          "text": "700.000",
+          "start": 64.5,
+          "end": 65.12
+        },
+        {
+          "text": "lượt",
+          "start": 65.12,
+          "end": 65.32
+        },
+        {
+          "text": "khách",
+          "start": 65.32,
+          "end": 65.46
+        },
+        {
+          "text": "mỗi",
+          "start": 65.46,
+          "end": 65.64
+        },
+        {
+          "text": "ngày.",
+          "start": 65.64,
+          "end": 65.88
+        }
+      ]
+    },
+    {
+      "id": "sectors",
+      "text": "Một bên kiếm tiền từ những kỳ nghỉ, khu vui chơi và trải nghiệm du lịch. Một bên khai thác sức hút của các trung tâm thương mại, nơi người ta đến mua sắm, ăn uống và giải trí. Hai lĩnh vực khác nhau nhưng cùng đóng góp vào bức tranh sinh lời của hệ sinh thái họ Vin.",
+      "words": [
+        {
+          "text": "Một",
+          "start": 66.4,
+          "end": 66.64
+        },
+        {
+          "text": "bên",
+          "start": 66.64,
+          "end": 66.84
+        },
+        {
+          "text": "kiếm",
+          "start": 66.84,
+          "end": 67.06
+        },
+        {
+          "text": "tiền",
+          "start": 67.06,
+          "end": 67.38
+        },
+        {
+          "text": "từ",
+          "start": 67.38,
+          "end": 67.54
+        },
+        {
+          "text": "những",
+          "start": 67.54,
+          "end": 67.66
+        },
+        {
+          "text": "kỳ",
+          "start": 67.66,
+          "end": 67.86
+        },
+        {
+          "text": "nghỉ,",
+          "start": 67.86,
+          "end": 68.1
+        },
+        {
+          "text": "khu",
+          "start": 68.44,
+          "end": 68.54
+        },
+        {
+          "text": "vui",
+          "start": 68.54,
+          "end": 68.7
+        },
+        {
+          "text": "chơi",
+          "start": 68.7,
+          "end": 68.94
+        },
+        {
+          "text": "và",
+          "start": 68.94,
+          "end": 69.26
+        },
+        {
+          "text": "trải",
+          "start": 69.26,
+          "end": 69.46
+        },
+        {
+          "text": "nghiệm",
+          "start": 69.46,
+          "end": 69.64
+        },
+        {
+          "text": "du",
+          "start": 69.64,
+          "end": 69.76
+        },
+        {
+          "text": "lịch.",
+          "start": 69.76,
+          "end": 69.9
+        },
+        {
+          "text": "Một",
+          "start": 70.32,
+          "end": 70.5
+        },
+        {
+          "text": "bên",
+          "start": 70.5,
+          "end": 70.72
+        },
+        {
+          "text": "khai",
+          "start": 70.72,
+          "end": 70.96
+        },
+        {
+          "text": "thác",
+          "start": 70.96,
+          "end": 71.14
+        },
+        {
+          "text": "sức",
+          "start": 71.14,
+          "end": 71.3
+        },
+        {
+          "text": "hút",
+          "start": 71.3,
+          "end": 71.48
+        },
+        {
+          "text": "của",
+          "start": 71.48,
+          "end": 71.68
+        },
+        {
+          "text": "các",
+          "start": 71.68,
+          "end": 71.76
+        },
+        {
+          "text": "trung",
+          "start": 71.76,
+          "end": 71.94
+        },
+        {
+          "text": "tâm",
+          "start": 71.94,
+          "end": 72.08
+        },
+        {
+          "text": "thương",
+          "start": 72.08,
+          "end": 72.24
+        },
+        {
+          "text": "mại,",
+          "start": 72.24,
+          "end": 72.46
+        },
+        {
+          "text": "nơi",
+          "start": 72.76,
+          "end": 72.98
+        },
+        {
+          "text": "người",
+          "start": 72.98,
+          "end": 73.1
+        },
+        {
+          "text": "ta",
+          "start": 73.1,
+          "end": 73.24
+        },
+        {
+          "text": "đến",
+          "start": 73.24,
+          "end": 73.4
+        },
+        {
+          "text": "mua",
+          "start": 73.4,
+          "end": 73.68
+        },
+        {
+          "text": "sắm,",
+          "start": 73.68,
+          "end": 73.9
+        },
+        {
+          "text": "ăn",
+          "start": 74.22,
+          "end": 74.3
+        },
+        {
+          "text": "uống",
+          "start": 74.3,
+          "end": 74.6
+        },
+        {
+          "text": "và",
+          "start": 74.6,
+          "end": 74.82
+        },
+        {
+          "text": "giải",
+          "start": 74.82,
+          "end": 75
+        },
+        {
+          "text": "trí.",
+          "start": 75,
+          "end": 75.26
+        },
+        {
+          "text": "Hai",
+          "start": 75.82,
+          "end": 75.98
+        },
+        {
+          "text": "lĩnh",
+          "start": 75.98,
+          "end": 76.12
+        },
+        {
+          "text": "vực",
+          "start": 76.12,
+          "end": 76.24
+        },
+        {
+          "text": "khác",
+          "start": 76.24,
+          "end": 76.44
+        },
+        {
+          "text": "nhau",
+          "start": 76.44,
+          "end": 76.72
+        },
+        {
+          "text": "nhưng",
+          "start": 77,
+          "end": 77.16
+        },
+        {
+          "text": "cùng",
+          "start": 77.16,
+          "end": 77.4
+        },
+        {
+          "text": "đóng",
+          "start": 77.4,
+          "end": 77.62
+        },
+        {
+          "text": "góp",
+          "start": 77.62,
+          "end": 77.76
+        },
+        {
+          "text": "vào",
+          "start": 77.76,
+          "end": 77.94
+        },
+        {
+          "text": "bức",
+          "start": 77.94,
+          "end": 78.06
+        },
+        {
+          "text": "tranh",
+          "start": 78.06,
+          "end": 78.3
+        },
+        {
+          "text": "sinh",
+          "start": 78.3,
+          "end": 78.46
+        },
+        {
+          "text": "lời",
+          "start": 78.46,
+          "end": 78.74
+        },
+        {
+          "text": "của",
+          "start": 78.74,
+          "end": 78.86
+        },
+        {
+          "text": "hệ",
+          "start": 78.86,
+          "end": 78.98
+        },
+        {
+          "text": "sinh",
+          "start": 78.98,
+          "end": 79.18
+        },
+        {
+          "text": "thái",
+          "start": 79.18,
+          "end": 79.34
+        },
+        {
+          "text": "họ",
+          "start": 79.34,
+          "end": 79.5
+        },
+        {
+          "text": "Vin.",
+          "start": 79.5,
+          "end": 79.68
+        }
+      ]
+    },
+    {
+      "id": "closing",
+      "text": "Theo bạn, từ giờ tới Tết âm, liệu Vin sẽ còn chạm tới đỉnh nào nữa? Bình luận cho tôi biết nhé!",
+      "words": [
+        {
+          "text": "Theo",
+          "start": 79.68,
+          "end": 80.42
+        },
+        {
+          "text": "bạn,",
+          "start": 80.42,
+          "end": 80.64
+        },
+        {
+          "text": "từ",
+          "start": 81,
+          "end": 81.1
+        },
+        {
+          "text": "giờ",
+          "start": 81.1,
+          "end": 81.32
+        },
+        {
+          "text": "tới",
+          "start": 81.32,
+          "end": 81.5
+        },
+        {
+          "text": "Tết",
+          "start": 81.5,
+          "end": 81.68
+        },
+        {
+          "text": "âm,",
+          "start": 81.68,
+          "end": 81.88
+        },
+        {
+          "text": "liệu",
+          "start": 82.14,
+          "end": 82.42
+        },
+        {
+          "text": "Vin",
+          "start": 82.42,
+          "end": 82.68
+        },
+        {
+          "text": "sẽ",
+          "start": 82.68,
+          "end": 82.88
+        },
+        {
+          "text": "còn",
+          "start": 82.88,
+          "end": 83.04
+        },
+        {
+          "text": "chạm",
+          "start": 83.04,
+          "end": 83.38
+        },
+        {
+          "text": "tới",
+          "start": 83.38,
+          "end": 83.46
+        },
+        {
+          "text": "đỉnh",
+          "start": 83.46,
+          "end": 83.64
+        },
+        {
+          "text": "nào",
+          "start": 83.64,
+          "end": 83.78
+        },
+        {
+          "text": "nữa?",
+          "start": 83.78,
+          "end": 83.96
+        },
+        {
+          "text": "Bình",
+          "start": 84.38,
+          "end": 84.62
+        },
+        {
+          "text": "luận",
+          "start": 84.62,
+          "end": 84.82
+        },
+        {
+          "text": "cho",
+          "start": 84.82,
+          "end": 84.94
+        },
+        {
+          "text": "tôi",
+          "start": 84.94,
+          "end": 85.06
+        },
+        {
+          "text": "biết",
+          "start": 85.06,
+          "end": 85.16
+        },
+        {
+          "text": "nhé!",
+          "start": 85.16,
+          "end": 85.38
+        }
+      ]
+    }
+  ]
+}
