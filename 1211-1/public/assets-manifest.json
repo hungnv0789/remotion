@@ -1,0 +1,9 @@
+{
+  "audio": {
+    "path": "audio/1211-1.mp3",
+    "sha256": "6dbec11c3f7a8c811b7da3823ff06477d227c7c3321bb1fe1d2ebdd7273d316e",
+    "bytes": 2193231
+  },
+  "illustrations": "Original React/SVG; no remote image assets.",
+  "font": "Be Vietnam Pro / SIL OFL 1.1"
+}
