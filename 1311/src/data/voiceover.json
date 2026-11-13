@@ -1,0 +1,2144 @@
+{
+  "audioSrc": "audio/voiceover.mp3",
+  "durationSeconds": 87.951688,
+  "sourceSha256": "99f7c22a0a44eef5397859f7de4827dabd9c414eb396aac2d6c4fca37010c672",
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Bạn có tin rằng chỉ một quyết định từ chức của một CEO cũng có thể khiến hàng nghìn tỷ USD vốn hóa thị trường bị lung lay? Đó chính là câu chuyện đang xảy ra với Nvidia – gã khổng lồ đứng sau cơn sốt trí tuệ nhân tạo AI toàn cầu.",
+      "words": [
+        {
+          "text": "Bạn",
+          "start": 0,
+          "end": 0.2
+        },
+        {
+          "text": "có",
+          "start": 0.2,
+          "end": 0.3
+        },
+        {
+          "text": "tin",
+          "start": 0.3,
+          "end": 0.44
+        },
+        {
+          "text": "rằng",
+          "start": 0.44,
+          "end": 0.62
+        },
+        {
+          "text": "chỉ",
+          "start": 0.62,
+          "end": 0.8
+        },
+        {
+          "text": "một",
+          "start": 0.8,
+          "end": 0.9
+        },
+        {
+          "text": "quyết",
+          "start": 0.9,
+          "end": 1.06
+        },
+        {
+          "text": "định",
+          "start": 1.06,
+          "end": 1.26
+        },
+        {
+          "text": "từ",
+          "start": 1.26,
+          "end": 1.4
+        },
+        {
+          "text": "chức",
+          "start": 1.4,
+          "end": 1.64
+        },
+        {
+          "text": "của",
+          "start": 1.64,
+          "end": 1.76
+        },
+        {
+          "text": "một",
+          "start": 1.76,
+          "end": 1.86
+        },
+        {
+          "text": "CEO",
+          "start": 1.86,
+          "end": 2.24
+        },
+        {
+          "text": "cũng",
+          "start": 2.24,
+          "end": 2.66
+        },
+        {
+          "text": "có",
+          "start": 2.66,
+          "end": 2.82
+        },
+        {
+          "text": "thể",
+          "start": 2.82,
+          "end": 2.96
+        },
+        {
+          "text": "khiến",
+          "start": 2.96,
+          "end": 3.16
+        },
+        {
+          "text": "hàng",
+          "start": 3.16,
+          "end": 3.3
+        },
+        {
+          "text": "nghìn",
+          "start": 3.3,
+          "end": 3.48
+        },
+        {
+          "text": "tỷ",
+          "start": 3.48,
+          "end": 3.64
+        },
+        {
+          "text": "USD",
+          "start": 3.64,
+          "end": 4.02
+        },
+        {
+          "text": "vốn",
+          "start": 4.02,
+          "end": 4.44
+        },
+        {
+          "text": "hóa",
+          "start": 4.44,
+          "end": 4.66
+        },
+        {
+          "text": "thị",
+          "start": 4.66,
+          "end": 4.74
+        },
+        {
+          "text": "trường",
+          "start": 4.74,
+          "end": 4.92
+        },
+        {
+          "text": "bị",
+          "start": 4.92,
+          "end": 5.04
+        },
+        {
+          "text": "lung",
+          "start": 5.04,
+          "end": 5.2
+        },
+        {
+          "text": "lay?",
+          "start": 5.2,
+          "end": 5.38
+        },
+        {
+          "text": "Đó",
+          "start": 5.76,
+          "end": 5.84
+        },
+        {
+          "text": "chính",
+          "start": 5.84,
+          "end": 6
+        },
+        {
+          "text": "là",
+          "start": 6,
+          "end": 6.16
+        },
+        {
+          "text": "câu",
+          "start": 6.16,
+          "end": 6.32
+        },
+        {
+          "text": "chuyện",
+          "start": 6.32,
+          "end": 6.46
+        },
+        {
+          "text": "đang",
+          "start": 6.46,
+          "end": 6.58
+        },
+        {
+          "text": "xảy",
+          "start": 6.58,
+          "end": 6.78
+        },
+        {
+          "text": "ra",
+          "start": 6.78,
+          "end": 6.9
+        },
+        {
+          "text": "với",
+          "start": 6.9,
+          "end": 7.06
+        },
+        {
+          "text": "Nvidia",
+          "start": 7.06,
+          "end": 7.48
+        },
+        {
+          "text": "–",
+          "start": 7.94,
+          "end": 7.965
+        },
+        {
+          "text": "gã",
+          "start": 7.965,
+          "end": 8.06
+        },
+        {
+          "text": "khổng",
+          "start": 8.06,
+          "end": 8.26
+        },
+        {
+          "text": "lồ",
+          "start": 8.26,
+          "end": 8.42
+        },
+        {
+          "text": "đứng",
+          "start": 8.42,
+          "end": 8.58
+        },
+        {
+          "text": "sau",
+          "start": 8.58,
+          "end": 8.72
+        },
+        {
+          "text": "cơn",
+          "start": 8.72,
+          "end": 8.9
+        },
+        {
+          "text": "sốt",
+          "start": 8.9,
+          "end": 9.06
+        },
+        {
+          "text": "trí",
+          "start": 9.06,
+          "end": 9.26
+        },
+        {
+          "text": "tuệ",
+          "start": 9.26,
+          "end": 9.44
+        },
+        {
+          "text": "nhân",
+          "start": 9.44,
+          "end": 9.56
+        },
+        {
+          "text": "tạo",
+          "start": 9.56,
+          "end": 9.78
+        },
+        {
+          "text": "AI",
+          "start": 9.78,
+          "end": 9.96
+        },
+        {
+          "text": "toàn",
+          "start": 9.96,
+          "end": 10.3
+        },
+        {
+          "text": "cầu.",
+          "start": 10.3,
+          "end": 10.5
+        }
+      ]
+    },
+    {
+      "id": "leadership",
+      "text": "Ngày 12/11, Jensen Huang – nhà sáng lập kiêm CEO Nvidia – chính thức từ chức sau một tuần đầy biến động liên quan đến những bê bối cá nhân và cuộc điều tra của hội đồng quản trị. Người thay thế tạm thời ông là Colette Kress, Giám đốc tài chính của Nvidia.",
+      "words": [
+        {
+          "text": "Ngày",
+          "start": 10.80208,
+          "end": 10.98208
+        },
+        {
+          "text": "12/11,",
+          "start": 10.98208,
+          "end": 11.60208
+        },
+        {
+          "text": "Jensen",
+          "start": 11.78208,
+          "end": 12.02208
+        },
+        {
+          "text": "Huang",
+          "start": 12.02208,
+          "end": 12.24208
+        },
+        {
+          "text": "–",
+          "start": 12.46208,
+          "end": 12.48708
+        },
+        {
+          "text": "nhà",
+          "start": 12.48708,
+          "end": 12.56208
+        },
+        {
+          "text": "sáng",
+          "start": 12.56208,
+          "end": 12.76208
+        },
+        {
+          "text": "lập",
+          "start": 12.76208,
+          "end": 12.94208
+        },
+        {
+          "text": "kiêm",
+          "start": 12.94208,
+          "end": 13.08208
+        },
+        {
+          "text": "CEO",
+          "start": 13.08208,
+          "end": 13.42208
+        },
+        {
+          "text": "Nvidia",
+          "start": 13.42208,
+          "end": 14.00208
+        },
+        {
+          "text": "–",
+          "start": 14.48208,
+          "end": 14.50708
+        },
+        {
+          "text": "chính",
+          "start": 14.50708,
+          "end": 14.58208
+        },
+        {
+          "text": "thức",
+          "start": 14.58208,
+          "end": 14.76208
+        },
+        {
+          "text": "từ",
+          "start": 14.76208,
+          "end": 14.86208
+        },
+        {
+          "text": "chức",
+          "start": 14.86208,
+          "end": 15.02208
+        },
+        {
+          "text": "sau",
+          "start": 15.02208,
+          "end": 15.18208
+        },
+        {
+          "text": "một",
+          "start": 15.18208,
+          "end": 15.32208
+        },
+        {
+          "text": "tuần",
+          "start": 15.32208,
+          "end": 15.50208
+        },
+        {
+          "text": "đầy",
+          "start": 15.50208,
+          "end": 15.68208
+        },
+        {
+          "text": "biến",
+          "start": 15.68208,
+          "end": 15.82208
+        },
+        {
+          "text": "động",
+          "start": 15.82208,
+          "end": 15.98208
+        },
+        {
+          "text": "liên",
+          "start": 15.98208,
+          "end": 16.18208
+        },
+        {
+          "text": "quan",
+          "start": 16.18208,
+          "end": 16.30208
+        },
+        {
+          "text": "đến",
+          "start": 16.30208,
+          "end": 16.50208
+        },
+        {
+          "text": "những",
+          "start": 16.50208,
+          "end": 16.66208
+        },
+        {
+          "text": "bê",
+          "start": 16.66208,
+          "end": 16.68708
+        },
+        {
+          "text": "bối",
+          "start": 16.68708,
+          "end": 16.96208
+        },
+        {
+          "text": "cá",
+          "start": 16.96208,
+          "end": 17.12208
+        },
+        {
+          "text": "nhân",
+          "start": 17.12208,
+          "end": 17.28208
+        },
+        {
+          "text": "và",
+          "start": 17.28208,
+          "end": 17.62208
+        },
+        {
+          "text": "cuộc",
+          "start": 17.62208,
+          "end": 17.74208
+        },
+        {
+          "text": "điều",
+          "start": 17.74208,
+          "end": 17.90208
+        },
+        {
+          "text": "tra",
+          "start": 17.90208,
+          "end": 18.12208
+        },
+        {
+          "text": "của",
+          "start": 18.12208,
+          "end": 18.28208
+        },
+        {
+          "text": "hội",
+          "start": 18.28208,
+          "end": 18.40208
+        },
+        {
+          "text": "đồng",
+          "start": 18.40208,
+          "end": 18.54208
+        },
+        {
+          "text": "quản",
+          "start": 18.54208,
+          "end": 18.72208
+        },
+        {
+          "text": "trị.",
+          "start": 18.72208,
+          "end": 18.94208
+        },
+        {
+          "text": "Người",
+          "start": 19.22208,
+          "end": 19.38208
+        },
+        {
+          "text": "thay",
+          "start": 19.38208,
+          "end": 19.52208
+        },
+        {
+          "text": "thế",
+          "start": 19.52208,
+          "end": 19.60208
+        },
+        {
+          "text": "tạm",
+          "start": 19.60208,
+          "end": 19.84208
+        },
+        {
+          "text": "thời",
+          "start": 19.84208,
+          "end": 19.94208
+        },
+        {
+          "text": "ông",
+          "start": 19.94208,
+          "end": 20.12208
+        },
+        {
+          "text": "là",
+          "start": 20.12208,
+          "end": 20.28208
+        },
+        {
+          "text": "Colette",
+          "start": 20.28208,
+          "end": 20.60208
+        },
+        {
+          "text": "Kress,",
+          "start": 20.60208,
+          "end": 20.86208
+        },
+        {
+          "text": "Giám",
+          "start": 21.10208,
+          "end": 21.22208
+        },
+        {
+          "text": "đốc",
+          "start": 21.22208,
+          "end": 21.34208
+        },
+        {
+          "text": "tài",
+          "start": 21.34208,
+          "end": 21.50208
+        },
+        {
+          "text": "chính",
+          "start": 21.50208,
+          "end": 21.62208
+        },
+        {
+          "text": "của",
+          "start": 21.62208,
+          "end": 21.80208
+        },
+        {
+          "text": "Nvidia.",
+          "start": 21.80208,
+          "end": 22.12208
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "text": "Ngay sau thông tin này, cổ phiếu Nvidia chịu áp lực bán mạnh, có thời điểm giảm hơn 10% trong phiên giao dịch. Kết phiên, cổ phiếu Nvidia giảm 4,3%. Không chỉ Nvidia, các chỉ số chứng khoán lớn của Mỹ như S&P 500 và Nasdaq cũng đồng loạt giảm điểm.",
+      "words": [
+        {
+          "text": "Ngay",
+          "start": 22.64098,
+          "end": 22.86098
+        },
+        {
+          "text": "sau",
+          "start": 22.86098,
+          "end": 23.02098
+        },
+        {
+          "text": "thông",
+          "start": 23.02098,
+          "end": 23.20098
+        },
+        {
+          "text": "tin",
+          "start": 23.20098,
+          "end": 23.34098
+        },
+        {
+          "text": "này,",
+          "start": 23.34098,
+          "end": 23.52098
+        },
+        {
+          "text": "cổ",
+          "start": 23.76098,
+          "end": 23.88098
+        },
+        {
+          "text": "phiếu",
+          "start": 23.88098,
+          "end": 24.06098
+        },
+        {
+          "text": "Nvidia",
+          "start": 24.06098,
+          "end": 24.52098
+        },
+        {
+          "text": "chịu",
+          "start": 24.52098,
+          "end": 24.94098
+        },
+        {
+          "text": "áp",
+          "start": 24.94098,
+          "end": 25.10098
+        },
+        {
+          "text": "lực",
+          "start": 25.10098,
+          "end": 25.20098
+        },
+        {
+          "text": "bán",
+          "start": 25.20098,
+          "end": 25.36098
+        },
+        {
+          "text": "mạnh,",
+          "start": 25.36098,
+          "end": 25.56098
+        },
+        {
+          "text": "có",
+          "start": 25.84098,
+          "end": 25.98098
+        },
+        {
+          "text": "thời",
+          "start": 25.98098,
+          "end": 26.02098
+        },
+        {
+          "text": "điểm",
+          "start": 26.02098,
+          "end": 26.20098
+        },
+        {
+          "text": "giảm",
+          "start": 26.20098,
+          "end": 26.44098
+        },
+        {
+          "text": "hơn",
+          "start": 26.44098,
+          "end": 26.52098
+        },
+        {
+          "text": "10%",
+          "start": 26.52098,
+          "end": 26.74098
+        },
+        {
+          "text": "trong",
+          "start": 27.02098,
+          "end": 27.22098
+        },
+        {
+          "text": "phiên",
+          "start": 27.22098,
+          "end": 27.40098
+        },
+        {
+          "text": "giao",
+          "start": 27.40098,
+          "end": 27.52098
+        },
+        {
+          "text": "dịch.",
+          "start": 27.52098,
+          "end": 27.76098
+        },
+        {
+          "text": "Kết",
+          "start": 28.18098,
+          "end": 28.22098
+        },
+        {
+          "text": "phiên,",
+          "start": 28.22098,
+          "end": 28.46098
+        },
+        {
+          "text": "cổ",
+          "start": 28.46098,
+          "end": 28.68098
+        },
+        {
+          "text": "phiếu",
+          "start": 28.68098,
+          "end": 28.84098
+        },
+        {
+          "text": "Nvidia",
+          "start": 28.84098,
+          "end": 29.40098
+        },
+        {
+          "text": "giảm",
+          "start": 29.40098,
+          "end": 29.68098
+        },
+        {
+          "text": "4,3%.",
+          "start": 29.68098,
+          "end": 30.72098
+        },
+        {
+          "text": "Không",
+          "start": 30.72098,
+          "end": 30.94098
+        },
+        {
+          "text": "chỉ",
+          "start": 30.94098,
+          "end": 31.10098
+        },
+        {
+          "text": "Nvidia,",
+          "start": 31.10098,
+          "end": 31.72098
+        },
+        {
+          "text": "các",
+          "start": 31.98098,
+          "end": 32.06098
+        },
+        {
+          "text": "chỉ",
+          "start": 32.06098,
+          "end": 32.22098
+        },
+        {
+          "text": "số",
+          "start": 32.22098,
+          "end": 32.40098
+        },
+        {
+          "text": "chứng",
+          "start": 32.40098,
+          "end": 32.60098
+        },
+        {
+          "text": "khoán",
+          "start": 32.60098,
+          "end": 32.78098
+        },
+        {
+          "text": "lớn",
+          "start": 32.78098,
+          "end": 33.02098
+        },
+        {
+          "text": "của",
+          "start": 33.02098,
+          "end": 33.10098
+        },
+        {
+          "text": "Mỹ",
+          "start": 33.10098,
+          "end": 33.30098
+        },
+        {
+          "text": "như",
+          "start": 33.30098,
+          "end": 33.56098
+        },
+        {
+          "text": "S&P",
+          "start": 33.56098,
+          "end": 34.08098
+        },
+        {
+          "text": "500",
+          "start": 34.08098,
+          "end": 34.44098
+        },
+        {
+          "text": "và",
+          "start": 34.44098,
+          "end": 34.82098
+        },
+        {
+          "text": "Nasdaq",
+          "start": 34.82098,
+          "end": 35.24098
+        },
+        {
+          "text": "cũng",
+          "start": 35.24098,
+          "end": 35.34098
+        },
+        {
+          "text": "đồng",
+          "start": 35.34098,
+          "end": 35.56098
+        },
+        {
+          "text": "loạt",
+          "start": 35.56098,
+          "end": 35.72098
+        },
+        {
+          "text": "giảm",
+          "start": 35.72098,
+          "end": 35.90098
+        },
+        {
+          "text": "điểm.",
+          "start": 35.90098,
+          "end": 36.08098
+        }
+      ]
+    },
+    {
+      "id": "confidence",
+      "text": "Vậy tại sao sự ra đi của một người lại có thể tác động đến cả thị trường? Bởi vì Jensen Huang không đơn thuần là một CEO. Ông được xem là gương mặt đại diện cho cuộc cách mạng AI, là người định hình chiến lược phát triển của Nvidia và có ảnh hưởng rất lớn đến niềm tin của nhà đầu tư vào tương lai ngành công nghệ.",
+      "words": [
+        {
+          "text": "Vậy",
+          "start": 36.34856,
+          "end": 36.58856
+        },
+        {
+          "text": "tại",
+          "start": 36.58856,
+          "end": 36.66856
+        },
+        {
+          "text": "sao",
+          "start": 36.66856,
+          "end": 36.90856
+        },
+        {
+          "text": "sự",
+          "start": 36.90856,
+          "end": 37.06856
+        },
+        {
+          "text": "ra",
+          "start": 37.06856,
+          "end": 37.22856
+        },
+        {
+          "text": "đi",
+          "start": 37.22856,
+          "end": 37.38856
+        },
+        {
+          "text": "của",
+          "start": 37.38856,
+          "end": 37.50856
+        },
+        {
+          "text": "một",
+          "start": 37.50856,
+          "end": 37.60856
+        },
+        {
+          "text": "người",
+          "start": 37.60856,
+          "end": 37.82856
+        },
+        {
+          "text": "lại",
+          "start": 37.82856,
+          "end": 37.92856
+        },
+        {
+          "text": "có",
+          "start": 37.92856,
+          "end": 38.04856
+        },
+        {
+          "text": "thể",
+          "start": 38.04856,
+          "end": 38.16856
+        },
+        {
+          "text": "tác",
+          "start": 38.16856,
+          "end": 38.34856
+        },
+        {
+          "text": "động",
+          "start": 38.34856,
+          "end": 38.44856
+        },
+        {
+          "text": "đến",
+          "start": 38.44856,
+          "end": 38.60856
+        },
+        {
+          "text": "cả",
+          "start": 38.60856,
+          "end": 38.78856
+        },
+        {
+          "text": "thị",
+          "start": 38.78856,
+          "end": 38.94856
+        },
+        {
+          "text": "trường?",
+          "start": 38.94856,
+          "end": 39.16856
+        },
+        {
+          "text": "Bởi",
+          "start": 39.46856,
+          "end": 39.70856
+        },
+        {
+          "text": "vì",
+          "start": 39.70856,
+          "end": 39.80856
+        },
+        {
+          "text": "Jensen",
+          "start": 39.80856,
+          "end": 40.08856
+        },
+        {
+          "text": "Huang",
+          "start": 40.08856,
+          "end": 40.30856
+        },
+        {
+          "text": "không",
+          "start": 40.30856,
+          "end": 40.54856
+        },
+        {
+          "text": "đơn",
+          "start": 40.54856,
+          "end": 40.70856
+        },
+        {
+          "text": "thuần",
+          "start": 40.70856,
+          "end": 40.88856
+        },
+        {
+          "text": "là",
+          "start": 40.88856,
+          "end": 41.02856
+        },
+        {
+          "text": "một",
+          "start": 41.02856,
+          "end": 41.12856
+        },
+        {
+          "text": "CEO.",
+          "start": 41.12856,
+          "end": 41.50856
+        },
+        {
+          "text": "Ông",
+          "start": 42.00856,
+          "end": 42.08856
+        },
+        {
+          "text": "được",
+          "start": 42.08856,
+          "end": 42.20856
+        },
+        {
+          "text": "xem",
+          "start": 42.20856,
+          "end": 42.38856
+        },
+        {
+          "text": "là",
+          "start": 42.38856,
+          "end": 42.52856
+        },
+        {
+          "text": "gương",
+          "start": 42.52856,
+          "end": 42.68856
+        },
+        {
+          "text": "mặt",
+          "start": 42.68856,
+          "end": 42.80856
+        },
+        {
+          "text": "đại",
+          "start": 42.80856,
+          "end": 42.96856
+        },
+        {
+          "text": "diện",
+          "start": 42.96856,
+          "end": 43.16856
+        },
+        {
+          "text": "cho",
+          "start": 43.16856,
+          "end": 43.26856
+        },
+        {
+          "text": "cuộc",
+          "start": 43.26856,
+          "end": 43.38856
+        },
+        {
+          "text": "cách",
+          "start": 43.38856,
+          "end": 43.52856
+        },
+        {
+          "text": "mạng",
+          "start": 43.52856,
+          "end": 43.74856
+        },
+        {
+          "text": "AI,",
+          "start": 43.74856,
+          "end": 43.96856
+        },
+        {
+          "text": "là",
+          "start": 43.96856,
+          "end": 44.40856
+        },
+        {
+          "text": "người",
+          "start": 44.40856,
+          "end": 44.50856
+        },
+        {
+          "text": "định",
+          "start": 44.50856,
+          "end": 44.68856
+        },
+        {
+          "text": "hình",
+          "start": 44.68856,
+          "end": 44.80856
+        },
+        {
+          "text": "chiến",
+          "start": 44.80856,
+          "end": 45.02856
+        },
+        {
+          "text": "lược",
+          "start": 45.02856,
+          "end": 45.16856
+        },
+        {
+          "text": "phát",
+          "start": 45.16856,
+          "end": 45.30856
+        },
+        {
+          "text": "triển",
+          "start": 45.30856,
+          "end": 45.48856
+        },
+        {
+          "text": "của",
+          "start": 45.48856,
+          "end": 45.60856
+        },
+        {
+          "text": "Nvidia",
+          "start": 45.60856,
+          "end": 46.04856
+        },
+        {
+          "text": "và",
+          "start": 46.04856,
+          "end": 46.56856
+        },
+        {
+          "text": "có",
+          "start": 46.56856,
+          "end": 46.70856
+        },
+        {
+          "text": "ảnh",
+          "start": 46.70856,
+          "end": 46.88856
+        },
+        {
+          "text": "hưởng",
+          "start": 46.88856,
+          "end": 47.00856
+        },
+        {
+          "text": "rất",
+          "start": 47.00856,
+          "end": 47.16856
+        },
+        {
+          "text": "lớn",
+          "start": 47.16856,
+          "end": 47.44856
+        },
+        {
+          "text": "đến",
+          "start": 47.44856,
+          "end": 47.60856
+        },
+        {
+          "text": "niềm",
+          "start": 47.60856,
+          "end": 47.82856
+        },
+        {
+          "text": "tin",
+          "start": 47.82856,
+          "end": 47.94856
+        },
+        {
+          "text": "của",
+          "start": 47.94856,
+          "end": 48.08856
+        },
+        {
+          "text": "nhà",
+          "start": 48.08856,
+          "end": 48.22856
+        },
+        {
+          "text": "đầu",
+          "start": 48.22856,
+          "end": 48.36856
+        },
+        {
+          "text": "tư",
+          "start": 48.36856,
+          "end": 48.52856
+        },
+        {
+          "text": "vào",
+          "start": 48.52856,
+          "end": 48.66856
+        },
+        {
+          "text": "tương",
+          "start": 48.66856,
+          "end": 48.82856
+        },
+        {
+          "text": "lai",
+          "start": 48.82856,
+          "end": 49.02856
+        },
+        {
+          "text": "ngành",
+          "start": 49.02856,
+          "end": 49.16856
+        },
+        {
+          "text": "công",
+          "start": 49.16856,
+          "end": 49.28856
+        },
+        {
+          "text": "nghệ.",
+          "start": 49.28856,
+          "end": 49.48856
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "text": "Khi ông rời đi, thị trường lập tức đặt ra ba câu hỏi: Thứ nhất, ai sẽ tiếp tục dẫn dắt Nvidia trong cuộc đua AI? Thứ hai, chiến lược phát triển của Nvidia có thay đổi hay không? Và thứ ba, liệu sự bất ổn tại Nvidia có lan sang những doanh nghiệp đang phụ thuộc vào hệ sinh thái AI của hãng?",
+      "words": [
+        {
+          "text": "Khi",
+          "start": 49.75865,
+          "end": 49.89865
+        },
+        {
+          "text": "ông",
+          "start": 49.89865,
+          "end": 49.99865
+        },
+        {
+          "text": "rời",
+          "start": 49.99865,
+          "end": 50.21865
+        },
+        {
+          "text": "đi,",
+          "start": 50.21865,
+          "end": 50.41865
+        },
+        {
+          "text": "thị",
+          "start": 50.63865,
+          "end": 50.69865
+        },
+        {
+          "text": "trường",
+          "start": 50.69865,
+          "end": 50.85865
+        },
+        {
+          "text": "lập",
+          "start": 50.85865,
+          "end": 51.01865
+        },
+        {
+          "text": "tức",
+          "start": 51.01865,
+          "end": 51.09865
+        },
+        {
+          "text": "đặt",
+          "start": 51.09865,
+          "end": 51.27865
+        },
+        {
+          "text": "ra",
+          "start": 51.27865,
+          "end": 51.41865
+        },
+        {
+          "text": "ba",
+          "start": 51.41865,
+          "end": 51.59865
+        },
+        {
+          "text": "câu",
+          "start": 51.59865,
+          "end": 51.75865
+        },
+        {
+          "text": "hỏi:",
+          "start": 51.75865,
+          "end": 51.93865
+        },
+        {
+          "text": "Thứ",
+          "start": 52.05865,
+          "end": 52.09865
+        },
+        {
+          "text": "nhất,",
+          "start": 52.09865,
+          "end": 52.21865
+        },
+        {
+          "text": "ai",
+          "start": 52.59865,
+          "end": 52.69865
+        },
+        {
+          "text": "sẽ",
+          "start": 52.69865,
+          "end": 52.85865
+        },
+        {
+          "text": "tiếp",
+          "start": 52.85865,
+          "end": 52.99865
+        },
+        {
+          "text": "tục",
+          "start": 52.99865,
+          "end": 53.15865
+        },
+        {
+          "text": "dẫn",
+          "start": 53.15865,
+          "end": 53.33865
+        },
+        {
+          "text": "dắt",
+          "start": 53.33865,
+          "end": 53.49865
+        },
+        {
+          "text": "Nvidia",
+          "start": 53.49865,
+          "end": 53.81865
+        },
+        {
+          "text": "trong",
+          "start": 53.81865,
+          "end": 54.21865
+        },
+        {
+          "text": "cuộc",
+          "start": 54.21865,
+          "end": 54.33865
+        },
+        {
+          "text": "đua",
+          "start": 54.33865,
+          "end": 54.53865
+        },
+        {
+          "text": "AI?",
+          "start": 54.53865,
+          "end": 54.75865
+        },
+        {
+          "text": "Thứ",
+          "start": 55.19865,
+          "end": 55.36865
+        },
+        {
+          "text": "hai,",
+          "start": 55.36865,
+          "end": 55.53865
+        },
+        {
+          "text": "chiến",
+          "start": 55.77865,
+          "end": 55.91865
+        },
+        {
+          "text": "lược",
+          "start": 55.91865,
+          "end": 56.03865
+        },
+        {
+          "text": "phát",
+          "start": 56.03865,
+          "end": 56.17865
+        },
+        {
+          "text": "triển",
+          "start": 56.17865,
+          "end": 56.35865
+        },
+        {
+          "text": "của",
+          "start": 56.35865,
+          "end": 56.45865
+        },
+        {
+          "text": "Nvidia",
+          "start": 56.45865,
+          "end": 56.97865
+        },
+        {
+          "text": "có",
+          "start": 56.97865,
+          "end": 57.17865
+        },
+        {
+          "text": "thay",
+          "start": 57.17865,
+          "end": 57.31865
+        },
+        {
+          "text": "đổi",
+          "start": 57.31865,
+          "end": 57.45865
+        },
+        {
+          "text": "hay",
+          "start": 57.45865,
+          "end": 57.55865
+        },
+        {
+          "text": "không?",
+          "start": 57.55865,
+          "end": 57.73865
+        },
+        {
+          "text": "Và",
+          "start": 57.97865,
+          "end": 58.19865
+        },
+        {
+          "text": "thứ",
+          "start": 58.19865,
+          "end": 58.31865
+        },
+        {
+          "text": "ba,",
+          "start": 58.31865,
+          "end": 58.51865
+        },
+        {
+          "text": "liệu",
+          "start": 58.81865,
+          "end": 58.93865
+        },
+        {
+          "text": "sự",
+          "start": 58.93865,
+          "end": 59.03865
+        },
+        {
+          "text": "bất",
+          "start": 59.03865,
+          "end": 59.19865
+        },
+        {
+          "text": "ổn",
+          "start": 59.19865,
+          "end": 59.39865
+        },
+        {
+          "text": "tại",
+          "start": 59.39865,
+          "end": 59.49865
+        },
+        {
+          "text": "Nvidia",
+          "start": 59.49865,
+          "end": 60.03865
+        },
+        {
+          "text": "có",
+          "start": 60.03865,
+          "end": 60.27865
+        },
+        {
+          "text": "lan",
+          "start": 60.27865,
+          "end": 60.41865
+        },
+        {
+          "text": "sang",
+          "start": 60.41865,
+          "end": 60.63865
+        },
+        {
+          "text": "những",
+          "start": 60.63865,
+          "end": 60.75865
+        },
+        {
+          "text": "doanh",
+          "start": 60.75865,
+          "end": 60.99865
+        },
+        {
+          "text": "nghiệp",
+          "start": 60.99865,
+          "end": 61.19865
+        },
+        {
+          "text": "đang",
+          "start": 61.19865,
+          "end": 61.35865
+        },
+        {
+          "text": "phụ",
+          "start": 61.35865,
+          "end": 61.51865
+        },
+        {
+          "text": "thuộc",
+          "start": 61.51865,
+          "end": 61.71865
+        },
+        {
+          "text": "vào",
+          "start": 61.71865,
+          "end": 61.81865
+        },
+        {
+          "text": "hệ",
+          "start": 61.81865,
+          "end": 61.95865
+        },
+        {
+          "text": "sinh",
+          "start": 61.95865,
+          "end": 62.17865
+        },
+        {
+          "text": "thái",
+          "start": 62.17865,
+          "end": 62.29865
+        },
+        {
+          "text": "AI",
+          "start": 62.29865,
+          "end": 62.61865
+        },
+        {
+          "text": "của",
+          "start": 62.61865,
+          "end": 62.79865
+        },
+        {
+          "text": "hãng?",
+          "start": 62.79865,
+          "end": 63.01865
+        }
+      ]
+    },
+    {
+      "id": "lesson",
+      "text": "Câu chuyện này cho chúng ta thấy một điều: Giá cổ phiếu không chỉ phản ánh doanh thu hay lợi nhuận của doanh nghiệp, mà còn phản ánh niềm tin và kỳ vọng của nhà đầu tư vào tương lai. Một doanh nghiệp có công nghệ tốt, doanh thu lớn chưa chắc cổ phiếu sẽ luôn tăng nếu niềm tin thị trường bị lung lay.",
+      "words": [
+        {
+          "text": "Câu",
+          "start": 63.29583,
+          "end": 63.43583
+        },
+        {
+          "text": "chuyện",
+          "start": 63.43583,
+          "end": 63.63583
+        },
+        {
+          "text": "này",
+          "start": 63.63583,
+          "end": 63.73583
+        },
+        {
+          "text": "cho",
+          "start": 63.73583,
+          "end": 63.89583
+        },
+        {
+          "text": "chúng",
+          "start": 63.89583,
+          "end": 64.01583
+        },
+        {
+          "text": "ta",
+          "start": 64.01583,
+          "end": 64.17583
+        },
+        {
+          "text": "thấy",
+          "start": 64.17583,
+          "end": 64.33583
+        },
+        {
+          "text": "một",
+          "start": 64.33583,
+          "end": 64.49583
+        },
+        {
+          "text": "điều:",
+          "start": 64.49583,
+          "end": 64.67583
+        },
+        {
+          "text": "Giá",
+          "start": 64.99583,
+          "end": 65.19583
+        },
+        {
+          "text": "cổ",
+          "start": 65.19583,
+          "end": 65.33583
+        },
+        {
+          "text": "phiếu",
+          "start": 65.33583,
+          "end": 65.55583
+        },
+        {
+          "text": "không",
+          "start": 65.55583,
+          "end": 65.73583
+        },
+        {
+          "text": "chỉ",
+          "start": 65.73583,
+          "end": 65.91583
+        },
+        {
+          "text": "phản",
+          "start": 65.91583,
+          "end": 66.05583
+        },
+        {
+          "text": "ánh",
+          "start": 66.05583,
+          "end": 66.21583
+        },
+        {
+          "text": "doanh",
+          "start": 66.21583,
+          "end": 66.37583
+        },
+        {
+          "text": "thu",
+          "start": 66.37583,
+          "end": 66.53583
+        },
+        {
+          "text": "hay",
+          "start": 66.53583,
+          "end": 66.89583
+        },
+        {
+          "text": "lợi",
+          "start": 66.89583,
+          "end": 67.11583
+        },
+        {
+          "text": "nhuận",
+          "start": 67.11583,
+          "end": 67.23583
+        },
+        {
+          "text": "của",
+          "start": 67.23583,
+          "end": 67.35583
+        },
+        {
+          "text": "doanh",
+          "start": 67.35583,
+          "end": 67.53583
+        },
+        {
+          "text": "nghiệp,",
+          "start": 67.53583,
+          "end": 67.95583
+        },
+        {
+          "text": "mà",
+          "start": 67.95583,
+          "end": 68.09583
+        },
+        {
+          "text": "còn",
+          "start": 68.09583,
+          "end": 68.19583
+        },
+        {
+          "text": "phản",
+          "start": 68.19583,
+          "end": 68.43583
+        },
+        {
+          "text": "ánh",
+          "start": 68.43583,
+          "end": 68.59583
+        },
+        {
+          "text": "niềm",
+          "start": 68.59583,
+          "end": 68.77583
+        },
+        {
+          "text": "tin",
+          "start": 68.77583,
+          "end": 68.91583
+        },
+        {
+          "text": "và",
+          "start": 68.91583,
+          "end": 69.09583
+        },
+        {
+          "text": "kỳ",
+          "start": 69.09583,
+          "end": 69.27583
+        },
+        {
+          "text": "vọng",
+          "start": 69.27583,
+          "end": 69.51583
+        },
+        {
+          "text": "của",
+          "start": 69.51583,
+          "end": 69.57583
+        },
+        {
+          "text": "nhà",
+          "start": 69.57583,
+          "end": 69.67583
+        },
+        {
+          "text": "đầu",
+          "start": 69.67583,
+          "end": 69.83583
+        },
+        {
+          "text": "tư",
+          "start": 69.83583,
+          "end": 70.01583
+        },
+        {
+          "text": "vào",
+          "start": 70.01583,
+          "end": 70.13583
+        },
+        {
+          "text": "tương",
+          "start": 70.13583,
+          "end": 70.27583
+        },
+        {
+          "text": "lai.",
+          "start": 70.27583,
+          "end": 70.53583
+        },
+        {
+          "text": "Một",
+          "start": 70.75583,
+          "end": 70.97583
+        },
+        {
+          "text": "doanh",
+          "start": 70.97583,
+          "end": 71.09583
+        },
+        {
+          "text": "nghiệp",
+          "start": 71.09583,
+          "end": 71.29583
+        },
+        {
+          "text": "có",
+          "start": 71.29583,
+          "end": 71.41583
+        },
+        {
+          "text": "công",
+          "start": 71.41583,
+          "end": 71.57583
+        },
+        {
+          "text": "nghệ",
+          "start": 71.57583,
+          "end": 71.69583
+        },
+        {
+          "text": "tốt,",
+          "start": 71.69583,
+          "end": 71.87583
+        },
+        {
+          "text": "doanh",
+          "start": 72.07583,
+          "end": 72.21583
+        },
+        {
+          "text": "thu",
+          "start": 72.21583,
+          "end": 72.29583
+        },
+        {
+          "text": "lớn",
+          "start": 72.29583,
+          "end": 72.55583
+        },
+        {
+          "text": "chưa",
+          "start": 72.55583,
+          "end": 72.63583
+        },
+        {
+          "text": "chắc",
+          "start": 72.63583,
+          "end": 72.79583
+        },
+        {
+          "text": "cổ",
+          "start": 72.79583,
+          "end": 72.93583
+        },
+        {
+          "text": "phiếu",
+          "start": 72.93583,
+          "end": 73.15583
+        },
+        {
+          "text": "sẽ",
+          "start": 73.15583,
+          "end": 73.33583
+        },
+        {
+          "text": "luôn",
+          "start": 73.33583,
+          "end": 73.45583
+        },
+        {
+          "text": "tăng",
+          "start": 73.45583,
+          "end": 73.69583
+        },
+        {
+          "text": "nếu",
+          "start": 73.69583,
+          "end": 73.91583
+        },
+        {
+          "text": "niềm",
+          "start": 73.91583,
+          "end": 74.15583
+        },
+        {
+          "text": "tin",
+          "start": 74.15583,
+          "end": 74.25583
+        },
+        {
+          "text": "thị",
+          "start": 74.25583,
+          "end": 74.37583
+        },
+        {
+          "text": "trường",
+          "start": 74.37583,
+          "end": 74.59583
+        },
+        {
+          "text": "bị",
+          "start": 74.59583,
+          "end": 74.73583
+        },
+        {
+          "text": "lung",
+          "start": 74.73583,
+          "end": 74.89583
+        },
+        {
+          "text": "lay.",
+          "start": 74.89583,
+          "end": 75.09583
+        }
+      ]
+    },
+    {
+      "id": "closing",
+      "text": "Vì vậy, khi đầu tư chứng khoán, đừng chỉ nhìn vào kết quả kinh doanh. Hãy nhìn cả ban lãnh đạo, chiến lược và những rủi ro có thể làm thay đổi tương lai doanh nghiệp. Bạn nghĩ Nvidia có thể tiếp tục thống trị ngành AI sau khi Jensen Huang rời đi không? Hãy để lại ý kiến bên dưới nhé!",
+      "words": [
+        {
+          "text": "Vì",
+          "start": 75.36342,
+          "end": 75.56342
+        },
+        {
+          "text": "vậy,",
+          "start": 75.56342,
+          "end": 75.70342
+        },
+        {
+          "text": "khi",
+          "start": 75.88342,
+          "end": 75.98342
+        },
+        {
+          "text": "đầu",
+          "start": 75.98342,
+          "end": 76.10342
+        },
+        {
+          "text": "tư",
+          "start": 76.10342,
+          "end": 76.24342
+        },
+        {
+          "text": "chứng",
+          "start": 76.24342,
+          "end": 76.42342
+        },
+        {
+          "text": "khoán,",
+          "start": 76.42342,
+          "end": 76.70342
+        },
+        {
+          "text": "đừng",
+          "start": 76.98342,
+          "end": 77.08342
+        },
+        {
+          "text": "chỉ",
+          "start": 77.08342,
+          "end": 77.26342
+        },
+        {
+          "text": "nhìn",
+          "start": 77.26342,
+          "end": 77.48342
+        },
+        {
+          "text": "vào",
+          "start": 77.48342,
+          "end": 77.62342
+        },
+        {
+          "text": "kết",
+          "start": 77.62342,
+          "end": 77.76342
+        },
+        {
+          "text": "quả",
+          "start": 77.76342,
+          "end": 77.92342
+        },
+        {
+          "text": "kinh",
+          "start": 77.92342,
+          "end": 78.04342
+        },
+        {
+          "text": "doanh.",
+          "start": 78.04342,
+          "end": 78.28342
+        },
+        {
+          "text": "Hãy",
+          "start": 78.72342,
+          "end": 78.80342
+        },
+        {
+          "text": "nhìn",
+          "start": 78.80342,
+          "end": 79.00342
+        },
+        {
+          "text": "cả",
+          "start": 79.00342,
+          "end": 79.12342
+        },
+        {
+          "text": "ban",
+          "start": 79.12342,
+          "end": 79.26342
+        },
+        {
+          "text": "lãnh",
+          "start": 79.26342,
+          "end": 79.40342
+        },
+        {
+          "text": "đạo,",
+          "start": 79.40342,
+          "end": 79.60342
+        },
+        {
+          "text": "chiến",
+          "start": 79.74342,
+          "end": 79.84342
+        },
+        {
+          "text": "lược",
+          "start": 79.84342,
+          "end": 80.04342
+        },
+        {
+          "text": "và",
+          "start": 80.04342,
+          "end": 80.14342
+        },
+        {
+          "text": "những",
+          "start": 80.14342,
+          "end": 80.26342
+        },
+        {
+          "text": "rủi",
+          "start": 80.26342,
+          "end": 80.50342
+        },
+        {
+          "text": "ro",
+          "start": 80.50342,
+          "end": 80.60342
+        },
+        {
+          "text": "có",
+          "start": 80.60342,
+          "end": 80.76342
+        },
+        {
+          "text": "thể",
+          "start": 80.76342,
+          "end": 80.84342
+        },
+        {
+          "text": "làm",
+          "start": 80.84342,
+          "end": 80.98342
+        },
+        {
+          "text": "thay",
+          "start": 80.98342,
+          "end": 81.16342
+        },
+        {
+          "text": "đổi",
+          "start": 81.16342,
+          "end": 81.32342
+        },
+        {
+          "text": "tương",
+          "start": 81.32342,
+          "end": 81.44342
+        },
+        {
+          "text": "lai",
+          "start": 81.44342,
+          "end": 81.66342
+        },
+        {
+          "text": "doanh",
+          "start": 81.66342,
+          "end": 81.74342
+        },
+        {
+          "text": "nghiệp.",
+          "start": 81.74342,
+          "end": 81.96342
+        },
+        {
+          "text": "Bạn",
+          "start": 82.26342,
+          "end": 82.40342
+        },
+        {
+          "text": "nghĩ",
+          "start": 82.40342,
+          "end": 82.52342
+        },
+        {
+          "text": "Nvidia",
+          "start": 82.52342,
+          "end": 83.00342
+        },
+        {
+          "text": "có",
+          "start": 83.00342,
+          "end": 83.34342
+        },
+        {
+          "text": "thể",
+          "start": 83.34342,
+          "end": 83.46342
+        },
+        {
+          "text": "tiếp",
+          "start": 83.46342,
+          "end": 83.60342
+        },
+        {
+          "text": "tục",
+          "start": 83.60342,
+          "end": 83.74342
+        },
+        {
+          "text": "thống",
+          "start": 83.74342,
+          "end": 83.90342
+        },
+        {
+          "text": "trị",
+          "start": 83.90342,
+          "end": 84.06342
+        },
+        {
+          "text": "ngành",
+          "start": 84.06342,
+          "end": 84.20342
+        },
+        {
+          "text": "AI",
+          "start": 84.20342,
+          "end": 84.50342
+        },
+        {
+          "text": "sau",
+          "start": 84.50342,
+          "end": 84.84342
+        },
+        {
+          "text": "khi",
+          "start": 84.84342,
+          "end": 85.00342
+        },
+        {
+          "text": "Jensen",
+          "start": 85.00342,
+          "end": 85.26342
+        },
+        {
+          "text": "Huang",
+          "start": 85.26342,
+          "end": 85.52342
+        },
+        {
+          "text": "rời",
+          "start": 85.52342,
+          "end": 85.78342
+        },
+        {
+          "text": "đi",
+          "start": 85.78342,
+          "end": 85.90342
+        },
+        {
+          "text": "không?",
+          "start": 85.90342,
+          "end": 86.08342
+        },
+        {
+          "text": "Hãy",
+          "start": 86.58342,
+          "end": 86.68342
+        },
+        {
+          "text": "để",
+          "start": 86.68342,
+          "end": 86.78342
+        },
+        {
+          "text": "lại",
+          "start": 86.78342,
+          "end": 86.92342
+        },
+        {
+          "text": "ý",
+          "start": 86.92342,
+          "end": 87.08342
+        },
+        {
+          "text": "kiến",
+          "start": 87.08342,
+          "end": 87.28342
+        },
+        {
+          "text": "bên",
+          "start": 87.28342,
+          "end": 87.44342
+        },
+        {
+          "text": "dưới",
+          "start": 87.44342,
+          "end": 87.68342
+        },
+        {
+          "text": "nhé!",
+          "start": 87.68342,
+          "end": 87.84342
+        }
+      ]
+    }
+  ]
+}

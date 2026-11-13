@@ -1,0 +1,46 @@
+{
+  "voiceAlias": "female_north",
+  "engine": "VieNeu-TTS v3 Turbo",
+  "sdkVersion": "3.8.4",
+  "model": "pnnbao-ump/VieNeu-TTS-v3-Turbo",
+  "modelLicense": "Apache-2.0",
+  "backend": "ONNX CPU fp32",
+  "preset": "Mai Anh",
+  "presetDescription": "Nữ · Bắc · Phong cách tin tức",
+  "presetGender": "female",
+  "sampleRate": 48000,
+  "tempo": 1.4,
+  "sourceDurationSeconds": 87.9516875,
+  "sourceSha256": "99f7c22a0a44eef5397859f7de4827dabd9c414eb396aac2d6c4fca37010c672",
+  "alignment": [
+    {
+      "id": "hook",
+      "matchRatio": 0.897196261682243
+    },
+    {
+      "id": "leadership",
+      "matchRatio": 0.8785046728971962
+    },
+    {
+      "id": "market",
+      "matchRatio": 0.8761904761904762
+    },
+    {
+      "id": "confidence",
+      "matchRatio": 0.9714285714285714
+    },
+    {
+      "id": "questions",
+      "matchRatio": 0.890625
+    },
+    {
+      "id": "lesson",
+      "matchRatio": 0.9076923076923077
+    },
+    {
+      "id": "closing",
+      "matchRatio": 0.9193548387096774
+    }
+  ],
+  "music": "Original electronic news tension, 120 BPM"
+}

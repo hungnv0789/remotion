@@ -1,0 +1,11 @@
+Jensen Huang portrait: Office of the President, Taiwan (總統府), 2023, CC BY 2.0.
+https://commons.wikimedia.org/wiki/File:Jensen_Huang_20231109_(cropped2).jpg
+NYSE photo: Jeffrey Zeldman, 2015, CC BY 2.0.
+https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg
+https://creativecommons.org/licenses/by/2.0/
+Voice: VieNeu-TTS v3 Turbo, SDK 3.8.4, Mai Anh — female Northern news preset.
+https://github.com/pnnbao97/VieNeu-TTS
+https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo
+Music and sting: original procedural electronic news composition.
+Graphics: React/SVG concept illustrations; no real market price series.
+Font: Be Vietnam Pro, SIL Open Font License 1.1.

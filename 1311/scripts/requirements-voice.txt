@@ -1,0 +1,11 @@
+# Install vieneu separately with --no-deps for the headless SDK, then these dependencies.
+# Web UI (gradio) and torch are not needed by this project's ONNX preset inference.
+sea-g2p>=0.9.1
+onnxruntime>=1.20
+numpy>=2,<3
+soundfile
+soxr
+kaldi-native-fbank>=1.20
+tokenizers>=0.20
+huggingface-hub
+PyYAML

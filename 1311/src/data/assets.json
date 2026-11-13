@@ -1,0 +1,24 @@
+[
+  {
+    "id": "jensen-huang",
+    "src": "images/jensen-huang.jpg",
+    "title": "File:Jensen Huang 20231109 (cropped2).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_20231109_(cropped2).jpg",
+    "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Jensen_Huang_20231109_%28cropped2%29.jpg/960px-Jensen_Huang_20231109_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "總統府",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "date": "2023-11-09"
+  },
+  {
+    "id": "nyse",
+    "src": "images/nyse.jpg",
+    "title": "File:New York Stock Exchange Facade 2015.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg",
+    "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/New_York_Stock_Exchange_Facade_2015.jpg/960px-New_York_Stock_Exchange_Facade_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "Jeffrey Zeldman from Manhattan, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "date": "2015-11-15 11:16"
+  }
+]

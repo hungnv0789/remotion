@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "path": "audio/finance-news.wav",
+      "sha256": "f62728c824c955835784026089f4221b9f69debe30b680ed6c51f202965ad254",
+      "bytes": 8640044
+    },
+    {
+      "path": "audio/news-sting.wav",
+      "sha256": "fa15c93fa604672bcecb857d935213b31d9468668a2fd721d90896041aa03659",
+      "bytes": 33644
+    },
+    {
+      "path": "audio/production-manifest.json",
+      "sha256": "7921092e2ae8af90b7e456ca543a63db36e7016ed06ebb282dc8c45fbcb38bd1",
+      "bytes": 1075
+    },
+    {
+      "path": "audio/voiceover.mp3",
+      "sha256": "99f7c22a0a44eef5397859f7de4827dabd9c414eb396aac2d6c4fca37010c672",
+      "bytes": 1760204
+    },
+    {
+      "path": "audio/voiceover.wav",
+      "sha256": "0697cadc821efa99188b90a0f0f207321683d646e5bb28bcfc5341a7dc8a64bd",
+      "bytes": 8443406
+    },
+    {
+      "path": "images/jensen-huang.jpg",
+      "sha256": "24703345ee05dab1bd9f9e848349bfeaf16f98b12a117f3b69fe6f3df73d4ebe",
+      "bytes": 193138
+    },
+    {
+      "path": "images/nyse.jpg",
+      "sha256": "404403ff2a8562b4250d133fede5464bb21cd345b4ed85f40a96d9b558e85684",
+      "bytes": 492844
+    }
+  ],
+  "credits": "ASSETS.md and CREDITS.txt"
+}
