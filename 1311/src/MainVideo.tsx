@@ -196,7 +196,7 @@ export const MainVideo: FC<VideoProps> = (props) => {
       <Html5Audio src={mediaSource(audio.music)} volume={(f) => {
         const fade = interpolate(f, [0, fps * .7, durationInFrames - fps * 1.2, durationInFrames], [0, 1, 1, 0], CLAMP);
         const speaking = cues.some((cue) => f >= cue.start - 4 && f <= cue.end + 4);
-        return audio.musicVolume * fade * (speaking ? .65 : 1);
+        return audio.musicVolume * fade * (speaking ? audio.musicDuck : 1);
       }} />
       <Sequence from={0} durationInFrames={Math.ceil(fps * .7)} name="News sting">
         <Html5Audio src={mediaSource(audio.sting)} volume={audio.stingVolume} />

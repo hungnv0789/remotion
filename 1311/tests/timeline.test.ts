@@ -1,5 +1,6 @@
 import script from '../src/data/script.json';
 import audioManifest from '../public/audio/production-manifest.json';
+import mix from '../public/audio/mix-calibration.json';
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
@@ -71,7 +72,7 @@ test('complete approved script and one TTS voice are retained', () => {
   assert.equal(audioManifest.voiceAlias,'female_north');
   assert.ok(audioManifest.alignment.every(scene => scene.matchRatio > .7));
   assert.equal(audioManifest.engine,'VieNeu-TTS v3 Turbo');
-  assert.equal(audioManifest.preset,'Mai Anh');
+  assert.equal(audioManifest.preset,'Ngọc Huyền');
   assert.equal(audioManifest.presetGender,'female');
   assert.ok(audioManifest.presetDescription.includes('Bắc'));
 });
@@ -86,4 +87,12 @@ test('the default composition keeps every word within a 90-second portrait video
   assert.equal(totalFrames(defaultProps,VIDEO.fps),2700);
   const scenes=buildTimeline(defaultProps,VIDEO.fps);
   assert.ok(scenes.at(-1)!.from+scenes.at(-1)!.speechTo<2700);
+});
+
+test('original background music is calibrated below speech', () => {
+  const ratio = mix.rawMusicMonoRms * defaultProps.audio.musicVolume * defaultProps.audio.musicDuck / (mix.activeVoiceRms * defaultProps.audio.volume);
+  assert.ok(20 * Math.log10(ratio) <= -21.5);
+  assert.equal(mix.targetMusicBelowVoiceDb,-22);
+  assert.equal(createHash('sha256').update(readFileSync(new URL('../public/audio/finance-news.wav',import.meta.url))).digest('hex'),mix.musicSha256);
+  assert.ok(mix.musicOrigin.includes('no third-party'));
 });

@@ -7,7 +7,7 @@ from vieneu import Vieneu
 ROOT=Path(__file__).resolve().parents[1]
 FFMPEG=os.environ.get('FFMPEG_BINARY',str(ROOT/'node_modules/@remotion/compositor-linux-x64-gnu/ffmpeg'))
 def main():
- parser=argparse.ArgumentParser();parser.add_argument('--voice',default='Mai Anh');parser.add_argument('--tempo',type=float,default=1.40);parser.add_argument('--threads',type=int,default=3);args=parser.parse_args()
+ parser=argparse.ArgumentParser();parser.add_argument('--voice',default='Ngọc Huyền');parser.add_argument('--tempo',type=float,default=1.24);parser.add_argument('--threads',type=int,default=3);args=parser.parse_args()
  logging.basicConfig(level=logging.WARNING)
  os.environ.setdefault('HF_HUB_DISABLE_XET','1');os.environ.setdefault('HF_HUB_DISABLE_PROGRESS_BARS','1')
  tts=Vieneu(mode='v3turbo',backend='onnx',precision='fp32',threads=args.threads)

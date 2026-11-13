@@ -20,11 +20,11 @@ Chọn composition `NvidiaLeadership1311`. Kết quả ở `out/1311.mp4`, `out/
 
 ## Giọng đọc và âm thanh
 
-Dùng đúng **VieNeu-TTS v3 Turbo**, SDK **3.8.4**, backend **ONNX CPU fp32**, đầu ra gốc **48 kHz**. Alias `female_north` ánh xạ trực tiếp tới preset **Mai Anh**, được SDK mô tả **“Nữ · Bắc · Phong cách tin tức”**. Mọi đoạn đều gọi cùng preset, không dùng gTTS hoặc engine thay thế, không clone giọng Jensen Huang hay cá nhân trong câu chuyện.
+Dùng đúng **VieNeu-TTS v3 Turbo**, SDK **3.8.4**, backend **ONNX CPU fp32**, đầu ra gốc **48 kHz**. Alias `female_north` ánh xạ trực tiếp tới preset **Ngọc Huyền**, được SDK mô tả **“Nữ · Bắc · Giọng đọc tự nhiên”**. Mọi đoạn đều gọi cùng preset, không dùng gTTS hoặc engine thay thế, không clone giọng Jensen Huang hay cá nhân trong câu chuyện.
 
-File giọng hoàn chỉnh: `1311.mp3`, giống nguyên byte với `public/audio/voiceover.mp3`. Cách đọc tên riêng/số được chuẩn hóa trong `voiceover-tts.txt`; phụ đề vẫn hiển thị Jensen Huang, Colette Kress, Nvidia, S&P 500, Nasdaq và các số gốc. Tốc độ hậu xử lý `atempo=1.40`, giữ cao độ, để đủ lời trong khoảng 90 giây. Khoảng nghỉ giữa chương là 0,14 giây; phần giữ hình cuối được tính từ duration audio thực tế.
+File giọng hoàn chỉnh: `1311.mp3`, giống nguyên byte với `public/audio/voiceover.mp3`. Cách đọc tên riêng/số được chuẩn hóa trong `voiceover-tts.txt`; phụ đề vẫn hiển thị Jensen Huang, Colette Kress, Nvidia, S&P 500, Nasdaq và các số gốc. Tốc độ hậu xử lý `atempo=1.24`, giữ cao độ, để đủ lời trong khoảng 90 giây. Khoảng nghỉ giữa chương là 0,14 giây; phần giữ hình cuối được tính từ duration audio thực tế.
 
-Nhạc electronic news tension **120 BPM** và sting được tổng hợp mới, giảm âm dưới lời đọc, fade đầu/cuối. Engine, preset, duration, hash và kết quả căn lời nằm trong `public/audio/production-manifest.json`.
+Nhạc soft electronic finance **116 BPM** được tổng hợp mới từ oscillator, không dùng bản ghi hoặc sample bên thứ ba. Nền nhạc được cân thấp hơn giọng đọc khoảng **22–25 dB** khi có lời, duck theo phụ đề và fade đầu/cuối. Cấu hình đo được nằm ở `public/audio/mix-calibration.json`. Engine, preset, duration, hash và kết quả căn lời nằm trong `public/audio/production-manifest.json`.
 
 ## Cấu trúc và chỉnh sửa
 
@@ -47,11 +47,12 @@ Model không được đưa vào ZIP. Cần Python 3.10+, hỗ trợ venv và In
 python3 -m venv .venv-voice
 .venv-voice/bin/pip install --no-deps 'vieneu @ git+https://github.com/pnnbao97/VieNeu-TTS.git@22dd2ef2a89bba24a77da6dbc84c75f7f4fda05b'
 .venv-voice/bin/pip install -r scripts/requirements-voice.txt
-.venv-voice/bin/python scripts/generate-speech.py --voice 'Mai Anh' --tempo 1.40
+.venv-voice/bin/python scripts/generate-speech.py --voice 'Ngọc Huyền' --tempo 1.24
 
 python3 -m venv .venv-align
 .venv-align/bin/pip install -r scripts/requirements-align.txt
 .venv-align/bin/python scripts/align-audio.py --model small
+.venv-align/bin/python scripts/calibrate-mix.py --target-db -22
 npm run captions
 ```
 
@@ -60,3 +61,9 @@ Preset inference không cần Torch hoặc Gradio. Máy thiếu `ensurepip` có 
 ## Kiểm tra và nguồn
 
 `npm test` kiểm tra audio nguyên vẹn, giữ đủ script, timeline/caption, mốc chuyển hình, đúng engine/preset nữ miền Bắc, tài nguyên có nguồn và duration 90 giây. Kiểm tra dấu tiếng Việt, từng cảnh, nhịp đọc và frame cuối. Nội dung tin tức được dựng theo kịch bản người dùng, không xác minh lại thông tin. Xem [ASSETS.md](ASSETS.md) và `CREDITS.txt`.
+
+## Các bản để so sánh
+
+Bản hiện tại dùng Ngọc Huyền và nhạc mới. `out/1311-ngoc-huyen.mp4` và `out/1311-ngoc-huyen-mix.mp3` là bản xem/nghe. Bản Mai Anh trước đó được giữ ở `out/1311-mai-anh.mp4`, `out/1311-mai-anh.mp3`, `out/1311-mai-anh-source.zip`.
+
+Sau khi tạo lại giọng và căn lời, chạy `python scripts/calibrate-mix.py --target-db -22` trong môi trường có NumPy để cân lại nhạc (kèm 6 dB dự phòng cho cách trộn mono/stereo). Đổi `audio.musicVolume`/`audio.musicDuck` trong props sẽ thay mức phối khi render. Nguồn nhạc và bằng chứng tạo mới được ghi trong `MUSIC_NOTES.md`.

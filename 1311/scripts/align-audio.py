@@ -21,5 +21,5 @@ def main():
  record={'audioSrc':'audio/voiceover.mp3','durationSeconds':duration,'sourceSha256':manifest['sourceSha256'],'scenes':recordings}
  (ROOT/'src/data/voiceover.json').write_text(json.dumps(record,ensure_ascii=False,indent=2))
  music(max(90.0,duration+2.0),audio/'finance-news.wav');sr=24000;t=np.arange(round(.7*sr))/sr;write_wav(audio/'news-sting.wav',.12*np.sin(2*np.pi*(85*t+45*t*t))*np.exp(-t*10),sr)
- manifest['alignment']=stats;manifest['music']='Original electronic news tension, 120 BPM';(audio/'production-manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2));print('AUDIO COMPLETE',duration,flush=True)
+ manifest['alignment']=stats;manifest['music']='Original soft electronic finance bed, 116 BPM; no third-party samples';(audio/'production-manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2));print('AUDIO COMPLETE',duration,flush=True)
 if __name__=='__main__':main()

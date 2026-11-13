@@ -2,8 +2,13 @@
   "assets": [
     {
       "path": "audio/finance-news.wav",
-      "sha256": "f62728c824c955835784026089f4221b9f69debe30b680ed6c51f202965ad254",
-      "bytes": 8640044
+      "sha256": "f3e5892149ad02531e8d7cf16a5e9589ab81842140ea74b48bf3f7bac339a720",
+      "bytes": 8657312
+    },
+    {
+      "path": "audio/mix-calibration.json",
+      "sha256": "6173169f47a060841e9fa09127d2cd163b13e1514f3d518a06486c8c3a93e7ce",
+      "bytes": 563
     },
     {
       "path": "audio/news-sting.wav",
@@ -12,18 +17,18 @@
     },
     {
       "path": "audio/production-manifest.json",
-      "sha256": "7921092e2ae8af90b7e456ca543a63db36e7016ed06ebb282dc8c45fbcb38bd1",
-      "bytes": 1075
+      "sha256": "822d0b18cd24ba6b8d2e7512c788c1abcb8f26adc106f74cbab7883969eb3be5",
+      "bytes": 1724
     },
     {
       "path": "audio/voiceover.mp3",
-      "sha256": "99f7c22a0a44eef5397859f7de4827dabd9c414eb396aac2d6c4fca37010c672",
-      "bytes": 1760204
+      "sha256": "0ea40680ce3511dc52199326afcab49754602d8547cd71b871b825d71d24775d",
+      "bytes": 1765004
     },
     {
       "path": "audio/voiceover.wav",
-      "sha256": "0697cadc821efa99188b90a0f0f207321683d646e5bb28bcfc5341a7dc8a64bd",
-      "bytes": 8443406
+      "sha256": "7bf5cbb0ce65150667e02991aeed948504dcae5514d9c9f310dccf8dbd251f68",
+      "bytes": 8465314
     },
     {
       "path": "images/jensen-huang.jpg",
@@ -36,5 +41,5 @@
       "bytes": 492844
     }
   ],
-  "credits": "ASSETS.md and CREDITS.txt"
+  "credits": "ASSETS.md, CREDITS.txt and MUSIC_NOTES.md"
 }

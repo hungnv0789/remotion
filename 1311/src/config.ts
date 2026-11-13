@@ -1,12 +1,13 @@
 import recording from './data/voiceover.json';
 import assets from './data/assets.json';
+import mix from '../public/audio/mix-calibration.json';
 export const VIDEO = { fps: 30, width: 1080, height: 1920 } as const;
 export const SCENE_IDS = ['hook', 'leadership', 'market', 'confidence', 'questions', 'lesson', 'closing'] as const;
 export type SceneId = (typeof SCENE_IDS)[number];
 export const defaultProps = {
   brand: 'TÀI CHÍNH • PHỐ WALL', issue: '13 / 11', showCaptions: true,
   theme: { background: '#F6F1FC', panel: '#FFFFFF', text: '#28143F', muted: '#7C6C8A', accent: '#8229E3', teal: '#197E78', border: '#E3D6EF', danger: '#B54773' },
-  audio: { voiceover: recording.audioSrc, playbackRate: 1, volume: .95, music: 'audio/finance-news.wav', musicVolume: .25, sting: 'audio/news-sting.wav', stingVolume: .65, voiceAlias: 'female_north', engine: 'VieNeu-TTS v3 Turbo', preset: 'Mai Anh' },
+  audio: { voiceover: recording.audioSrc, playbackRate: 1, volume: .95, music: 'audio/finance-news.wav', musicVolume: mix.musicVolume, musicDuck: mix.duckFactor, sting: 'audio/news-sting.wav', stingVolume: .65, voiceAlias: 'female_north', engine: 'VieNeu-TTS v3 Turbo', preset: 'Ngọc Huyền' },
   timing: { voiceoverStartSeconds: .3, endingHoldSeconds: Math.max(1,90 - .3 - recording.durationSeconds), audioDurationSeconds: recording.durationSeconds, recording },
   production: { shotSeconds: 3.2 },
   assets,

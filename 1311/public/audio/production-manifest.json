@@ -5,42 +5,56 @@
   "model": "pnnbao-ump/VieNeu-TTS-v3-Turbo",
   "modelLicense": "Apache-2.0",
   "backend": "ONNX CPU fp32",
-  "preset": "Mai Anh",
-  "presetDescription": "Nữ · Bắc · Phong cách tin tức",
+  "preset": "Ngọc Huyền",
+  "presetDescription": "Nữ · Bắc · Giọng đọc tự nhiên",
   "presetGender": "female",
   "sampleRate": 48000,
-  "tempo": 1.4,
-  "sourceDurationSeconds": 87.9516875,
-  "sourceSha256": "99f7c22a0a44eef5397859f7de4827dabd9c414eb396aac2d6c4fca37010c672",
+  "tempo": 1.24,
+  "sourceDurationSeconds": 88.17989583333333,
+  "sourceSha256": "0ea40680ce3511dc52199326afcab49754602d8547cd71b871b825d71d24775d",
   "alignment": [
     {
       "id": "hook",
-      "matchRatio": 0.897196261682243
-    },
-    {
-      "id": "leadership",
-      "matchRatio": 0.8785046728971962
-    },
-    {
-      "id": "market",
-      "matchRatio": 0.8761904761904762
-    },
-    {
-      "id": "confidence",
       "matchRatio": 0.9714285714285714
     },
     {
+      "id": "leadership",
+      "matchRatio": 0.8440366972477065
+    },
+    {
+      "id": "market",
+      "matchRatio": 0.9142857142857143
+    },
+    {
+      "id": "confidence",
+      "matchRatio": 0.9571428571428572
+    },
+    {
       "id": "questions",
-      "matchRatio": 0.890625
+      "matchRatio": 0.984375
     },
     {
       "id": "lesson",
-      "matchRatio": 0.9076923076923077
+      "matchRatio": 0.9538461538461539
     },
     {
       "id": "closing",
-      "matchRatio": 0.9193548387096774
+      "matchRatio": 0.9838709677419355
     }
   ],
-  "music": "Original electronic news tension, 120 BPM"
+  "music": "Original soft electronic finance bed, 116 BPM; no third-party samples",
+  "mix": {
+    "targetMusicBelowVoiceDb": -22.0,
+    "safetyHeadroomDb": 6.0,
+    "sourceBedTargetDb": -28.0,
+    "musicVolume": 0.133352,
+    "voiceVolume": 0.95,
+    "duckFactor": 0.65,
+    "activeVoiceRms": 0.17156576168732388,
+    "rawMusicMonoRms": 0.07485842475765754,
+    "method": "Active speech 50ms RMS, caption ducking and 6 dB headroom checked against the actual mono/stereo render.",
+    "musicOrigin": "Original procedural synthesis, no third-party recordings or samples.",
+    "musicBpm": 116,
+    "musicSha256": "f3e5892149ad02531e8d7cf16a5e9589ab81842140ea74b48bf3f7bac339a720"
+  }
 }
