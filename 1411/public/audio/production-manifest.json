@@ -1,0 +1,64 @@
+{
+  "voiceAlias": "female_north",
+  "engine": "VieNeu-TTS v3 Turbo",
+  "sdkVersion": "3.8.4",
+  "model": "pnnbao-ump/VieNeu-TTS-v3-Turbo",
+  "modelLicense": "Apache-2.0",
+  "backend": "ONNX CPU fp32",
+  "preset": "Ngọc Huyền",
+  "presetDescription": "Nữ · Bắc · Giọng đọc tự nhiên",
+  "presetGender": "female",
+  "sampleRate": 48000,
+  "tempo": 1.12,
+  "sourceDurationSeconds": 93.025625,
+  "sourceSha256": "6f906f13c4bf2eebfff77f5ef1e335895e649c5e49d8d4c387107320f73b5e37",
+  "alignment": [
+    {
+      "id": "hook",
+      "matchRatio": 0.9473684210526315
+    },
+    {
+      "id": "inspection",
+      "matchRatio": 0.9642857142857143
+    },
+    {
+      "id": "sanctions",
+      "matchRatio": 0.9354838709677419
+    },
+    {
+      "id": "safety",
+      "matchRatio": 1.0
+    },
+    {
+      "id": "deposits",
+      "matchRatio": 0.8888888888888888
+    },
+    {
+      "id": "borrowers",
+      "matchRatio": 0.8813559322033898
+    },
+    {
+      "id": "balance",
+      "matchRatio": 0.9833333333333333
+    },
+    {
+      "id": "closing",
+      "matchRatio": 0.9310344827586207
+    }
+  ],
+  "music": "Original cinematic financial news bed, 104 BPM; no third-party samples",
+  "mix": {
+    "targetMusicBelowVoiceDb": -22.0,
+    "safetyHeadroomDb": 6.0,
+    "sourceBedTargetDb": -28.0,
+    "musicVolume": 0.135895,
+    "voiceVolume": 0.95,
+    "duckFactor": 0.65,
+    "activeVoiceRms": 0.1748332018431682,
+    "rawMusicMonoRms": 0.0748569624785896,
+    "method": "Active speech 50ms RMS, caption ducking and 6 dB headroom checked against the actual mono/stereo render.",
+    "musicOrigin": "Original procedural synthesis, no third-party recordings or samples.",
+    "musicBpm": 104,
+    "musicSha256": "ecf3879cf138d0001057c6ba415bf04592847fad2d9716cab1db1a3f5cef16ac"
+  }
+}
