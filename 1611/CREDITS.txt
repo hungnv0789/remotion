@@ -1,0 +1,6 @@
+1611 · Lãi suất, thanh khoản và điểm uốn
+Voice: Ngọc Huyền · female_north · VieNeu-TTS v3 Turbo 3.8.4
+Model: pnnbao-ump/VieNeu-TTS-v3-Turbo · Apache-2.0
+Visuals: original project-native SVG / React motion graphics.
+Music/SFX: original procedural synthesis; no third-party recordings or samples.
+Typeface: Be Vietnam Pro · SIL Open Font License.

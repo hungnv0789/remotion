@@ -1,0 +1,68 @@
+{
+  "voiceAlias": "female_north",
+  "engine": "VieNeu-TTS v3 Turbo",
+  "sdkVersion": "3.8.4",
+  "model": "pnnbao-ump/VieNeu-TTS-v3-Turbo",
+  "modelLicense": "Apache-2.0",
+  "backend": "ONNX CPU fp32",
+  "preset": "Ngọc Huyền",
+  "presetDescription": "Nữ · Bắc · Giọng đọc tự nhiên",
+  "presetGender": "female",
+  "sampleRate": 48000,
+  "tempo": 1.12,
+  "sourceDurationSeconds": 90.79466666666667,
+  "sourceSha256": "c428a514d800554b733e48f16e41114a5ce93fb88fb67ec2a5a0dc48e7a7d0a7",
+  "alignment": [
+    {
+      "id": "hook",
+      "matchRatio": 0.9259259259259259
+    },
+    {
+      "id": "flow",
+      "matchRatio": 0.9487179487179487
+    },
+    {
+      "id": "pressure",
+      "matchRatio": 0.9795918367346939
+    },
+    {
+      "id": "opportunity",
+      "matchRatio": 1.0
+    },
+    {
+      "id": "liquidity",
+      "matchRatio": 0.9534883720930233
+    },
+    {
+      "id": "turning",
+      "matchRatio": 0.8870967741935484
+    },
+    {
+      "id": "stocks",
+      "matchRatio": 0.9259259259259259
+    },
+    {
+      "id": "property",
+      "matchRatio": 0.98
+    },
+    {
+      "id": "closing",
+      "matchRatio": 0.9690721649484536
+    }
+  ],
+  "music": "Original news tension and electronic finance bed, 112 BPM; no third-party samples",
+  "mix": {
+    "targetMusicBelowVoiceDb": -22.0,
+    "safetyHeadroomDb": 6.0,
+    "sourceBedTargetDb": -28.0,
+    "musicVolume": 0.135337,
+    "voiceVolume": 0.95,
+    "duckFactor": 0.65,
+    "activeVoiceRms": 0.17411878449395915,
+    "rawMusicMonoRms": 0.07485804854478266,
+    "method": "Active speech 50ms RMS, caption ducking and 6 dB headroom checked against the actual mono/stereo render.",
+    "musicOrigin": "Original procedural synthesis, no third-party recordings or samples.",
+    "musicBpm": 112,
+    "musicSha256": "b1e88c6b0eaed20b0a5b95b2875062ef6f828c425d309b63facf9c5f97eeacf3"
+  }
+}
