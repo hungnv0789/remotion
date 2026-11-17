@@ -1,3 +1,0 @@
-numpy>=2,<3
-faster-whisper==1.2.1
-av==16.0.1
