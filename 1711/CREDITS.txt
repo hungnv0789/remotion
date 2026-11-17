@@ -1,0 +1,6 @@
+1711 · SCB: Lãi suất tiết kiệm online về 0%
+Source audio: 1711.mp3, supplied by user; preserved byte for byte.
+Transcript: local faster-whisper medium, spelling reviewed; timestamps aligned to the original audio.
+Visuals: original project-native SVG/React illustrations.
+Additional music/SFX: original procedural synthesis; no third-party samples or recordings.
+Typeface: Be Vietnam Pro · SIL Open Font License.

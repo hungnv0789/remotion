@@ -1,0 +1,1985 @@
+{
+  "audioSrc": "audio/1711.mp3",
+  "durationSeconds": 91.1833125,
+  "sourceSha256": "348c5be807f703e01a808f0d7fef64c52e0fea5f6497090c0bfea3707b2f6323",
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Chuyện gì đây? Một ngân hàng sẽ đưa lãi suất tiết kiệm online về 0% từ hôm nay. Gửi tiền tiết kiệm online nhưng nhận về đúng không đồng tiền lãi. Chuyện tưởng đùa nhưng vừa chính thức xảy ra tại Ngân hàng Sài Gòn SCB.",
+      "words": [
+        {
+          "text": "Chuyện",
+          "start": 0.0,
+          "end": 0.24
+        },
+        {
+          "text": "gì",
+          "start": 0.24,
+          "end": 0.44
+        },
+        {
+          "text": "đây?",
+          "start": 0.44,
+          "end": 0.76
+        },
+        {
+          "text": "Một",
+          "start": 1.02,
+          "end": 1.22
+        },
+        {
+          "text": "ngân",
+          "start": 1.22,
+          "end": 1.48
+        },
+        {
+          "text": "hàng",
+          "start": 1.48,
+          "end": 1.66
+        },
+        {
+          "text": "sẽ",
+          "start": 1.66,
+          "end": 1.88
+        },
+        {
+          "text": "đưa",
+          "start": 1.88,
+          "end": 2.1
+        },
+        {
+          "text": "lãi",
+          "start": 2.1,
+          "end": 2.38
+        },
+        {
+          "text": "suất",
+          "start": 2.38,
+          "end": 2.392
+        },
+        {
+          "text": "tiết",
+          "start": 2.392,
+          "end": 2.56
+        },
+        {
+          "text": "kiệm",
+          "start": 2.56,
+          "end": 2.76
+        },
+        {
+          "text": "online",
+          "start": 2.76,
+          "end": 3.08
+        },
+        {
+          "text": "về",
+          "start": 3.08,
+          "end": 3.3
+        },
+        {
+          "text": "0%",
+          "start": 3.3,
+          "end": 3.56
+        },
+        {
+          "text": "từ",
+          "start": 3.96,
+          "end": 4.18
+        },
+        {
+          "text": "hôm",
+          "start": 4.18,
+          "end": 4.4
+        },
+        {
+          "text": "nay.",
+          "start": 4.4,
+          "end": 4.78
+        },
+        {
+          "text": "Gửi",
+          "start": 4.82,
+          "end": 5.14
+        },
+        {
+          "text": "tiền",
+          "start": 5.14,
+          "end": 5.4
+        },
+        {
+          "text": "tiết",
+          "start": 5.4,
+          "end": 5.62
+        },
+        {
+          "text": "kiệm",
+          "start": 5.62,
+          "end": 5.84
+        },
+        {
+          "text": "online",
+          "start": 5.84,
+          "end": 6.26
+        },
+        {
+          "text": "nhưng",
+          "start": 6.26,
+          "end": 6.46
+        },
+        {
+          "text": "nhận",
+          "start": 6.46,
+          "end": 6.72
+        },
+        {
+          "text": "về",
+          "start": 6.72,
+          "end": 6.98
+        },
+        {
+          "text": "đúng",
+          "start": 6.98,
+          "end": 7.18
+        },
+        {
+          "text": "không",
+          "start": 7.18,
+          "end": 7.44
+        },
+        {
+          "text": "đồng",
+          "start": 7.44,
+          "end": 7.78
+        },
+        {
+          "text": "tiền",
+          "start": 7.78,
+          "end": 7.92
+        },
+        {
+          "text": "lãi.",
+          "start": 7.92,
+          "end": 8.14
+        },
+        {
+          "text": "Chuyện",
+          "start": 8.36,
+          "end": 8.64
+        },
+        {
+          "text": "tưởng",
+          "start": 8.64,
+          "end": 8.84
+        },
+        {
+          "text": "đùa",
+          "start": 8.84,
+          "end": 9.06
+        },
+        {
+          "text": "nhưng",
+          "start": 9.06,
+          "end": 9.28
+        },
+        {
+          "text": "vừa",
+          "start": 9.28,
+          "end": 9.42
+        },
+        {
+          "text": "chính",
+          "start": 9.42,
+          "end": 9.6
+        },
+        {
+          "text": "thức",
+          "start": 9.6,
+          "end": 9.74
+        },
+        {
+          "text": "xảy",
+          "start": 9.74,
+          "end": 9.96
+        },
+        {
+          "text": "ra",
+          "start": 9.96,
+          "end": 10.1
+        },
+        {
+          "text": "tại",
+          "start": 10.1,
+          "end": 10.22
+        },
+        {
+          "text": "Ngân",
+          "start": 10.22,
+          "end": 10.44
+        },
+        {
+          "text": "hàng",
+          "start": 10.44,
+          "end": 10.58
+        },
+        {
+          "text": "Sài",
+          "start": 10.58,
+          "end": 10.88
+        },
+        {
+          "text": "Gòn",
+          "start": 10.88,
+          "end": 11.0
+        },
+        {
+          "text": "SCB.",
+          "start": 11.0,
+          "end": 11.58
+        }
+      ]
+    },
+    {
+      "id": "online",
+      "text": "Từ ngân hàng thường xuyên dẫn đầu lãi suất tiền gửi giai đoạn 2020 đến 2022, toàn bộ các kỳ hạn gửi tiết kiệm trực tuyến tại nhà băng này đồng loạt bị kéo về mức 0% một năm. Đây đã là lần giảm thứ hai chỉ trong vòng một tháng của SCB.",
+      "words": [
+        {
+          "text": "Từ",
+          "start": 11.68,
+          "end": 11.86
+        },
+        {
+          "text": "ngân",
+          "start": 11.86,
+          "end": 12.1
+        },
+        {
+          "text": "hàng",
+          "start": 12.1,
+          "end": 12.28
+        },
+        {
+          "text": "thường",
+          "start": 12.28,
+          "end": 12.5
+        },
+        {
+          "text": "xuyên",
+          "start": 12.5,
+          "end": 12.74
+        },
+        {
+          "text": "dẫn",
+          "start": 12.74,
+          "end": 12.9
+        },
+        {
+          "text": "đầu",
+          "start": 12.9,
+          "end": 13.16
+        },
+        {
+          "text": "lãi",
+          "start": 13.16,
+          "end": 13.4
+        },
+        {
+          "text": "suất",
+          "start": 13.4,
+          "end": 13.52
+        },
+        {
+          "text": "tiền",
+          "start": 13.52,
+          "end": 13.74
+        },
+        {
+          "text": "gửi",
+          "start": 13.74,
+          "end": 14.02
+        },
+        {
+          "text": "giai",
+          "start": 14.02,
+          "end": 14.14
+        },
+        {
+          "text": "đoạn",
+          "start": 14.14,
+          "end": 14.22
+        },
+        {
+          "text": "2020",
+          "start": 14.22,
+          "end": 14.84
+        },
+        {
+          "text": "đến",
+          "start": 14.84,
+          "end": 15.02
+        },
+        {
+          "text": "2022,",
+          "start": 15.02,
+          "end": 15.68
+        },
+        {
+          "text": "toàn",
+          "start": 15.94,
+          "end": 16.12
+        },
+        {
+          "text": "bộ",
+          "start": 16.12,
+          "end": 16.3
+        },
+        {
+          "text": "các",
+          "start": 16.3,
+          "end": 16.5
+        },
+        {
+          "text": "kỳ",
+          "start": 16.5,
+          "end": 16.62
+        },
+        {
+          "text": "hạn",
+          "start": 16.62,
+          "end": 16.8
+        },
+        {
+          "text": "gửi",
+          "start": 16.8,
+          "end": 17.0
+        },
+        {
+          "text": "tiết",
+          "start": 17.0,
+          "end": 17.16
+        },
+        {
+          "text": "kiệm",
+          "start": 17.16,
+          "end": 17.34
+        },
+        {
+          "text": "trực",
+          "start": 17.34,
+          "end": 17.46
+        },
+        {
+          "text": "tuyến",
+          "start": 17.46,
+          "end": 17.72
+        },
+        {
+          "text": "tại",
+          "start": 17.72,
+          "end": 17.92
+        },
+        {
+          "text": "nhà",
+          "start": 17.92,
+          "end": 18.08
+        },
+        {
+          "text": "băng",
+          "start": 18.08,
+          "end": 18.22
+        },
+        {
+          "text": "này",
+          "start": 18.22,
+          "end": 18.56
+        },
+        {
+          "text": "đồng",
+          "start": 18.56,
+          "end": 18.76
+        },
+        {
+          "text": "loạt",
+          "start": 18.76,
+          "end": 18.94
+        },
+        {
+          "text": "bị",
+          "start": 18.94,
+          "end": 19.16
+        },
+        {
+          "text": "kéo",
+          "start": 19.16,
+          "end": 19.32
+        },
+        {
+          "text": "về",
+          "start": 19.32,
+          "end": 19.5
+        },
+        {
+          "text": "mức",
+          "start": 19.5,
+          "end": 19.66
+        },
+        {
+          "text": "0%",
+          "start": 19.66,
+          "end": 19.9
+        },
+        {
+          "text": "một",
+          "start": 20.2,
+          "end": 20.38
+        },
+        {
+          "text": "năm.",
+          "start": 20.38,
+          "end": 20.54
+        },
+        {
+          "text": "Đây",
+          "start": 20.72,
+          "end": 20.92
+        },
+        {
+          "text": "đã",
+          "start": 20.92,
+          "end": 21.08
+        },
+        {
+          "text": "là",
+          "start": 21.08,
+          "end": 21.22
+        },
+        {
+          "text": "lần",
+          "start": 21.22,
+          "end": 21.4
+        },
+        {
+          "text": "giảm",
+          "start": 21.4,
+          "end": 21.68
+        },
+        {
+          "text": "thứ",
+          "start": 21.68,
+          "end": 21.88
+        },
+        {
+          "text": "hai",
+          "start": 21.88,
+          "end": 22.08
+        },
+        {
+          "text": "chỉ",
+          "start": 22.08,
+          "end": 22.24
+        },
+        {
+          "text": "trong",
+          "start": 22.24,
+          "end": 22.44
+        },
+        {
+          "text": "vòng",
+          "start": 22.44,
+          "end": 22.56
+        },
+        {
+          "text": "một",
+          "start": 22.56,
+          "end": 22.84
+        },
+        {
+          "text": "tháng",
+          "start": 22.84,
+          "end": 23.0
+        },
+        {
+          "text": "của",
+          "start": 23.0,
+          "end": 23.16
+        },
+        {
+          "text": "SCB.",
+          "start": 23.16,
+          "end": 23.78
+        }
+      ]
+    },
+    {
+      "id": "counter",
+      "text": "Ngay cả khi giao dịch tại quầy, hầu hết các kỳ hạn cũng chỉ nhận mức 0%. Ngoại trừ kỳ hạn 12 tháng giữ mức 3,7% và 13 tháng ở mức 8,7%, vốn là hai cái mốc tham chiếu để tính lãi cho vay thả nổi.",
+      "words": [
+        {
+          "text": "Ngay",
+          "start": 23.86,
+          "end": 24.0
+        },
+        {
+          "text": "cả",
+          "start": 24.0,
+          "end": 24.18
+        },
+        {
+          "text": "khi",
+          "start": 24.18,
+          "end": 24.38
+        },
+        {
+          "text": "giao",
+          "start": 24.38,
+          "end": 24.62
+        },
+        {
+          "text": "dịch",
+          "start": 24.62,
+          "end": 24.72
+        },
+        {
+          "text": "tại",
+          "start": 24.72,
+          "end": 24.92
+        },
+        {
+          "text": "quầy,",
+          "start": 24.92,
+          "end": 25.16
+        },
+        {
+          "text": "hầu",
+          "start": 25.24,
+          "end": 25.4
+        },
+        {
+          "text": "hết",
+          "start": 25.4,
+          "end": 25.58
+        },
+        {
+          "text": "các",
+          "start": 25.58,
+          "end": 25.72
+        },
+        {
+          "text": "kỳ",
+          "start": 25.72,
+          "end": 25.92
+        },
+        {
+          "text": "hạn",
+          "start": 25.92,
+          "end": 26.08
+        },
+        {
+          "text": "cũng",
+          "start": 26.08,
+          "end": 26.28
+        },
+        {
+          "text": "chỉ",
+          "start": 26.28,
+          "end": 26.44
+        },
+        {
+          "text": "nhận",
+          "start": 26.44,
+          "end": 26.56
+        },
+        {
+          "text": "mức",
+          "start": 26.56,
+          "end": 26.72
+        },
+        {
+          "text": "0%.",
+          "start": 26.72,
+          "end": 27.38
+        },
+        {
+          "text": "Ngoại",
+          "start": 27.38,
+          "end": 27.72
+        },
+        {
+          "text": "trừ",
+          "start": 27.72,
+          "end": 27.84
+        },
+        {
+          "text": "kỳ",
+          "start": 27.84,
+          "end": 28.06
+        },
+        {
+          "text": "hạn",
+          "start": 28.06,
+          "end": 28.18
+        },
+        {
+          "text": "12",
+          "start": 28.18,
+          "end": 28.52
+        },
+        {
+          "text": "tháng",
+          "start": 28.52,
+          "end": 28.84
+        },
+        {
+          "text": "giữ",
+          "start": 28.84,
+          "end": 29.02
+        },
+        {
+          "text": "mức",
+          "start": 29.02,
+          "end": 29.22
+        },
+        {
+          "text": "3,7%",
+          "start": 29.22,
+          "end": 30.22
+        },
+        {
+          "text": "và",
+          "start": 30.22,
+          "end": 30.42
+        },
+        {
+          "text": "13",
+          "start": 30.42,
+          "end": 30.78
+        },
+        {
+          "text": "tháng",
+          "start": 30.78,
+          "end": 31.06
+        },
+        {
+          "text": "ở",
+          "start": 31.06,
+          "end": 31.2
+        },
+        {
+          "text": "mức",
+          "start": 31.2,
+          "end": 31.36
+        },
+        {
+          "text": "8,7%,",
+          "start": 31.36,
+          "end": 32.48
+        },
+        {
+          "text": "vốn",
+          "start": 32.48,
+          "end": 32.66
+        },
+        {
+          "text": "là",
+          "start": 32.66,
+          "end": 32.84
+        },
+        {
+          "text": "hai",
+          "start": 32.84,
+          "end": 33.04
+        },
+        {
+          "text": "cái",
+          "start": 33.04,
+          "end": 33.16
+        },
+        {
+          "text": "mốc",
+          "start": 33.16,
+          "end": 33.28
+        },
+        {
+          "text": "tham",
+          "start": 33.28,
+          "end": 33.58
+        },
+        {
+          "text": "chiếu",
+          "start": 33.58,
+          "end": 33.76
+        },
+        {
+          "text": "để",
+          "start": 33.76,
+          "end": 33.96
+        },
+        {
+          "text": "tính",
+          "start": 33.96,
+          "end": 34.16
+        },
+        {
+          "text": "lãi",
+          "start": 34.16,
+          "end": 34.34
+        },
+        {
+          "text": "cho",
+          "start": 34.34,
+          "end": 34.54
+        },
+        {
+          "text": "vay",
+          "start": 34.54,
+          "end": 34.6
+        },
+        {
+          "text": "thả",
+          "start": 34.6,
+          "end": 34.82
+        },
+        {
+          "text": "nổi.",
+          "start": 34.82,
+          "end": 35.08
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "text": "Nhìn lại quá khứ, ít ai ngờ nhà băng từng là vua lãi suất, luôn trả cao hơn nhóm Big Four từ 1,5 đến 2%, nay lại rơi xuống đáy toàn thị trường kể từ khi vào diện kiểm soát đặc biệt năm 2022.",
+      "words": [
+        {
+          "text": "Nhìn",
+          "start": 35.12,
+          "end": 35.32
+        },
+        {
+          "text": "lại",
+          "start": 35.32,
+          "end": 35.5
+        },
+        {
+          "text": "quá",
+          "start": 35.5,
+          "end": 35.74
+        },
+        {
+          "text": "khứ,",
+          "start": 35.74,
+          "end": 35.86
+        },
+        {
+          "text": "ít",
+          "start": 36.0,
+          "end": 36.18
+        },
+        {
+          "text": "ai",
+          "start": 36.18,
+          "end": 36.38
+        },
+        {
+          "text": "ngờ",
+          "start": 36.38,
+          "end": 36.6
+        },
+        {
+          "text": "nhà",
+          "start": 36.6,
+          "end": 36.82
+        },
+        {
+          "text": "băng",
+          "start": 36.82,
+          "end": 36.94
+        },
+        {
+          "text": "từng",
+          "start": 36.94,
+          "end": 37.2
+        },
+        {
+          "text": "là",
+          "start": 37.2,
+          "end": 37.32
+        },
+        {
+          "text": "vua",
+          "start": 37.32,
+          "end": 37.58
+        },
+        {
+          "text": "lãi",
+          "start": 37.58,
+          "end": 37.82
+        },
+        {
+          "text": "suất,",
+          "start": 37.82,
+          "end": 38.0
+        },
+        {
+          "text": "luôn",
+          "start": 38.04,
+          "end": 38.2
+        },
+        {
+          "text": "trả",
+          "start": 38.2,
+          "end": 38.4
+        },
+        {
+          "text": "cao",
+          "start": 38.4,
+          "end": 38.6
+        },
+        {
+          "text": "hơn",
+          "start": 38.6,
+          "end": 38.76
+        },
+        {
+          "text": "nhóm",
+          "start": 38.76,
+          "end": 38.92
+        },
+        {
+          "text": "Big",
+          "start": 38.92,
+          "end": 39.16
+        },
+        {
+          "text": "Four",
+          "start": 39.16,
+          "end": 39.44
+        },
+        {
+          "text": "từ",
+          "start": 39.52,
+          "end": 39.68
+        },
+        {
+          "text": "1,5",
+          "start": 39.68,
+          "end": 40.36
+        },
+        {
+          "text": "đến",
+          "start": 40.36,
+          "end": 40.5
+        },
+        {
+          "text": "2%,",
+          "start": 40.5,
+          "end": 41.14
+        },
+        {
+          "text": "nay",
+          "start": 41.14,
+          "end": 41.5
+        },
+        {
+          "text": "lại",
+          "start": 41.5,
+          "end": 41.7
+        },
+        {
+          "text": "rơi",
+          "start": 41.7,
+          "end": 41.86
+        },
+        {
+          "text": "xuống",
+          "start": 41.86,
+          "end": 42.14
+        },
+        {
+          "text": "đáy",
+          "start": 42.14,
+          "end": 42.32
+        },
+        {
+          "text": "toàn",
+          "start": 42.32,
+          "end": 42.48
+        },
+        {
+          "text": "thị",
+          "start": 42.48,
+          "end": 42.62
+        },
+        {
+          "text": "trường",
+          "start": 42.62,
+          "end": 42.86
+        },
+        {
+          "text": "kể",
+          "start": 42.86,
+          "end": 43.06
+        },
+        {
+          "text": "từ",
+          "start": 43.06,
+          "end": 43.2
+        },
+        {
+          "text": "khi",
+          "start": 43.2,
+          "end": 43.4
+        },
+        {
+          "text": "vào",
+          "start": 43.4,
+          "end": 43.52
+        },
+        {
+          "text": "diện",
+          "start": 43.52,
+          "end": 43.7
+        },
+        {
+          "text": "kiểm",
+          "start": 43.7,
+          "end": 43.92
+        },
+        {
+          "text": "soát",
+          "start": 43.92,
+          "end": 44.04
+        },
+        {
+          "text": "đặc",
+          "start": 44.04,
+          "end": 44.26
+        },
+        {
+          "text": "biệt",
+          "start": 44.26,
+          "end": 44.38
+        },
+        {
+          "text": "năm",
+          "start": 44.38,
+          "end": 44.54
+        },
+        {
+          "text": "2022.",
+          "start": 44.54,
+          "end": 45.12
+        }
+      ]
+    },
+    {
+      "id": "liquidity",
+      "text": "Khi nằm dưới diện kiểm soát đặc biệt, ngân hàng đã được Ngân hàng Nhà nước đảm bảo thanh khoản, đồng thời bị hạn chế hoạt động cho vay để tập trung xử lý nợ xấu, không còn nhu cầu huy động vốn mới. Cứ trả lãi cao lúc này chỉ khiến nhà băng gánh thêm chi phí vô ích.",
+      "words": [
+        {
+          "text": "Khi",
+          "start": 45.46,
+          "end": 45.66
+        },
+        {
+          "text": "nằm",
+          "start": 45.66,
+          "end": 45.88
+        },
+        {
+          "text": "dưới",
+          "start": 45.88,
+          "end": 46.08
+        },
+        {
+          "text": "diện",
+          "start": 46.08,
+          "end": 46.3
+        },
+        {
+          "text": "kiểm",
+          "start": 46.3,
+          "end": 46.52
+        },
+        {
+          "text": "soát",
+          "start": 46.52,
+          "end": 46.66
+        },
+        {
+          "text": "đặc",
+          "start": 46.66,
+          "end": 46.86
+        },
+        {
+          "text": "biệt,",
+          "start": 46.86,
+          "end": 47.06
+        },
+        {
+          "text": "ngân",
+          "start": 47.14,
+          "end": 47.36
+        },
+        {
+          "text": "hàng",
+          "start": 47.36,
+          "end": 47.46
+        },
+        {
+          "text": "đã",
+          "start": 47.46,
+          "end": 47.64
+        },
+        {
+          "text": "được",
+          "start": 47.64,
+          "end": 47.76
+        },
+        {
+          "text": "Ngân",
+          "start": 47.76,
+          "end": 48.02
+        },
+        {
+          "text": "hàng",
+          "start": 48.02,
+          "end": 48.16
+        },
+        {
+          "text": "Nhà",
+          "start": 48.16,
+          "end": 48.34
+        },
+        {
+          "text": "nước",
+          "start": 48.34,
+          "end": 48.5
+        },
+        {
+          "text": "đảm",
+          "start": 48.5,
+          "end": 48.82
+        },
+        {
+          "text": "bảo",
+          "start": 48.82,
+          "end": 48.94
+        },
+        {
+          "text": "thanh",
+          "start": 48.94,
+          "end": 49.2
+        },
+        {
+          "text": "khoản,",
+          "start": 49.2,
+          "end": 49.44
+        },
+        {
+          "text": "đồng",
+          "start": 49.56,
+          "end": 49.68
+        },
+        {
+          "text": "thời",
+          "start": 49.68,
+          "end": 49.8
+        },
+        {
+          "text": "bị",
+          "start": 49.8,
+          "end": 50.02
+        },
+        {
+          "text": "hạn",
+          "start": 50.02,
+          "end": 50.18
+        },
+        {
+          "text": "chế",
+          "start": 50.18,
+          "end": 50.3
+        },
+        {
+          "text": "hoạt",
+          "start": 50.3,
+          "end": 50.48
+        },
+        {
+          "text": "động",
+          "start": 50.48,
+          "end": 50.62
+        },
+        {
+          "text": "cho",
+          "start": 50.62,
+          "end": 50.82
+        },
+        {
+          "text": "vay",
+          "start": 50.82,
+          "end": 51.0
+        },
+        {
+          "text": "để",
+          "start": 51.0,
+          "end": 51.16
+        },
+        {
+          "text": "tập",
+          "start": 51.16,
+          "end": 51.36
+        },
+        {
+          "text": "trung",
+          "start": 51.36,
+          "end": 51.54
+        },
+        {
+          "text": "xử",
+          "start": 51.54,
+          "end": 51.76
+        },
+        {
+          "text": "lý",
+          "start": 51.76,
+          "end": 51.86
+        },
+        {
+          "text": "nợ",
+          "start": 51.86,
+          "end": 52.02
+        },
+        {
+          "text": "xấu,",
+          "start": 52.02,
+          "end": 52.36
+        },
+        {
+          "text": "không",
+          "start": 52.54,
+          "end": 52.72
+        },
+        {
+          "text": "còn",
+          "start": 52.72,
+          "end": 52.9
+        },
+        {
+          "text": "nhu",
+          "start": 52.9,
+          "end": 53.08
+        },
+        {
+          "text": "cầu",
+          "start": 53.08,
+          "end": 53.22
+        },
+        {
+          "text": "huy",
+          "start": 53.22,
+          "end": 53.42
+        },
+        {
+          "text": "động",
+          "start": 53.42,
+          "end": 53.52
+        },
+        {
+          "text": "vốn",
+          "start": 53.52,
+          "end": 53.74
+        },
+        {
+          "text": "mới.",
+          "start": 53.74,
+          "end": 54.04
+        },
+        {
+          "text": "Cứ",
+          "start": 54.04,
+          "end": 54.36
+        },
+        {
+          "text": "trả",
+          "start": 54.36,
+          "end": 54.52
+        },
+        {
+          "text": "lãi",
+          "start": 54.52,
+          "end": 54.68
+        },
+        {
+          "text": "cao",
+          "start": 54.68,
+          "end": 54.86
+        },
+        {
+          "text": "lúc",
+          "start": 54.86,
+          "end": 55.04
+        },
+        {
+          "text": "này",
+          "start": 55.04,
+          "end": 55.2
+        },
+        {
+          "text": "chỉ",
+          "start": 55.2,
+          "end": 55.34
+        },
+        {
+          "text": "khiến",
+          "start": 55.34,
+          "end": 55.58
+        },
+        {
+          "text": "nhà",
+          "start": 55.58,
+          "end": 55.78
+        },
+        {
+          "text": "băng",
+          "start": 55.78,
+          "end": 55.96
+        },
+        {
+          "text": "gánh",
+          "start": 55.96,
+          "end": 56.12
+        },
+        {
+          "text": "thêm",
+          "start": 56.12,
+          "end": 56.32
+        },
+        {
+          "text": "chi",
+          "start": 56.32,
+          "end": 56.48
+        },
+        {
+          "text": "phí",
+          "start": 56.48,
+          "end": 56.62
+        },
+        {
+          "text": "vô",
+          "start": 56.62,
+          "end": 56.82
+        },
+        {
+          "text": "ích.",
+          "start": 56.82,
+          "end": 57.08
+        }
+      ]
+    },
+    {
+      "id": "transfers",
+      "text": "Không chỉ đóng băng lãi suất, SCB còn đồng loạt siết chặt hoạt động trên mọi mặt trận. Hạn mức chuyển tiền nhanh qua app và internet bị hạ xuống chỉ còn tối đa 20 triệu đồng mỗi ngày với lý do tăng cường bảo mật, chống gian lận.",
+      "words": [
+        {
+          "text": "Không",
+          "start": 57.14,
+          "end": 57.3
+        },
+        {
+          "text": "chỉ",
+          "start": 57.3,
+          "end": 57.52
+        },
+        {
+          "text": "đóng",
+          "start": 57.52,
+          "end": 57.7
+        },
+        {
+          "text": "băng",
+          "start": 57.7,
+          "end": 57.88
+        },
+        {
+          "text": "lãi",
+          "start": 57.88,
+          "end": 58.04
+        },
+        {
+          "text": "suất,",
+          "start": 58.04,
+          "end": 58.22
+        },
+        {
+          "text": "SCB",
+          "start": 58.4,
+          "end": 58.72
+        },
+        {
+          "text": "còn",
+          "start": 58.72,
+          "end": 58.9
+        },
+        {
+          "text": "đồng",
+          "start": 58.9,
+          "end": 59.06
+        },
+        {
+          "text": "loạt",
+          "start": 59.06,
+          "end": 59.26
+        },
+        {
+          "text": "siết",
+          "start": 59.26,
+          "end": 59.4
+        },
+        {
+          "text": "chặt",
+          "start": 59.4,
+          "end": 59.58
+        },
+        {
+          "text": "hoạt",
+          "start": 59.58,
+          "end": 59.74
+        },
+        {
+          "text": "động",
+          "start": 59.74,
+          "end": 59.82
+        },
+        {
+          "text": "trên",
+          "start": 59.82,
+          "end": 60.02
+        },
+        {
+          "text": "mọi",
+          "start": 60.02,
+          "end": 60.14
+        },
+        {
+          "text": "mặt",
+          "start": 60.14,
+          "end": 60.3
+        },
+        {
+          "text": "trận.",
+          "start": 60.3,
+          "end": 60.46
+        },
+        {
+          "text": "Hạn",
+          "start": 60.6,
+          "end": 60.72
+        },
+        {
+          "text": "mức",
+          "start": 60.72,
+          "end": 60.84
+        },
+        {
+          "text": "chuyển",
+          "start": 60.84,
+          "end": 61.08
+        },
+        {
+          "text": "tiền",
+          "start": 61.08,
+          "end": 61.24
+        },
+        {
+          "text": "nhanh",
+          "start": 61.24,
+          "end": 61.46
+        },
+        {
+          "text": "qua",
+          "start": 61.46,
+          "end": 61.56
+        },
+        {
+          "text": "app",
+          "start": 61.56,
+          "end": 61.72
+        },
+        {
+          "text": "và",
+          "start": 61.72,
+          "end": 61.88
+        },
+        {
+          "text": "internet",
+          "start": 61.88,
+          "end": 62.26
+        },
+        {
+          "text": "bị",
+          "start": 62.26,
+          "end": 62.42
+        },
+        {
+          "text": "hạ",
+          "start": 62.42,
+          "end": 62.56
+        },
+        {
+          "text": "xuống",
+          "start": 62.56,
+          "end": 62.74
+        },
+        {
+          "text": "chỉ",
+          "start": 62.74,
+          "end": 62.98
+        },
+        {
+          "text": "còn",
+          "start": 62.98,
+          "end": 63.14
+        },
+        {
+          "text": "tối",
+          "start": 63.14,
+          "end": 63.34
+        },
+        {
+          "text": "đa",
+          "start": 63.34,
+          "end": 63.5
+        },
+        {
+          "text": "20",
+          "start": 63.5,
+          "end": 63.86
+        },
+        {
+          "text": "triệu",
+          "start": 63.86,
+          "end": 64.04
+        },
+        {
+          "text": "đồng",
+          "start": 64.04,
+          "end": 64.22
+        },
+        {
+          "text": "mỗi",
+          "start": 64.22,
+          "end": 64.46
+        },
+        {
+          "text": "ngày",
+          "start": 64.46,
+          "end": 64.62
+        },
+        {
+          "text": "với",
+          "start": 64.62,
+          "end": 64.88
+        },
+        {
+          "text": "lý",
+          "start": 64.88,
+          "end": 65.12
+        },
+        {
+          "text": "do",
+          "start": 65.12,
+          "end": 65.22
+        },
+        {
+          "text": "tăng",
+          "start": 65.22,
+          "end": 65.5
+        },
+        {
+          "text": "cường",
+          "start": 65.5,
+          "end": 65.62
+        },
+        {
+          "text": "bảo",
+          "start": 65.62,
+          "end": 65.84
+        },
+        {
+          "text": "mật,",
+          "start": 65.84,
+          "end": 66.06
+        },
+        {
+          "text": "chống",
+          "start": 66.2,
+          "end": 66.32
+        },
+        {
+          "text": "gian",
+          "start": 66.32,
+          "end": 66.56
+        },
+        {
+          "text": "lận.",
+          "start": 66.56,
+          "end": 66.84
+        }
+      ]
+    },
+    {
+      "id": "network",
+      "text": "Mạng lưới hoạt động cũng thu hẹp chưa từng có. Sau khi đóng gần 190 phòng giao dịch giai đoạn 2023–2025 và tiếp tục ngừng thêm 39 chi nhánh từ giữa tháng 7 đến nay, SCB hiện chỉ còn vỏn vẹn 8 chi nhánh trên toàn quốc, trong đó có 3 chi nhánh tại Thành phố Hồ Chí Minh.",
+      "words": [
+        {
+          "text": "Mạng",
+          "start": 66.96,
+          "end": 67.14
+        },
+        {
+          "text": "lưới",
+          "start": 67.14,
+          "end": 67.28
+        },
+        {
+          "text": "hoạt",
+          "start": 67.28,
+          "end": 67.54
+        },
+        {
+          "text": "động",
+          "start": 67.54,
+          "end": 67.68
+        },
+        {
+          "text": "cũng",
+          "start": 67.68,
+          "end": 67.92
+        },
+        {
+          "text": "thu",
+          "start": 67.92,
+          "end": 68.08
+        },
+        {
+          "text": "hẹp",
+          "start": 68.08,
+          "end": 68.32
+        },
+        {
+          "text": "chưa",
+          "start": 68.32,
+          "end": 68.42
+        },
+        {
+          "text": "từng",
+          "start": 68.42,
+          "end": 68.64
+        },
+        {
+          "text": "có.",
+          "start": 68.64,
+          "end": 68.96
+        },
+        {
+          "text": "Sau",
+          "start": 69.16,
+          "end": 69.32
+        },
+        {
+          "text": "khi",
+          "start": 69.32,
+          "end": 69.56
+        },
+        {
+          "text": "đóng",
+          "start": 69.56,
+          "end": 69.7
+        },
+        {
+          "text": "gần",
+          "start": 69.7,
+          "end": 69.9
+        },
+        {
+          "text": "190",
+          "start": 69.9,
+          "end": 70.62
+        },
+        {
+          "text": "phòng",
+          "start": 70.62,
+          "end": 70.82
+        },
+        {
+          "text": "giao",
+          "start": 70.82,
+          "end": 71.08
+        },
+        {
+          "text": "dịch",
+          "start": 71.08,
+          "end": 71.16
+        },
+        {
+          "text": "giai",
+          "start": 71.16,
+          "end": 71.32
+        },
+        {
+          "text": "đoạn",
+          "start": 71.32,
+          "end": 71.44
+        },
+        {
+          "text": "2023–2025",
+          "start": 71.44,
+          "end": 72.84
+        },
+        {
+          "text": "và",
+          "start": 72.84,
+          "end": 73.22
+        },
+        {
+          "text": "tiếp",
+          "start": 73.22,
+          "end": 73.52
+        },
+        {
+          "text": "tục",
+          "start": 73.52,
+          "end": 73.7
+        },
+        {
+          "text": "ngừng",
+          "start": 73.7,
+          "end": 73.86
+        },
+        {
+          "text": "thêm",
+          "start": 73.86,
+          "end": 74.12
+        },
+        {
+          "text": "39",
+          "start": 74.12,
+          "end": 74.54
+        },
+        {
+          "text": "chi",
+          "start": 74.54,
+          "end": 74.7
+        },
+        {
+          "text": "nhánh",
+          "start": 74.7,
+          "end": 74.92
+        },
+        {
+          "text": "từ",
+          "start": 74.92,
+          "end": 75.12
+        },
+        {
+          "text": "giữa",
+          "start": 75.12,
+          "end": 75.3
+        },
+        {
+          "text": "tháng",
+          "start": 75.3,
+          "end": 75.44
+        },
+        {
+          "text": "7",
+          "start": 75.44,
+          "end": 75.64
+        },
+        {
+          "text": "đến",
+          "start": 75.64,
+          "end": 75.78
+        },
+        {
+          "text": "nay,",
+          "start": 75.78,
+          "end": 76.02
+        },
+        {
+          "text": "SCB",
+          "start": 76.02,
+          "end": 76.66
+        },
+        {
+          "text": "hiện",
+          "start": 76.66,
+          "end": 76.84
+        },
+        {
+          "text": "chỉ",
+          "start": 76.84,
+          "end": 77.06
+        },
+        {
+          "text": "còn",
+          "start": 77.06,
+          "end": 77.26
+        },
+        {
+          "text": "vỏn",
+          "start": 77.26,
+          "end": 77.285
+        },
+        {
+          "text": "vẹn",
+          "start": 77.285,
+          "end": 77.31
+        },
+        {
+          "text": "8",
+          "start": 77.31,
+          "end": 77.72
+        },
+        {
+          "text": "chi",
+          "start": 77.72,
+          "end": 78.02
+        },
+        {
+          "text": "nhánh",
+          "start": 78.02,
+          "end": 78.18
+        },
+        {
+          "text": "trên",
+          "start": 78.18,
+          "end": 78.4
+        },
+        {
+          "text": "toàn",
+          "start": 78.4,
+          "end": 78.6
+        },
+        {
+          "text": "quốc,",
+          "start": 78.6,
+          "end": 78.82
+        },
+        {
+          "text": "trong",
+          "start": 78.94,
+          "end": 79.06
+        },
+        {
+          "text": "đó",
+          "start": 79.06,
+          "end": 79.2
+        },
+        {
+          "text": "có",
+          "start": 79.2,
+          "end": 79.38
+        },
+        {
+          "text": "3",
+          "start": 79.38,
+          "end": 79.6
+        },
+        {
+          "text": "chi",
+          "start": 79.6,
+          "end": 79.76
+        },
+        {
+          "text": "nhánh",
+          "start": 79.76,
+          "end": 79.94
+        },
+        {
+          "text": "tại",
+          "start": 79.94,
+          "end": 80.12
+        },
+        {
+          "text": "Thành",
+          "start": 80.12,
+          "end": 80.3
+        },
+        {
+          "text": "phố",
+          "start": 80.3,
+          "end": 80.42
+        },
+        {
+          "text": "Hồ",
+          "start": 80.42,
+          "end": 80.58
+        },
+        {
+          "text": "Chí",
+          "start": 80.58,
+          "end": 80.72
+        },
+        {
+          "text": "Minh.",
+          "start": 80.72,
+          "end": 80.92
+        }
+      ]
+    },
+    {
+      "id": "closing",
+      "text": "Từ một ông lớn từng làm mưa làm gió trên đường đua thu hút vốn, SCB nay lại thu mình lại để tập trung tái cơ cấu toàn diện.",
+      "words": [
+        {
+          "text": "Từ",
+          "start": 81.0,
+          "end": 81.18
+        },
+        {
+          "text": "một",
+          "start": 81.18,
+          "end": 81.36
+        },
+        {
+          "text": "ông",
+          "start": 81.36,
+          "end": 81.62
+        },
+        {
+          "text": "lớn",
+          "start": 81.62,
+          "end": 81.84
+        },
+        {
+          "text": "từng",
+          "start": 81.84,
+          "end": 82.14
+        },
+        {
+          "text": "làm",
+          "start": 82.14,
+          "end": 82.22
+        },
+        {
+          "text": "mưa",
+          "start": 82.22,
+          "end": 82.44
+        },
+        {
+          "text": "làm",
+          "start": 82.44,
+          "end": 82.62
+        },
+        {
+          "text": "gió",
+          "start": 82.62,
+          "end": 82.9
+        },
+        {
+          "text": "trên",
+          "start": 82.9,
+          "end": 83.08
+        },
+        {
+          "text": "đường",
+          "start": 83.08,
+          "end": 83.24
+        },
+        {
+          "text": "đua",
+          "start": 83.24,
+          "end": 83.44
+        },
+        {
+          "text": "thu",
+          "start": 83.44,
+          "end": 83.56
+        },
+        {
+          "text": "hút",
+          "start": 83.56,
+          "end": 83.8
+        },
+        {
+          "text": "vốn,",
+          "start": 83.8,
+          "end": 84.0
+        },
+        {
+          "text": "SCB",
+          "start": 84.16,
+          "end": 84.66
+        },
+        {
+          "text": "nay",
+          "start": 84.66,
+          "end": 84.84
+        },
+        {
+          "text": "lại",
+          "start": 84.84,
+          "end": 85.0
+        },
+        {
+          "text": "thu",
+          "start": 85.0,
+          "end": 85.22
+        },
+        {
+          "text": "mình",
+          "start": 85.22,
+          "end": 85.42
+        },
+        {
+          "text": "lại",
+          "start": 85.42,
+          "end": 85.7
+        },
+        {
+          "text": "để",
+          "start": 85.7,
+          "end": 85.88
+        },
+        {
+          "text": "tập",
+          "start": 85.88,
+          "end": 86.02
+        },
+        {
+          "text": "trung",
+          "start": 86.02,
+          "end": 86.22
+        },
+        {
+          "text": "tái",
+          "start": 86.22,
+          "end": 86.48
+        },
+        {
+          "text": "cơ",
+          "start": 86.48,
+          "end": 86.58
+        },
+        {
+          "text": "cấu",
+          "start": 86.58,
+          "end": 86.76
+        },
+        {
+          "text": "toàn",
+          "start": 86.76,
+          "end": 87.0
+        },
+        {
+          "text": "diện.",
+          "start": 87.0,
+          "end": 87.2
+        }
+      ]
+    }
+  ]
+}
