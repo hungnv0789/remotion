@@ -1,0 +1,23 @@
+{
+  "sourceFile": "1811.mp3",
+  "sourceSha256": "264ad0c40ecfddbce0b2c35cea83ca1bc9b2109be0b1a27681669c42c3797dcb",
+  "durationSeconds": 83.0795625,
+  "audioPolicy": "Original supplied MP3 preserved byte for byte; playbackRate 1; no TTS.",
+  "transcription": "faster-whisper medium, local CPU int8; spelling and proper names reviewed.",
+  "alignmentMatchRatio": 0.9469026548672567,
+  "music": "Original news tension and electronic finance bed, 110 BPM; no third-party samples",
+  "mix": {
+    "targetMusicBelowVoiceDb": -24.0,
+    "safetyHeadroomDb": 6.0,
+    "sourceBedTargetDb": -30.0,
+    "musicVolume": 0.030072,
+    "voiceVolume": 0.82,
+    "duckFactor": 0.65,
+    "activeVoiceRms": 0.056429688772502005,
+    "rawMusicMonoRms": 0.07485891655662417,
+    "method": "Active speech 50ms RMS, caption ducking and 6 dB headroom checked against the actual mono/stereo render.",
+    "musicOrigin": "Original procedural synthesis, no third-party recordings or samples.",
+    "musicBpm": 110,
+    "musicSha256": "1a6f968704d892479dbaf4fdb217e7043c8a3591f96f79ff6b9fa3a9d95809cc"
+  }
+}

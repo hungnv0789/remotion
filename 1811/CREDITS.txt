@@ -1,0 +1,6 @@
+1811 · Hưng Yên: lộ trình đô thị và hạ tầng
+Source audio: user-supplied 1811.mp3; preserved byte for byte, playbackRate 1.
+Text: Vietnamese transcription with spelling review; subtitle/graphic year 2028 explicitly requested by user.
+Visuals: original SVG/React illustrations, not a geographic planning map.
+Additional music/SFX: original procedural synthesis, no third-party recordings or samples.
+Typeface: Be Vietnam Pro · SIL Open Font License.
