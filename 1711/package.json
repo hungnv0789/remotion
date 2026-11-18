@@ -10,7 +10,10 @@
     "still": "remotion still src/index.ts SCBZeroRate1711 out/preview.png --frame=450",
     "render": "npm run captions && node scripts/render.mjs",
     "captions": "tsx scripts/export-captions.ts",
-    "previews": "npm run captions && node scripts/render.mjs --stills"
+    "previews": "npm run captions && node scripts/render.mjs --stills",
+    "captions:1811": "tsx scripts/1811/export-captions.ts",
+    "render:1811": "npm run captions:1811 && node scripts/1811/render.mjs",
+    "previews:1811": "npm run captions:1811 && node scripts/1811/render.mjs --stills"
   },
   "dependencies": {
     "@fontsource/be-vietnam-pro": "5.2.8",

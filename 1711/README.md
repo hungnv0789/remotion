@@ -47,3 +47,7 @@ Lần đầu nhận dạng cần tải mô hình. Script chuẩn bị âm thanh 
 ## Kiểm tra và đóng gói
 
 `python scripts/verify-media.py` kiểm tra định dạng/số frame, tương quan lời đọc, mức nhạc và đỉnh âm trên MP4; đồng thời xuất `out/1711-mix.mp3`. `python scripts/package-source.py` tạo gói nguồn `out/1711-source.zip` gồm tài nguyên, không gồm cache, node_modules hay video. Xem `ASSETS.md` và `MUSIC_NOTES.md` về nguồn tài nguyên.
+
+## Video 1811
+
+Dự án có thêm composition `ACBInvestorExit1811`, sử dụng `1811.mp3`. Chạy `npm run previews:1811` hoặc `npm run render:1811`; video mới xuất tại `out/1811.mp4`. Xem [README-1811.md](README-1811.md) để chỉnh nội dung và đóng gói. Các lệnh SCB cũ tiếp tục hoạt động.
