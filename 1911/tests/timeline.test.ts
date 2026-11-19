@@ -106,3 +106,16 @@ test('comparisons keep valuation, base IPO, conditional expansion and private fu
   assert.ok(defaultProps.copy.scenes[5].some(s=>s.label.includes('KHÔNG CỘNG CHUNG')));
   assert.ok(defaultProps.copy.scenarios.at(-1)!.includes('KHÔNG PHẢI GIÁ THỰC TẾ'));
 });
+
+
+test('requested TTS names are applied consistently without changing displayed company names', () => {
+  const spokenNames = { Anthropic: 'An thro pic', SpaceX: 'Space X' };
+  for (const scene of script) {
+    for (const [name, pronunciation] of Object.entries(spokenNames)) {
+      assert.equal(scene.speech.split(pronunciation).length - 1, scene.text.split(name).length - 1);
+    }
+    assert.ok(!scene.speech.includes('An thờ rô píc'));
+    assert.ok(!scene.speech.includes('X pây ích'));
+  }
+  assert.deepEqual(audioManifest.pronunciations,spokenNames);
+});

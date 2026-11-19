@@ -2,13 +2,13 @@
   "targetMusicBelowVoiceDb": -22.0,
   "safetyHeadroomDb": 6.0,
   "sourceBedTargetDb": -28.0,
-  "musicVolume": 0.123547,
+  "musicVolume": 0.132552,
   "voiceVolume": 0.95,
   "duckFactor": 0.65,
-  "activeVoiceRms": 0.15895156463669355,
-  "rawMusicMonoRms": 0.07485881214852094,
+  "activeVoiceRms": 0.17053783073734524,
+  "rawMusicMonoRms": 0.07485911224781917,
   "method": "Active speech 50ms RMS, caption ducking and 6 dB headroom checked against the actual mono/stereo render.",
   "musicOrigin": "Original procedural synthesis, no third-party recordings or samples.",
   "musicBpm": 106,
-  "musicSha256": "c1750e818796037f79271400586b766497a21c08b4fef6034cb570438d77402a"
+  "musicSha256": "68602bb8005e0d7a663eef217fcacfbdd7c5985ac598c5a1f3181934e6ebbb05"
 }

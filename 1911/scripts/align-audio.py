@@ -11,7 +11,7 @@ def main():
  model=WhisperModel(args.model,device='cpu',compute_type='int8',cpu_threads=2)
  plan=json.loads((ROOT/'out/tts-cache/plan.json').read_text());recordings=[];stats=[]
  for scene in plan:
-  segments,_=model.transcribe(str(ROOT/scene['file']),language='vi',word_timestamps=True,beam_size=5,vad_filter=True,condition_on_previous_text=True,initial_prompt='Anthropic, An thờ rô píc, IPO, ai pi ô, SpaceX, X pây ích, Claude, ANT, Nasdaq, Nát đắc, Google, Nvidia.')
+  segments,_=model.transcribe(str(ROOT/scene['file']),language='vi',word_timestamps=True,beam_size=5,vad_filter=True,condition_on_previous_text=True,initial_prompt='Anthropic, An thro pic, IPO, ai pi ô, SpaceX, Space X, Claude, ANT, Nasdaq, Nát đắc, Google, Nvidia.')
   recognized=[{'text':w.word.strip(),'start':w.start,'end':w.end} for s in segments for w in s.words]
   if not recognized:raise RuntimeError('No recognized speech '+scene['id'])
   words,ratio=align(scene['text'],recognized,scene['offset'])

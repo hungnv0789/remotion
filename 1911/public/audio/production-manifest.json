@@ -10,12 +10,16 @@
   "presetGender": "female",
   "sampleRate": 48000,
   "tempo": 1.12,
-  "sourceDurationSeconds": 116.94639583333333,
-  "sourceSha256": "e383c9de688b565fb121d25ade1834102da8384e08e617da59e53dfe301de1ae",
+  "sourceDurationSeconds": 114.798625,
+  "sourceSha256": "0f7b1d9befa351f24f46e11a575191899b2fe3ea4819751bed9e45e081afe01f",
+  "pronunciations": {
+    "Anthropic": "An thro pic",
+    "SpaceX": "Space X"
+  },
   "alignment": [
     {
       "id": "hook",
-      "matchRatio": 0.8392857142857143
+      "matchRatio": 0.9557522123893806
     },
     {
       "id": "demand",
@@ -23,23 +27,23 @@
     },
     {
       "id": "valuation",
-      "matchRatio": 0.703125
+      "matchRatio": 0.8448275862068966
     },
     {
       "id": "size",
-      "matchRatio": 0.7482993197278912
+      "matchRatio": 0.9420289855072463
     },
     {
       "id": "option",
-      "matchRatio": 0.7818181818181819
+      "matchRatio": 0.92
     },
     {
       "id": "private",
-      "matchRatio": 0.86
+      "matchRatio": 0.9375
     },
     {
       "id": "closing",
-      "matchRatio": 0.9041095890410958
+      "matchRatio": 0.9351851851851852
     }
   ],
   "music": "Original cinematic financial news bed, 106 BPM; no third-party samples",
@@ -47,14 +51,14 @@
     "targetMusicBelowVoiceDb": -22.0,
     "safetyHeadroomDb": 6.0,
     "sourceBedTargetDb": -28.0,
-    "musicVolume": 0.123547,
+    "musicVolume": 0.132552,
     "voiceVolume": 0.95,
     "duckFactor": 0.65,
-    "activeVoiceRms": 0.15895156463669355,
-    "rawMusicMonoRms": 0.07485881214852094,
+    "activeVoiceRms": 0.17053783073734524,
+    "rawMusicMonoRms": 0.07485911224781917,
     "method": "Active speech 50ms RMS, caption ducking and 6 dB headroom checked against the actual mono/stereo render.",
     "musicOrigin": "Original procedural synthesis, no third-party recordings or samples.",
     "musicBpm": 106,
-    "musicSha256": "c1750e818796037f79271400586b766497a21c08b4fef6034cb570438d77402a"
+    "musicSha256": "68602bb8005e0d7a663eef217fcacfbdd7c5985ac598c5a1f3181934e6ebbb05"
   }
 }

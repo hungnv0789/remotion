@@ -45,7 +45,7 @@ python scripts/calibrate-mix.py --target-db -22 --headroom-db 6
 npm run captions
 ```
 
-TTS chuẩn hóa các cách đọc: Anthropic, SpaceX, Claude, IPO, ANT, Nasdaq, Google/Nvidia và các số tiền. Chữ trên màn hình vẫn giữ tên và số gốc. Cache raw/processed audio từng cảnh và plan ở `out/tts-cache/`; nếu tạo lại giọng phải căn lại phụ đề, giữ playback rate Remotion bằng 1. Có thể đặt `FFMPEG_BINARY` và `FFPROBE_BINARY` cho các script hỗ trợ.
+TTS chuẩn hóa các cách đọc: Anthropic → `An thro pic`, SpaceX → `Space X` theo yêu cầu người dùng; Claude, IPO, ANT, Nasdaq, Google/Nvidia và các số tiền giữ cách phiên âm của dự án. Bảng tên được lưu tại `src/data/pronunciation.json`. Chữ trên màn hình vẫn giữ tên và số gốc. Cache raw/processed audio từng cảnh và plan ở `out/tts-cache/`; nếu tạo lại giọng phải căn lại phụ đề, giữ playback rate Remotion bằng 1. Có thể đặt `FFMPEG_BINARY` và `FFPROBE_BINARY` cho các script hỗ trợ.
 
 ## Kiểm tra và đóng gói
 

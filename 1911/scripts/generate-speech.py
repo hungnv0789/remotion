@@ -14,7 +14,12 @@ def main():
  preset=tts._preset_voices.get(args.voice)
  if not preset or preset.get('gender')!='female' or 'Bắc' not in preset.get('description',''):raise RuntimeError('Select a female Northern VieNeu preset.')
  print('VOICE',args.voice,preset['description'],flush=True)
- scenes=json.loads((ROOT/'src/data/script.json').read_text());cache=ROOT/'out/tts-cache';cache.mkdir(parents=True,exist_ok=True);parts=[];plan=[];offset=0.;sr=48000
+ scenes=json.loads((ROOT/'src/data/script.json').read_text())
+ pronunciations=json.loads((ROOT/'src/data/pronunciation.json').read_text())
+ for scene in scenes:
+  for name,spoken in pronunciations.items():
+   if scene['speech'].count(spoken)!=scene['text'].count(name):raise RuntimeError('Update speech pronunciation for '+name+' in '+scene['id'])
+ cache=ROOT/'out/tts-cache';cache.mkdir(parents=True,exist_ok=True);parts=[];plan=[];offset=0.;sr=48000
  for scene in scenes:
   key=hashlib.sha256((scene['speech']+'|'+json.dumps(scene.get('speechParts', []),ensure_ascii=False)+'|'+args.voice+'|v3turbo-3.8.4').encode()).hexdigest()[:10];raw=cache/(scene['id']+'-'+key+'.wav');processed=cache/(scene['id']+'-aligned.wav')
   started=time.time()
@@ -35,6 +40,7 @@ def main():
  subprocess.run([FFMPEG,'-v','error','-i',str(audio/'voiceover.wav'),'-codec:a','libmp3lame','-b:a','160k','-y',str(audio/'voiceover.mp3')],check=True)
  (ROOT/'1911.mp3').write_bytes((audio/'voiceover.mp3').read_bytes())
  (cache/'plan.json').write_text(json.dumps(plan,ensure_ascii=False,indent=2))
- manifest={'voiceAlias':'female_north','engine':'VieNeu-TTS v3 Turbo','sdkVersion':'3.8.4','model':'pnnbao-ump/VieNeu-TTS-v3-Turbo','modelLicense':'Apache-2.0','backend':'ONNX CPU fp32','preset':args.voice,'presetDescription':preset['description'],'presetGender':preset['gender'],'sampleRate':sr,'tempo':args.tempo,'sourceDurationSeconds':len(full)/sr,'sourceSha256':hashlib.sha256((audio/'voiceover.mp3').read_bytes()).hexdigest()}
+ manifest={'voiceAlias':'female_north','engine':'VieNeu-TTS v3 Turbo','sdkVersion':'3.8.4','model':'pnnbao-ump/VieNeu-TTS-v3-Turbo','modelLicense':'Apache-2.0','backend':'ONNX CPU fp32','preset':args.voice,'presetDescription':preset['description'],'presetGender':preset['gender'],'pronunciations':pronunciations,'sampleRate':sr,'tempo':args.tempo,'sourceDurationSeconds':len(full)/sr,'sourceSha256':hashlib.sha256((audio/'voiceover.mp3').read_bytes()).hexdigest()}
+ manifest['pronunciations']=json.loads((ROOT/'src/data/pronunciation.json').read_text())
  (audio/'production-manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2));print('VOICE COMPLETE',len(full)/sr,flush=True)
 if __name__=='__main__':main()

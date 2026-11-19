@@ -1,13 +1,13 @@
 [
   {
     "path": "audio/finance-news.wav",
-    "bytes": 11418896,
-    "sha256": "c1750e818796037f79271400586b766497a21c08b4fef6034cb570438d77402a"
+    "bytes": 11212712,
+    "sha256": "68602bb8005e0d7a663eef217fcacfbdd7c5985ac598c5a1f3181934e6ebbb05"
   },
   {
     "path": "audio/mix-calibration.json",
     "bytes": 563,
-    "sha256": "1149a6e13faa06b459fd3cbe9b2899e50adf949a84088bc088f1517421bfe32a"
+    "sha256": "7ade9ec6461c26bc0cc202abbe083b46815a4d6e8661dce7a1ef27f320a9fdc8"
   },
   {
     "path": "audio/news-sting.wav",
@@ -16,8 +16,8 @@
   },
   {
     "path": "audio/production-manifest.json",
-    "bytes": 1703,
-    "sha256": "a18a93a741411643ccc25149533f4d8d449bc83526ecdbcff97806bced812890"
+    "bytes": 1776,
+    "sha256": "e5881870df201a717d7ab1b18bcc6bac786f88614d63da00fb27917884622ff5"
   },
   {
     "path": "audio/rising-whoosh.wav",
@@ -26,12 +26,12 @@
   },
   {
     "path": "audio/voiceover.mp3",
-    "bytes": 2340044,
-    "sha256": "e383c9de688b565fb121d25ade1834102da8384e08e617da59e53dfe301de1ae"
+    "bytes": 2297324,
+    "sha256": "0f7b1d9befa351f24f46e11a575191899b2fe3ea4819751bed9e45e081afe01f"
   },
   {
     "path": "audio/voiceover.wav",
-    "bytes": 11226898,
-    "sha256": "753b4f0882aea06337038f2cbfb5e9d683f1c91c5c78fbd1e3c56abf635bbdcb"
+    "bytes": 11020712,
+    "sha256": "272467aee9c60e346f3d01607f5dc52751b77bd53463c2b512e447e7f0431b06"
   }
 ]
