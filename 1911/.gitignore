@@ -1,0 +1,11 @@
+node_modules/
+out/
+dist/
+*.log
+.env*
+
+.venv-audio/
+__pycache__/
+
+.venv-voice/
+.venv-align/

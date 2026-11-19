@@ -1,0 +1,2279 @@
+{
+  "audioSrc": "audio/voiceover.mp3",
+  "durationSeconds": 116.94639583333333,
+  "sourceSha256": "e383c9de688b565fb121d25ade1834102da8384e08e617da59e53dfe301de1ae",
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Anthropic vừa chốt giá IPO ở mức 83 đô la một cổ phiếu! Một thương vụ có quy mô lên tới hơn 81 tỷ đô la, thậm chí có thể đạt hơn 93 tỷ đô la nếu bán hết cổ phiếu bổ sung. Nhưng liệu công ty đứng sau Claude đã thực sự vượt mặt SpaceX?",
+      "words": [
+        {
+          "text": "Anthropic",
+          "start": 0.0,
+          "end": 0.46
+        },
+        {
+          "text": "vừa",
+          "start": 0.46,
+          "end": 1.0
+        },
+        {
+          "text": "chốt",
+          "start": 1.0,
+          "end": 1.16
+        },
+        {
+          "text": "giá",
+          "start": 1.16,
+          "end": 1.4
+        },
+        {
+          "text": "IPO",
+          "start": 1.4,
+          "end": 1.74
+        },
+        {
+          "text": "ở",
+          "start": 1.74,
+          "end": 1.98
+        },
+        {
+          "text": "mức",
+          "start": 1.98,
+          "end": 2.12
+        },
+        {
+          "text": "83",
+          "start": 2.12,
+          "end": 2.54
+        },
+        {
+          "text": "đô",
+          "start": 2.54,
+          "end": 2.68
+        },
+        {
+          "text": "la",
+          "start": 2.68,
+          "end": 2.82
+        },
+        {
+          "text": "một",
+          "start": 2.82,
+          "end": 2.96
+        },
+        {
+          "text": "cổ",
+          "start": 2.96,
+          "end": 3.14
+        },
+        {
+          "text": "phiếu!",
+          "start": 3.14,
+          "end": 3.38
+        },
+        {
+          "text": "Một",
+          "start": 3.96,
+          "end": 4.08
+        },
+        {
+          "text": "thương",
+          "start": 4.08,
+          "end": 4.18
+        },
+        {
+          "text": "vụ",
+          "start": 4.18,
+          "end": 4.38
+        },
+        {
+          "text": "có",
+          "start": 4.38,
+          "end": 4.5
+        },
+        {
+          "text": "quy",
+          "start": 4.5,
+          "end": 4.64
+        },
+        {
+          "text": "mô",
+          "start": 4.64,
+          "end": 4.82
+        },
+        {
+          "text": "lên",
+          "start": 4.82,
+          "end": 4.94
+        },
+        {
+          "text": "tới",
+          "start": 4.94,
+          "end": 5.1
+        },
+        {
+          "text": "hơn",
+          "start": 5.1,
+          "end": 5.28
+        },
+        {
+          "text": "81",
+          "start": 5.28,
+          "end": 5.68
+        },
+        {
+          "text": "tỷ",
+          "start": 5.68,
+          "end": 5.94
+        },
+        {
+          "text": "đô",
+          "start": 5.94,
+          "end": 6.08
+        },
+        {
+          "text": "la,",
+          "start": 6.08,
+          "end": 6.22
+        },
+        {
+          "text": "thậm",
+          "start": 6.56,
+          "end": 6.72
+        },
+        {
+          "text": "chí",
+          "start": 6.72,
+          "end": 6.88
+        },
+        {
+          "text": "có",
+          "start": 6.88,
+          "end": 7.04
+        },
+        {
+          "text": "thể",
+          "start": 7.04,
+          "end": 7.18
+        },
+        {
+          "text": "đạt",
+          "start": 7.18,
+          "end": 7.36
+        },
+        {
+          "text": "hơn",
+          "start": 7.36,
+          "end": 7.5
+        },
+        {
+          "text": "93",
+          "start": 7.5,
+          "end": 7.74
+        },
+        {
+          "text": "tỷ",
+          "start": 7.74,
+          "end": 8.2
+        },
+        {
+          "text": "đô",
+          "start": 8.2,
+          "end": 8.35
+        },
+        {
+          "text": "la",
+          "start": 8.35,
+          "end": 8.5
+        },
+        {
+          "text": "nếu",
+          "start": 8.5,
+          "end": 8.8
+        },
+        {
+          "text": "bán",
+          "start": 8.8,
+          "end": 8.96
+        },
+        {
+          "text": "hết",
+          "start": 8.96,
+          "end": 9.1
+        },
+        {
+          "text": "cổ",
+          "start": 9.1,
+          "end": 9.34
+        },
+        {
+          "text": "phiếu",
+          "start": 9.34,
+          "end": 9.52
+        },
+        {
+          "text": "bổ",
+          "start": 9.52,
+          "end": 9.68
+        },
+        {
+          "text": "sung.",
+          "start": 9.68,
+          "end": 9.88
+        },
+        {
+          "text": "Nhưng",
+          "start": 10.3,
+          "end": 10.44
+        },
+        {
+          "text": "liệu",
+          "start": 10.44,
+          "end": 10.6
+        },
+        {
+          "text": "công",
+          "start": 10.6,
+          "end": 10.72
+        },
+        {
+          "text": "ty",
+          "start": 10.72,
+          "end": 10.9
+        },
+        {
+          "text": "đứng",
+          "start": 10.9,
+          "end": 11.1
+        },
+        {
+          "text": "sau",
+          "start": 11.1,
+          "end": 11.3
+        },
+        {
+          "text": "Claude",
+          "start": 11.3,
+          "end": 11.62
+        },
+        {
+          "text": "đã",
+          "start": 11.62,
+          "end": 11.82
+        },
+        {
+          "text": "thực",
+          "start": 11.82,
+          "end": 11.96
+        },
+        {
+          "text": "sự",
+          "start": 11.96,
+          "end": 12.18
+        },
+        {
+          "text": "vượt",
+          "start": 12.18,
+          "end": 12.42
+        },
+        {
+          "text": "mặt",
+          "start": 12.42,
+          "end": 12.58
+        },
+        {
+          "text": "SpaceX?",
+          "start": 12.58,
+          "end": 13.22
+        }
+      ]
+    },
+    {
+      "id": "demand",
+      "text": "Đầu tiên, mức giá 83 đô la cao hơn vùng chào bán ban đầu từ 70 đến 78 đô la. Đáng chú ý, lượng đăng ký mua được báo cáo lên tới gần 500 tỷ đô la, gấp khoảng 6 lần lượng cổ phiếu chào bán. Một con số cho thấy sức hút cực lớn của ngành AI.",
+      "words": [
+        {
+          "text": "Đầu",
+          "start": 13.61179,
+          "end": 13.81179
+        },
+        {
+          "text": "tiên,",
+          "start": 13.81179,
+          "end": 14.05179
+        },
+        {
+          "text": "mức",
+          "start": 14.31179,
+          "end": 14.43179
+        },
+        {
+          "text": "giá",
+          "start": 14.43179,
+          "end": 14.63179
+        },
+        {
+          "text": "83",
+          "start": 14.63179,
+          "end": 14.93179
+        },
+        {
+          "text": "đô",
+          "start": 14.93179,
+          "end": 15.19179
+        },
+        {
+          "text": "la",
+          "start": 15.19179,
+          "end": 15.33179
+        },
+        {
+          "text": "cao",
+          "start": 15.33179,
+          "end": 15.55179
+        },
+        {
+          "text": "hơn",
+          "start": 15.55179,
+          "end": 15.67179
+        },
+        {
+          "text": "vùng",
+          "start": 15.67179,
+          "end": 15.89179
+        },
+        {
+          "text": "chào",
+          "start": 15.89179,
+          "end": 16.07179
+        },
+        {
+          "text": "bán",
+          "start": 16.07179,
+          "end": 16.25179
+        },
+        {
+          "text": "ban",
+          "start": 16.25179,
+          "end": 16.41179
+        },
+        {
+          "text": "đầu",
+          "start": 16.41179,
+          "end": 16.61179
+        },
+        {
+          "text": "từ",
+          "start": 16.61179,
+          "end": 16.77179
+        },
+        {
+          "text": "70",
+          "start": 16.77179,
+          "end": 17.01179
+        },
+        {
+          "text": "đến",
+          "start": 17.01179,
+          "end": 17.21179
+        },
+        {
+          "text": "78",
+          "start": 17.21179,
+          "end": 17.67179
+        },
+        {
+          "text": "đô",
+          "start": 17.67179,
+          "end": 17.87179
+        },
+        {
+          "text": "la.",
+          "start": 17.87179,
+          "end": 18.03179
+        },
+        {
+          "text": "Đáng",
+          "start": 18.39179,
+          "end": 18.59179
+        },
+        {
+          "text": "chú",
+          "start": 18.59179,
+          "end": 18.79179
+        },
+        {
+          "text": "ý,",
+          "start": 18.79179,
+          "end": 18.95179
+        },
+        {
+          "text": "lượng",
+          "start": 19.27179,
+          "end": 19.37179
+        },
+        {
+          "text": "đăng",
+          "start": 19.37179,
+          "end": 19.53179
+        },
+        {
+          "text": "ký",
+          "start": 19.53179,
+          "end": 19.69179
+        },
+        {
+          "text": "mua",
+          "start": 19.69179,
+          "end": 19.89179
+        },
+        {
+          "text": "được",
+          "start": 19.89179,
+          "end": 19.97179
+        },
+        {
+          "text": "báo",
+          "start": 19.97179,
+          "end": 20.17179
+        },
+        {
+          "text": "cáo",
+          "start": 20.17179,
+          "end": 20.41179
+        },
+        {
+          "text": "lên",
+          "start": 20.41179,
+          "end": 20.51179
+        },
+        {
+          "text": "tới",
+          "start": 20.51179,
+          "end": 20.67179
+        },
+        {
+          "text": "gần",
+          "start": 20.67179,
+          "end": 20.87179
+        },
+        {
+          "text": "500",
+          "start": 20.87179,
+          "end": 21.15179
+        },
+        {
+          "text": "tỷ",
+          "start": 21.15179,
+          "end": 21.39179
+        },
+        {
+          "text": "đô",
+          "start": 21.39179,
+          "end": 21.51179
+        },
+        {
+          "text": "la,",
+          "start": 21.51179,
+          "end": 21.69179
+        },
+        {
+          "text": "gấp",
+          "start": 21.95179,
+          "end": 22.13179
+        },
+        {
+          "text": "khoảng",
+          "start": 22.13179,
+          "end": 22.33179
+        },
+        {
+          "text": "6",
+          "start": 22.33179,
+          "end": 22.49179
+        },
+        {
+          "text": "lần",
+          "start": 22.49179,
+          "end": 22.67179
+        },
+        {
+          "text": "lượng",
+          "start": 22.67179,
+          "end": 22.81179
+        },
+        {
+          "text": "cổ",
+          "start": 22.81179,
+          "end": 22.97179
+        },
+        {
+          "text": "phiếu",
+          "start": 22.97179,
+          "end": 23.15179
+        },
+        {
+          "text": "chào",
+          "start": 23.15179,
+          "end": 23.35179
+        },
+        {
+          "text": "bán.",
+          "start": 23.35179,
+          "end": 23.55179
+        },
+        {
+          "text": "Một",
+          "start": 23.95179,
+          "end": 24.15179
+        },
+        {
+          "text": "con",
+          "start": 24.15179,
+          "end": 24.29179
+        },
+        {
+          "text": "số",
+          "start": 24.29179,
+          "end": 24.49179
+        },
+        {
+          "text": "cho",
+          "start": 24.49179,
+          "end": 24.65179
+        },
+        {
+          "text": "thấy",
+          "start": 24.65179,
+          "end": 24.85179
+        },
+        {
+          "text": "sức",
+          "start": 24.85179,
+          "end": 25.11179
+        },
+        {
+          "text": "hút",
+          "start": 25.11179,
+          "end": 25.29179
+        },
+        {
+          "text": "cực",
+          "start": 25.29179,
+          "end": 25.45179
+        },
+        {
+          "text": "lớn",
+          "start": 25.45179,
+          "end": 25.71179
+        },
+        {
+          "text": "của",
+          "start": 25.71179,
+          "end": 25.81179
+        },
+        {
+          "text": "ngành",
+          "start": 25.81179,
+          "end": 26.01179
+        },
+        {
+          "text": "AI.",
+          "start": 26.01179,
+          "end": 26.31179
+        }
+      ]
+    },
+    {
+      "id": "valuation",
+      "text": "Nhưng nếu xét về định giá, Anthropic vẫn chưa thể vượt SpaceX. Ở mức giá IPO 83 đô la, Anthropic được định giá khoảng 1.500 tỷ đô la nếu tính cả cổ phiếu thưởng và quyền mua cổ phiếu. Trong khi đó, SpaceX đang ở mức khoảng 1.770 tỷ đô la. Khoảng cách lên tới 270 tỷ đô la!",
+      "words": [
+        {
+          "text": "Nhưng",
+          "start": 26.90169,
+          "end": 27.10169
+        },
+        {
+          "text": "nếu",
+          "start": 27.10169,
+          "end": 27.26169
+        },
+        {
+          "text": "xét",
+          "start": 27.26169,
+          "end": 27.46169
+        },
+        {
+          "text": "về",
+          "start": 27.46169,
+          "end": 27.62169
+        },
+        {
+          "text": "định",
+          "start": 27.62169,
+          "end": 27.82169
+        },
+        {
+          "text": "giá,",
+          "start": 27.82169,
+          "end": 28.12169
+        },
+        {
+          "text": "Anthropic",
+          "start": 28.50169,
+          "end": 29.22169
+        },
+        {
+          "text": "vẫn",
+          "start": 29.22169,
+          "end": 29.36169
+        },
+        {
+          "text": "chưa",
+          "start": 29.36169,
+          "end": 29.52169
+        },
+        {
+          "text": "thể",
+          "start": 29.52169,
+          "end": 29.66169
+        },
+        {
+          "text": "vượt",
+          "start": 29.66169,
+          "end": 29.94169
+        },
+        {
+          "text": "SpaceX.",
+          "start": 29.94169,
+          "end": 30.70169
+        },
+        {
+          "text": "Ở",
+          "start": 30.80169,
+          "end": 30.96169
+        },
+        {
+          "text": "mức",
+          "start": 30.96169,
+          "end": 31.10169
+        },
+        {
+          "text": "giá",
+          "start": 31.10169,
+          "end": 31.32169
+        },
+        {
+          "text": "IPO",
+          "start": 31.32169,
+          "end": 31.60169
+        },
+        {
+          "text": "83",
+          "start": 31.60169,
+          "end": 32.10169
+        },
+        {
+          "text": "đô",
+          "start": 32.10169,
+          "end": 32.60169
+        },
+        {
+          "text": "la,",
+          "start": 32.60169,
+          "end": 33.10169
+        },
+        {
+          "text": "Anthropic",
+          "start": 33.10169,
+          "end": 33.60169
+        },
+        {
+          "text": "được",
+          "start": 33.60169,
+          "end": 33.70169
+        },
+        {
+          "text": "định",
+          "start": 33.70169,
+          "end": 33.94169
+        },
+        {
+          "text": "giá",
+          "start": 33.94169,
+          "end": 34.12169
+        },
+        {
+          "text": "khoảng",
+          "start": 34.12169,
+          "end": 34.30169
+        },
+        {
+          "text": "1.500",
+          "start": 34.30169,
+          "end": 34.92169
+        },
+        {
+          "text": "tỷ",
+          "start": 34.92169,
+          "end": 35.16169
+        },
+        {
+          "text": "đô",
+          "start": 35.16169,
+          "end": 35.29169
+        },
+        {
+          "text": "la",
+          "start": 35.29169,
+          "end": 35.42169
+        },
+        {
+          "text": "nếu",
+          "start": 35.42169,
+          "end": 35.90169
+        },
+        {
+          "text": "tính",
+          "start": 35.90169,
+          "end": 36.06169
+        },
+        {
+          "text": "cả",
+          "start": 36.06169,
+          "end": 36.20169
+        },
+        {
+          "text": "cổ",
+          "start": 36.20169,
+          "end": 36.36169
+        },
+        {
+          "text": "phiếu",
+          "start": 36.36169,
+          "end": 36.54169
+        },
+        {
+          "text": "thưởng",
+          "start": 36.54169,
+          "end": 36.76169
+        },
+        {
+          "text": "và",
+          "start": 36.76169,
+          "end": 36.90169
+        },
+        {
+          "text": "quyền",
+          "start": 36.90169,
+          "end": 37.10169
+        },
+        {
+          "text": "mua",
+          "start": 37.10169,
+          "end": 37.30169
+        },
+        {
+          "text": "cổ",
+          "start": 37.30169,
+          "end": 37.44169
+        },
+        {
+          "text": "phiếu.",
+          "start": 37.44169,
+          "end": 37.70169
+        },
+        {
+          "text": "Trong",
+          "start": 38.08169,
+          "end": 38.24169
+        },
+        {
+          "text": "khi",
+          "start": 38.24169,
+          "end": 38.38169
+        },
+        {
+          "text": "đó,",
+          "start": 38.38169,
+          "end": 38.58169
+        },
+        {
+          "text": "SpaceX",
+          "start": 38.84169,
+          "end": 39.28169
+        },
+        {
+          "text": "đang",
+          "start": 39.28169,
+          "end": 39.40169
+        },
+        {
+          "text": "ở",
+          "start": 39.40169,
+          "end": 39.56169
+        },
+        {
+          "text": "mức",
+          "start": 39.56169,
+          "end": 39.74169
+        },
+        {
+          "text": "khoảng",
+          "start": 39.74169,
+          "end": 39.96169
+        },
+        {
+          "text": "1.770",
+          "start": 39.96169,
+          "end": 40.96169
+        },
+        {
+          "text": "tỷ",
+          "start": 40.96169,
+          "end": 41.18169
+        },
+        {
+          "text": "đô",
+          "start": 41.18169,
+          "end": 41.32169
+        },
+        {
+          "text": "la.",
+          "start": 41.32169,
+          "end": 41.46169
+        },
+        {
+          "text": "Khoảng",
+          "start": 41.84169,
+          "end": 42.06169
+        },
+        {
+          "text": "cách",
+          "start": 42.06169,
+          "end": 42.16169
+        },
+        {
+          "text": "lên",
+          "start": 42.16169,
+          "end": 42.32169
+        },
+        {
+          "text": "tới",
+          "start": 42.32169,
+          "end": 42.50169
+        },
+        {
+          "text": "270",
+          "start": 42.50169,
+          "end": 42.94169
+        },
+        {
+          "text": "tỷ",
+          "start": 42.94169,
+          "end": 43.44169
+        },
+        {
+          "text": "đô",
+          "start": 43.44169,
+          "end": 43.53169
+        },
+        {
+          "text": "la!",
+          "start": 43.53169,
+          "end": 43.62169
+        }
+      ]
+    },
+    {
+      "id": "size",
+      "text": "Còn về quy mô IPO, câu chuyện thú vị hơn nhiều. Anthropic chào bán khoảng 81,34 tỷ đô la cổ phiếu, vượt mức 75 tỷ đô la trong đợt IPO ban đầu của SpaceX. Tuy nhiên, SpaceX sau đó thực hiện quyền mua thêm, nâng tổng quy mô lên khoảng 86,25 tỷ đô la. Vì vậy, nếu tính toàn bộ thương vụ, Anthropic vẫn chưa vượt qua SpaceX.",
+      "words": [
+        {
+          "text": "Còn",
+          "start": 44.17885,
+          "end": 44.33885
+        },
+        {
+          "text": "về",
+          "start": 44.33885,
+          "end": 44.47885
+        },
+        {
+          "text": "quy",
+          "start": 44.47885,
+          "end": 44.65885
+        },
+        {
+          "text": "mô",
+          "start": 44.65885,
+          "end": 44.83885
+        },
+        {
+          "text": "IPO,",
+          "start": 44.83885,
+          "end": 45.13885
+        },
+        {
+          "text": "câu",
+          "start": 45.67885,
+          "end": 45.79885
+        },
+        {
+          "text": "chuyện",
+          "start": 45.79885,
+          "end": 45.95885
+        },
+        {
+          "text": "thú",
+          "start": 45.95885,
+          "end": 46.07885
+        },
+        {
+          "text": "vị",
+          "start": 46.07885,
+          "end": 46.25885
+        },
+        {
+          "text": "hơn",
+          "start": 46.25885,
+          "end": 46.39885
+        },
+        {
+          "text": "nhiều.",
+          "start": 46.39885,
+          "end": 46.65885
+        },
+        {
+          "text": "Anthropic",
+          "start": 47.11885,
+          "end": 47.77885
+        },
+        {
+          "text": "chào",
+          "start": 47.77885,
+          "end": 48.07885
+        },
+        {
+          "text": "bán",
+          "start": 48.07885,
+          "end": 48.23885
+        },
+        {
+          "text": "khoảng",
+          "start": 48.23885,
+          "end": 48.49885
+        },
+        {
+          "text": "81,34",
+          "start": 48.49885,
+          "end": 49.41885
+        },
+        {
+          "text": "tỷ",
+          "start": 49.41885,
+          "end": 49.63885
+        },
+        {
+          "text": "đô",
+          "start": 49.63885,
+          "end": 49.75885
+        },
+        {
+          "text": "la",
+          "start": 49.75885,
+          "end": 49.87885
+        },
+        {
+          "text": "cổ",
+          "start": 49.87885,
+          "end": 50.07885
+        },
+        {
+          "text": "phiếu,",
+          "start": 50.07885,
+          "end": 50.33885
+        },
+        {
+          "text": "vượt",
+          "start": 50.75885,
+          "end": 50.89885
+        },
+        {
+          "text": "mức",
+          "start": 50.89885,
+          "end": 51.01885
+        },
+        {
+          "text": "75",
+          "start": 51.01885,
+          "end": 51.39885
+        },
+        {
+          "text": "tỷ",
+          "start": 51.39885,
+          "end": 51.67885
+        },
+        {
+          "text": "đô",
+          "start": 51.67885,
+          "end": 51.80885
+        },
+        {
+          "text": "la",
+          "start": 51.80885,
+          "end": 51.93885
+        },
+        {
+          "text": "trong",
+          "start": 51.93885,
+          "end": 52.11885
+        },
+        {
+          "text": "đợt",
+          "start": 52.11885,
+          "end": 52.33885
+        },
+        {
+          "text": "IPO",
+          "start": 52.33885,
+          "end": 52.63885
+        },
+        {
+          "text": "ban",
+          "start": 52.63885,
+          "end": 52.93885
+        },
+        {
+          "text": "đầu",
+          "start": 52.93885,
+          "end": 53.07885
+        },
+        {
+          "text": "của",
+          "start": 53.07885,
+          "end": 53.25885
+        },
+        {
+          "text": "SpaceX.",
+          "start": 53.25885,
+          "end": 53.93885
+        },
+        {
+          "text": "Tuy",
+          "start": 54.03885,
+          "end": 54.19885
+        },
+        {
+          "text": "nhiên,",
+          "start": 54.19885,
+          "end": 54.41885
+        },
+        {
+          "text": "SpaceX",
+          "start": 54.57885,
+          "end": 55.07885
+        },
+        {
+          "text": "sau",
+          "start": 55.07885,
+          "end": 55.19885
+        },
+        {
+          "text": "đó",
+          "start": 55.19885,
+          "end": 55.39885
+        },
+        {
+          "text": "thực",
+          "start": 55.39885,
+          "end": 55.53885
+        },
+        {
+          "text": "hiện",
+          "start": 55.53885,
+          "end": 55.71885
+        },
+        {
+          "text": "quyền",
+          "start": 55.71885,
+          "end": 55.93885
+        },
+        {
+          "text": "mua",
+          "start": 55.93885,
+          "end": 56.15885
+        },
+        {
+          "text": "thêm,",
+          "start": 56.15885,
+          "end": 56.33885
+        },
+        {
+          "text": "nâng",
+          "start": 56.65885,
+          "end": 56.83885
+        },
+        {
+          "text": "tổng",
+          "start": 56.83885,
+          "end": 57.01885
+        },
+        {
+          "text": "quy",
+          "start": 57.01885,
+          "end": 57.17885
+        },
+        {
+          "text": "mô",
+          "start": 57.17885,
+          "end": 57.37885
+        },
+        {
+          "text": "lên",
+          "start": 57.37885,
+          "end": 57.49885
+        },
+        {
+          "text": "khoảng",
+          "start": 57.49885,
+          "end": 57.75885
+        },
+        {
+          "text": "86,25",
+          "start": 57.75885,
+          "end": 58.67885
+        },
+        {
+          "text": "tỷ",
+          "start": 58.67885,
+          "end": 58.97885
+        },
+        {
+          "text": "đô",
+          "start": 58.97885,
+          "end": 59.12885
+        },
+        {
+          "text": "la.",
+          "start": 59.12885,
+          "end": 59.27885
+        },
+        {
+          "text": "Vì",
+          "start": 59.65885,
+          "end": 59.87885
+        },
+        {
+          "text": "vậy,",
+          "start": 59.87885,
+          "end": 60.05885
+        },
+        {
+          "text": "nếu",
+          "start": 60.27885,
+          "end": 60.37885
+        },
+        {
+          "text": "tính",
+          "start": 60.37885,
+          "end": 60.53885
+        },
+        {
+          "text": "toàn",
+          "start": 60.53885,
+          "end": 60.73885
+        },
+        {
+          "text": "bộ",
+          "start": 60.73885,
+          "end": 60.91885
+        },
+        {
+          "text": "thương",
+          "start": 60.91885,
+          "end": 61.07885
+        },
+        {
+          "text": "vụ,",
+          "start": 61.07885,
+          "end": 61.29885
+        },
+        {
+          "text": "Anthropic",
+          "start": 61.53885,
+          "end": 62.29885
+        },
+        {
+          "text": "vẫn",
+          "start": 62.29885,
+          "end": 62.51885
+        },
+        {
+          "text": "chưa",
+          "start": 62.51885,
+          "end": 62.69885
+        },
+        {
+          "text": "vượt",
+          "start": 62.69885,
+          "end": 62.91885
+        },
+        {
+          "text": "qua",
+          "start": 62.91885,
+          "end": 63.01885
+        },
+        {
+          "text": "SpaceX.",
+          "start": 63.01885,
+          "end": 63.61885
+        }
+      ]
+    },
+    {
+      "id": "option",
+      "text": "Nhưng Anthropic vẫn còn một quân bài dự phòng. Đó là quyền chào bán thêm 147 triệu cổ phiếu. Nếu toàn bộ số cổ phiếu này được bán, tổng quy mô IPO có thể tăng lên khoảng 93,54 tỷ đô la. Khi đó, Anthropic sẽ chính thức vượt qua SpaceX!",
+      "words": [
+        {
+          "text": "Nhưng",
+          "start": 64.00598,
+          "end": 64.22598
+        },
+        {
+          "text": "Anthropic",
+          "start": 64.22598,
+          "end": 65.10598
+        },
+        {
+          "text": "vẫn",
+          "start": 65.10598,
+          "end": 65.20598
+        },
+        {
+          "text": "còn",
+          "start": 65.20598,
+          "end": 65.38598
+        },
+        {
+          "text": "một",
+          "start": 65.38598,
+          "end": 65.56598
+        },
+        {
+          "text": "quân",
+          "start": 65.56598,
+          "end": 65.74598
+        },
+        {
+          "text": "bài",
+          "start": 65.74598,
+          "end": 65.92598
+        },
+        {
+          "text": "dự",
+          "start": 65.92598,
+          "end": 66.08598
+        },
+        {
+          "text": "phòng.",
+          "start": 66.08598,
+          "end": 66.32598
+        },
+        {
+          "text": "Đó",
+          "start": 66.68598,
+          "end": 66.96598
+        },
+        {
+          "text": "là",
+          "start": 66.96598,
+          "end": 67.12598
+        },
+        {
+          "text": "quyền",
+          "start": 67.12598,
+          "end": 67.32598
+        },
+        {
+          "text": "chào",
+          "start": 67.32598,
+          "end": 67.52598
+        },
+        {
+          "text": "bán",
+          "start": 67.52598,
+          "end": 67.66598
+        },
+        {
+          "text": "thêm",
+          "start": 67.66598,
+          "end": 67.82598
+        },
+        {
+          "text": "147",
+          "start": 67.82598,
+          "end": 68.56598
+        },
+        {
+          "text": "triệu",
+          "start": 68.56598,
+          "end": 68.76598
+        },
+        {
+          "text": "cổ",
+          "start": 68.76598,
+          "end": 68.88598
+        },
+        {
+          "text": "phiếu.",
+          "start": 68.88598,
+          "end": 69.12598
+        },
+        {
+          "text": "Nếu",
+          "start": 69.52598,
+          "end": 69.72598
+        },
+        {
+          "text": "toàn",
+          "start": 69.72598,
+          "end": 69.90598
+        },
+        {
+          "text": "bộ",
+          "start": 69.90598,
+          "end": 70.06598
+        },
+        {
+          "text": "số",
+          "start": 70.06598,
+          "end": 70.20598
+        },
+        {
+          "text": "cổ",
+          "start": 70.20598,
+          "end": 70.42598
+        },
+        {
+          "text": "phiếu",
+          "start": 70.42598,
+          "end": 70.62598
+        },
+        {
+          "text": "này",
+          "start": 70.62598,
+          "end": 70.76598
+        },
+        {
+          "text": "được",
+          "start": 70.76598,
+          "end": 70.92598
+        },
+        {
+          "text": "bán,",
+          "start": 70.92598,
+          "end": 71.18598
+        },
+        {
+          "text": "tổng",
+          "start": 71.54598,
+          "end": 71.68598
+        },
+        {
+          "text": "quy",
+          "start": 71.68598,
+          "end": 71.78598
+        },
+        {
+          "text": "mô",
+          "start": 71.78598,
+          "end": 72.02598
+        },
+        {
+          "text": "IPO",
+          "start": 72.02598,
+          "end": 72.30598
+        },
+        {
+          "text": "có",
+          "start": 72.30598,
+          "end": 72.58598
+        },
+        {
+          "text": "thể",
+          "start": 72.58598,
+          "end": 72.72598
+        },
+        {
+          "text": "tăng",
+          "start": 72.72598,
+          "end": 72.94598
+        },
+        {
+          "text": "lên",
+          "start": 72.94598,
+          "end": 73.06598
+        },
+        {
+          "text": "khoảng",
+          "start": 73.06598,
+          "end": 73.34598
+        },
+        {
+          "text": "93,54",
+          "start": 73.34598,
+          "end": 74.32598
+        },
+        {
+          "text": "tỷ",
+          "start": 74.32598,
+          "end": 74.56598
+        },
+        {
+          "text": "đô",
+          "start": 74.56598,
+          "end": 74.69598
+        },
+        {
+          "text": "la.",
+          "start": 74.69598,
+          "end": 74.82598
+        },
+        {
+          "text": "Khi",
+          "start": 75.36598,
+          "end": 75.64598
+        },
+        {
+          "text": "đó,",
+          "start": 75.64598,
+          "end": 75.80598
+        },
+        {
+          "text": "Anthropic",
+          "start": 76.16598,
+          "end": 77.10598
+        },
+        {
+          "text": "sẽ",
+          "start": 77.10598,
+          "end": 77.24598
+        },
+        {
+          "text": "chính",
+          "start": 77.24598,
+          "end": 77.40598
+        },
+        {
+          "text": "thức",
+          "start": 77.40598,
+          "end": 77.62598
+        },
+        {
+          "text": "vượt",
+          "start": 77.62598,
+          "end": 77.82598
+        },
+        {
+          "text": "qua",
+          "start": 77.82598,
+          "end": 77.94598
+        },
+        {
+          "text": "SpaceX!",
+          "start": 77.94598,
+          "end": 78.50598
+        }
+      ]
+    },
+    {
+      "id": "private",
+      "text": "Và còn một chi tiết đáng chú ý: ngoài IPO, Anthropic còn có kế hoạch huy động riêng 26 tỷ đô la từ Google, Nvidia và các đối tác công nghệ khác. Đây là khoản đầu tư riêng, không phải tiền mua cổ phiếu công khai trên Nasdaq.",
+      "words": [
+        {
+          "text": "Và",
+          "start": 78.90565,
+          "end": 79.08565
+        },
+        {
+          "text": "còn",
+          "start": 79.08565,
+          "end": 79.22565
+        },
+        {
+          "text": "một",
+          "start": 79.22565,
+          "end": 79.38565
+        },
+        {
+          "text": "chi",
+          "start": 79.38565,
+          "end": 79.54565
+        },
+        {
+          "text": "tiết",
+          "start": 79.54565,
+          "end": 79.70565
+        },
+        {
+          "text": "đáng",
+          "start": 79.70565,
+          "end": 79.90565
+        },
+        {
+          "text": "chú",
+          "start": 79.90565,
+          "end": 80.10565
+        },
+        {
+          "text": "ý:",
+          "start": 80.10565,
+          "end": 80.24565
+        },
+        {
+          "text": "ngoài",
+          "start": 80.48565,
+          "end": 80.64565
+        },
+        {
+          "text": "IPO,",
+          "start": 80.64565,
+          "end": 80.98565
+        },
+        {
+          "text": "Anthropic",
+          "start": 81.40565,
+          "end": 82.06565
+        },
+        {
+          "text": "còn",
+          "start": 82.06565,
+          "end": 82.28565
+        },
+        {
+          "text": "có",
+          "start": 82.28565,
+          "end": 82.50565
+        },
+        {
+          "text": "kế",
+          "start": 82.50565,
+          "end": 82.66565
+        },
+        {
+          "text": "hoạch",
+          "start": 82.66565,
+          "end": 82.88565
+        },
+        {
+          "text": "huy",
+          "start": 82.88565,
+          "end": 83.00565
+        },
+        {
+          "text": "động",
+          "start": 83.00565,
+          "end": 83.12565
+        },
+        {
+          "text": "riêng",
+          "start": 83.12565,
+          "end": 83.40565
+        },
+        {
+          "text": "26",
+          "start": 83.40565,
+          "end": 83.64565
+        },
+        {
+          "text": "tỷ",
+          "start": 83.64565,
+          "end": 84.04565
+        },
+        {
+          "text": "đô",
+          "start": 84.04565,
+          "end": 84.14565
+        },
+        {
+          "text": "la",
+          "start": 84.14565,
+          "end": 84.24565
+        },
+        {
+          "text": "từ",
+          "start": 84.24565,
+          "end": 84.50565
+        },
+        {
+          "text": "Google,",
+          "start": 84.50565,
+          "end": 84.74565
+        },
+        {
+          "text": "Nvidia",
+          "start": 85.20565,
+          "end": 85.56565
+        },
+        {
+          "text": "và",
+          "start": 85.56565,
+          "end": 86.14565
+        },
+        {
+          "text": "các",
+          "start": 86.14565,
+          "end": 86.28565
+        },
+        {
+          "text": "đối",
+          "start": 86.28565,
+          "end": 86.44565
+        },
+        {
+          "text": "tác",
+          "start": 86.44565,
+          "end": 86.68565
+        },
+        {
+          "text": "công",
+          "start": 86.68565,
+          "end": 86.80565
+        },
+        {
+          "text": "nghệ",
+          "start": 86.80565,
+          "end": 86.98565
+        },
+        {
+          "text": "khác.",
+          "start": 86.98565,
+          "end": 87.20565
+        },
+        {
+          "text": "Đây",
+          "start": 87.54565,
+          "end": 87.72565
+        },
+        {
+          "text": "là",
+          "start": 87.72565,
+          "end": 87.90565
+        },
+        {
+          "text": "khoản",
+          "start": 87.90565,
+          "end": 88.10565
+        },
+        {
+          "text": "đầu",
+          "start": 88.10565,
+          "end": 88.24565
+        },
+        {
+          "text": "tư",
+          "start": 88.24565,
+          "end": 88.44565
+        },
+        {
+          "text": "riêng,",
+          "start": 88.44565,
+          "end": 88.70565
+        },
+        {
+          "text": "không",
+          "start": 88.88565,
+          "end": 89.04565
+        },
+        {
+          "text": "phải",
+          "start": 89.04565,
+          "end": 89.24565
+        },
+        {
+          "text": "tiền",
+          "start": 89.24565,
+          "end": 89.42565
+        },
+        {
+          "text": "mua",
+          "start": 89.42565,
+          "end": 89.62565
+        },
+        {
+          "text": "cổ",
+          "start": 89.62565,
+          "end": 89.74565
+        },
+        {
+          "text": "phiếu",
+          "start": 89.74565,
+          "end": 89.94565
+        },
+        {
+          "text": "công",
+          "start": 89.94565,
+          "end": 90.08565
+        },
+        {
+          "text": "khai",
+          "start": 90.08565,
+          "end": 90.32565
+        },
+        {
+          "text": "trên",
+          "start": 90.32565,
+          "end": 90.48565
+        },
+        {
+          "text": "Nasdaq.",
+          "start": 90.48565,
+          "end": 90.82565
+        }
+      ]
+    },
+    {
+      "id": "closing",
+      "text": "Và tâm điểm chính là phiên giao dịch đầu tiên của mã ANT trên Nasdaq hôm nay! Giá 83 đô la mới chỉ là giá IPO. Điều thị trường thực sự muốn biết là khi cổ phiếu chính thức lên sàn, nhà đầu tư có tiếp tục sẵn sàng trả giá cao cho câu chuyện AI hay không? Anthropic chưa vượt SpaceX về định giá. Nhưng cuộc đua quy mô IPO vẫn chưa kết thúc. Bạn nghĩ ANT sẽ tăng mạnh trong ngày giao dịch đầu tiên, hay sẽ có một cú xả hàng sau IPO? Hãy để lại dự đoán của bạn ở phần bình luận!",
+      "words": [
+        {
+          "text": "Và",
+          "start": 91.22842,
+          "end": 91.44842
+        },
+        {
+          "text": "tâm",
+          "start": 91.44842,
+          "end": 91.62842
+        },
+        {
+          "text": "điểm",
+          "start": 91.62842,
+          "end": 91.82842
+        },
+        {
+          "text": "chính",
+          "start": 91.82842,
+          "end": 91.96842
+        },
+        {
+          "text": "là",
+          "start": 91.96842,
+          "end": 92.14842
+        },
+        {
+          "text": "phiên",
+          "start": 92.14842,
+          "end": 92.32842
+        },
+        {
+          "text": "giao",
+          "start": 92.32842,
+          "end": 92.48842
+        },
+        {
+          "text": "dịch",
+          "start": 92.48842,
+          "end": 92.62842
+        },
+        {
+          "text": "đầu",
+          "start": 92.62842,
+          "end": 92.80842
+        },
+        {
+          "text": "tiên",
+          "start": 92.80842,
+          "end": 93.00842
+        },
+        {
+          "text": "của",
+          "start": 93.00842,
+          "end": 93.16842
+        },
+        {
+          "text": "mã",
+          "start": 93.16842,
+          "end": 93.44842
+        },
+        {
+          "text": "ANT",
+          "start": 93.44842,
+          "end": 93.78842
+        },
+        {
+          "text": "trên",
+          "start": 93.78842,
+          "end": 94.00842
+        },
+        {
+          "text": "Nasdaq",
+          "start": 94.00842,
+          "end": 94.32842
+        },
+        {
+          "text": "hôm",
+          "start": 94.32842,
+          "end": 94.50842
+        },
+        {
+          "text": "nay!",
+          "start": 94.50842,
+          "end": 94.68842
+        },
+        {
+          "text": "Giá",
+          "start": 95.22842,
+          "end": 95.36842
+        },
+        {
+          "text": "83",
+          "start": 95.36842,
+          "end": 95.62842
+        },
+        {
+          "text": "đô",
+          "start": 95.62842,
+          "end": 95.81842
+        },
+        {
+          "text": "la",
+          "start": 95.81842,
+          "end": 96.00842
+        },
+        {
+          "text": "mới",
+          "start": 96.00842,
+          "end": 96.22842
+        },
+        {
+          "text": "chỉ",
+          "start": 96.22842,
+          "end": 96.42842
+        },
+        {
+          "text": "là",
+          "start": 96.42842,
+          "end": 96.56842
+        },
+        {
+          "text": "giá",
+          "start": 96.56842,
+          "end": 96.76842
+        },
+        {
+          "text": "IPO.",
+          "start": 96.76842,
+          "end": 97.14842
+        },
+        {
+          "text": "Điều",
+          "start": 97.68842,
+          "end": 97.90842
+        },
+        {
+          "text": "thị",
+          "start": 97.90842,
+          "end": 98.02842
+        },
+        {
+          "text": "trường",
+          "start": 98.02842,
+          "end": 98.22842
+        },
+        {
+          "text": "thực",
+          "start": 98.22842,
+          "end": 98.34842
+        },
+        {
+          "text": "sự",
+          "start": 98.34842,
+          "end": 98.56842
+        },
+        {
+          "text": "muốn",
+          "start": 98.56842,
+          "end": 98.70842
+        },
+        {
+          "text": "biết",
+          "start": 98.70842,
+          "end": 98.90842
+        },
+        {
+          "text": "là",
+          "start": 98.90842,
+          "end": 99.30842
+        },
+        {
+          "text": "khi",
+          "start": 99.30842,
+          "end": 99.48842
+        },
+        {
+          "text": "cổ",
+          "start": 99.48842,
+          "end": 99.66842
+        },
+        {
+          "text": "phiếu",
+          "start": 99.66842,
+          "end": 99.84842
+        },
+        {
+          "text": "chính",
+          "start": 99.84842,
+          "end": 100.00842
+        },
+        {
+          "text": "thức",
+          "start": 100.00842,
+          "end": 100.18842
+        },
+        {
+          "text": "lên",
+          "start": 100.18842,
+          "end": 100.36842
+        },
+        {
+          "text": "sàn,",
+          "start": 100.36842,
+          "end": 100.64842
+        },
+        {
+          "text": "nhà",
+          "start": 100.98842,
+          "end": 101.06842
+        },
+        {
+          "text": "đầu",
+          "start": 101.06842,
+          "end": 101.20842
+        },
+        {
+          "text": "tư",
+          "start": 101.20842,
+          "end": 101.38842
+        },
+        {
+          "text": "có",
+          "start": 101.38842,
+          "end": 101.54842
+        },
+        {
+          "text": "tiếp",
+          "start": 101.54842,
+          "end": 101.68842
+        },
+        {
+          "text": "tục",
+          "start": 101.68842,
+          "end": 101.86842
+        },
+        {
+          "text": "sẵn",
+          "start": 101.86842,
+          "end": 102.08842
+        },
+        {
+          "text": "sàng",
+          "start": 102.08842,
+          "end": 102.26842
+        },
+        {
+          "text": "trả",
+          "start": 102.26842,
+          "end": 102.48842
+        },
+        {
+          "text": "giá",
+          "start": 102.48842,
+          "end": 102.68842
+        },
+        {
+          "text": "cao",
+          "start": 102.68842,
+          "end": 102.88842
+        },
+        {
+          "text": "cho",
+          "start": 102.88842,
+          "end": 103.00842
+        },
+        {
+          "text": "câu",
+          "start": 103.00842,
+          "end": 103.16842
+        },
+        {
+          "text": "chuyện",
+          "start": 103.16842,
+          "end": 103.36842
+        },
+        {
+          "text": "AI",
+          "start": 103.36842,
+          "end": 103.62842
+        },
+        {
+          "text": "hay",
+          "start": 103.62842,
+          "end": 103.80842
+        },
+        {
+          "text": "không?",
+          "start": 103.80842,
+          "end": 104.00842
+        },
+        {
+          "text": "Anthropic",
+          "start": 104.54842,
+          "end": 105.40842
+        },
+        {
+          "text": "chưa",
+          "start": 105.40842,
+          "end": 105.54842
+        },
+        {
+          "text": "vượt",
+          "start": 105.54842,
+          "end": 105.76842
+        },
+        {
+          "text": "SpaceX",
+          "start": 105.76842,
+          "end": 106.32842
+        },
+        {
+          "text": "về",
+          "start": 106.32842,
+          "end": 106.46842
+        },
+        {
+          "text": "định",
+          "start": 106.46842,
+          "end": 106.68842
+        },
+        {
+          "text": "giá.",
+          "start": 106.68842,
+          "end": 106.94842
+        },
+        {
+          "text": "Nhưng",
+          "start": 107.42842,
+          "end": 107.50842
+        },
+        {
+          "text": "cuộc",
+          "start": 107.50842,
+          "end": 107.64842
+        },
+        {
+          "text": "đua",
+          "start": 107.64842,
+          "end": 107.84842
+        },
+        {
+          "text": "quy",
+          "start": 107.84842,
+          "end": 108.00842
+        },
+        {
+          "text": "mô",
+          "start": 108.00842,
+          "end": 108.20842
+        },
+        {
+          "text": "IPO",
+          "start": 108.20842,
+          "end": 108.50842
+        },
+        {
+          "text": "vẫn",
+          "start": 108.50842,
+          "end": 108.76842
+        },
+        {
+          "text": "chưa",
+          "start": 108.76842,
+          "end": 108.98842
+        },
+        {
+          "text": "kết",
+          "start": 108.98842,
+          "end": 109.14842
+        },
+        {
+          "text": "thúc.",
+          "start": 109.14842,
+          "end": 109.28842
+        },
+        {
+          "text": "Bạn",
+          "start": 109.76842,
+          "end": 109.86842
+        },
+        {
+          "text": "nghĩ",
+          "start": 109.86842,
+          "end": 109.98842
+        },
+        {
+          "text": "ANT",
+          "start": 109.98842,
+          "end": 110.50842
+        },
+        {
+          "text": "sẽ",
+          "start": 110.50842,
+          "end": 110.72842
+        },
+        {
+          "text": "tăng",
+          "start": 110.72842,
+          "end": 110.90842
+        },
+        {
+          "text": "mạnh",
+          "start": 110.90842,
+          "end": 111.08842
+        },
+        {
+          "text": "trong",
+          "start": 111.08842,
+          "end": 111.24842
+        },
+        {
+          "text": "ngày",
+          "start": 111.24842,
+          "end": 111.42842
+        },
+        {
+          "text": "giao",
+          "start": 111.42842,
+          "end": 111.60842
+        },
+        {
+          "text": "dịch",
+          "start": 111.60842,
+          "end": 111.76842
+        },
+        {
+          "text": "đầu",
+          "start": 111.76842,
+          "end": 111.94842
+        },
+        {
+          "text": "tiên,",
+          "start": 111.94842,
+          "end": 112.22842
+        },
+        {
+          "text": "hay",
+          "start": 112.22842,
+          "end": 112.58842
+        },
+        {
+          "text": "sẽ",
+          "start": 112.58842,
+          "end": 112.76842
+        },
+        {
+          "text": "có",
+          "start": 112.76842,
+          "end": 112.92842
+        },
+        {
+          "text": "một",
+          "start": 112.92842,
+          "end": 113.06842
+        },
+        {
+          "text": "cú",
+          "start": 113.06842,
+          "end": 113.30842
+        },
+        {
+          "text": "xả",
+          "start": 113.30842,
+          "end": 113.44842
+        },
+        {
+          "text": "hàng",
+          "start": 113.44842,
+          "end": 113.66842
+        },
+        {
+          "text": "sau",
+          "start": 113.66842,
+          "end": 113.82842
+        },
+        {
+          "text": "IPO?",
+          "start": 113.82842,
+          "end": 114.20842
+        },
+        {
+          "text": "Hãy",
+          "start": 114.86842,
+          "end": 115.00842
+        },
+        {
+          "text": "để",
+          "start": 115.00842,
+          "end": 115.12842
+        },
+        {
+          "text": "lại",
+          "start": 115.12842,
+          "end": 115.30842
+        },
+        {
+          "text": "dự",
+          "start": 115.30842,
+          "end": 115.46842
+        },
+        {
+          "text": "đoán",
+          "start": 115.46842,
+          "end": 115.66842
+        },
+        {
+          "text": "của",
+          "start": 115.66842,
+          "end": 115.80842
+        },
+        {
+          "text": "bạn",
+          "start": 115.80842,
+          "end": 116.00842
+        },
+        {
+          "text": "ở",
+          "start": 116.00842,
+          "end": 116.14842
+        },
+        {
+          "text": "phần",
+          "start": 116.14842,
+          "end": 116.32842
+        },
+        {
+          "text": "bình",
+          "start": 116.32842,
+          "end": 116.48842
+        },
+        {
+          "text": "luận!",
+          "start": 116.48842,
+          "end": 116.64842
+        }
+      ]
+    }
+  ]
+}

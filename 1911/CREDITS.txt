@@ -1,0 +1,6 @@
+1911 · Anthropic IPO
+Narration: Ngọc Huyền · female_north · VieNeu-TTS v3 Turbo, SDK 3.8.4
+Model: pnnbao-ump/VieNeu-TTS-v3-Turbo · Apache-2.0 metadata
+Visuals: original SVG/React financial graphics and typographic company names.
+Music/SFX: original procedural synthesis, no third-party recordings or samples.
+Typeface: Be Vietnam Pro · SIL Open Font License.
