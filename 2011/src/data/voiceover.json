@@ -1,0 +1,4223 @@
+{
+  "audioSrc": "audio/2011/2011.mp3",
+  "durationSeconds": 194.53495833333332,
+  "sourceSha256": "09005e9b8a17ed7dc777313f78d151f3bbacc1df43c79187808128657f7e9a03",
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Như vậy là ba ông lớn đại diện cho ba cường quốc mạnh nhất ở trên thế giới này là Tổng thống Mỹ Donald Trump, Chủ tịch Trung Quốc Tập Cận Bình, Tổng thống Nga Vladimir Putin đã chính thức gặp nhau tại Thâm Quyến của Trung Quốc để tham dự Hội nghị thượng đỉnh APEC năm 2026. Vậy cùng nhau xem là họ đã bàn bạc và phát biểu những gì nhé. Trông thì tưởng là tay bắt mặt mừng, nhưng mà khi mà phát biểu thì tôi thấy rằng là cũng không được mừng cho lắm.",
+      "words": [
+        {
+          "text": "Như",
+          "start": 0.0,
+          "end": 0.34
+        },
+        {
+          "text": "vậy",
+          "start": 0.34,
+          "end": 0.54
+        },
+        {
+          "text": "là",
+          "start": 0.54,
+          "end": 0.78
+        },
+        {
+          "text": "ba",
+          "start": 0.78,
+          "end": 0.9
+        },
+        {
+          "text": "ông",
+          "start": 0.9,
+          "end": 1.1
+        },
+        {
+          "text": "lớn",
+          "start": 1.1,
+          "end": 1.48
+        },
+        {
+          "text": "đại",
+          "start": 1.48,
+          "end": 1.76
+        },
+        {
+          "text": "diện",
+          "start": 1.76,
+          "end": 1.96
+        },
+        {
+          "text": "cho",
+          "start": 1.96,
+          "end": 2.22
+        },
+        {
+          "text": "ba",
+          "start": 2.22,
+          "end": 2.54
+        },
+        {
+          "text": "cường",
+          "start": 2.54,
+          "end": 2.82
+        },
+        {
+          "text": "quốc",
+          "start": 2.82,
+          "end": 3.18
+        },
+        {
+          "text": "mạnh",
+          "start": 3.18,
+          "end": 3.44
+        },
+        {
+          "text": "nhất",
+          "start": 3.44,
+          "end": 3.7
+        },
+        {
+          "text": "ở",
+          "start": 3.7,
+          "end": 3.94
+        },
+        {
+          "text": "trên",
+          "start": 3.94,
+          "end": 4.08
+        },
+        {
+          "text": "thế",
+          "start": 4.08,
+          "end": 4.26
+        },
+        {
+          "text": "giới",
+          "start": 4.26,
+          "end": 4.36
+        },
+        {
+          "text": "này",
+          "start": 4.36,
+          "end": 4.58
+        },
+        {
+          "text": "là",
+          "start": 4.58,
+          "end": 5.14
+        },
+        {
+          "text": "Tổng",
+          "start": 5.14,
+          "end": 5.46
+        },
+        {
+          "text": "thống",
+          "start": 5.46,
+          "end": 5.54
+        },
+        {
+          "text": "Mỹ",
+          "start": 5.54,
+          "end": 5.84
+        },
+        {
+          "text": "Donald",
+          "start": 5.84,
+          "end": 6.22
+        },
+        {
+          "text": "Trump,",
+          "start": 6.22,
+          "end": 6.62
+        },
+        {
+          "text": "Chủ",
+          "start": 6.82,
+          "end": 7.04
+        },
+        {
+          "text": "tịch",
+          "start": 7.04,
+          "end": 7.22
+        },
+        {
+          "text": "Trung",
+          "start": 7.22,
+          "end": 7.54
+        },
+        {
+          "text": "Quốc",
+          "start": 7.54,
+          "end": 7.72
+        },
+        {
+          "text": "Tập",
+          "start": 7.72,
+          "end": 8.0
+        },
+        {
+          "text": "Cận",
+          "start": 8.0,
+          "end": 8.24
+        },
+        {
+          "text": "Bình,",
+          "start": 8.24,
+          "end": 8.56
+        },
+        {
+          "text": "Tổng",
+          "start": 8.72,
+          "end": 8.98
+        },
+        {
+          "text": "thống",
+          "start": 8.98,
+          "end": 9.1
+        },
+        {
+          "text": "Nga",
+          "start": 9.1,
+          "end": 9.44
+        },
+        {
+          "text": "Vladimir",
+          "start": 9.44,
+          "end": 9.94
+        },
+        {
+          "text": "Putin",
+          "start": 9.94,
+          "end": 10.32
+        },
+        {
+          "text": "đã",
+          "start": 10.32,
+          "end": 10.68
+        },
+        {
+          "text": "chính",
+          "start": 10.68,
+          "end": 10.96
+        },
+        {
+          "text": "thức",
+          "start": 10.96,
+          "end": 11.16
+        },
+        {
+          "text": "gặp",
+          "start": 11.16,
+          "end": 11.46
+        },
+        {
+          "text": "nhau",
+          "start": 11.46,
+          "end": 11.9
+        },
+        {
+          "text": "tại",
+          "start": 11.9,
+          "end": 12.22
+        },
+        {
+          "text": "Thâm",
+          "start": 12.22,
+          "end": 12.52
+        },
+        {
+          "text": "Quyến",
+          "start": 12.52,
+          "end": 12.82
+        },
+        {
+          "text": "của",
+          "start": 12.82,
+          "end": 13.0
+        },
+        {
+          "text": "Trung",
+          "start": 13.0,
+          "end": 13.2
+        },
+        {
+          "text": "Quốc",
+          "start": 13.2,
+          "end": 13.48
+        },
+        {
+          "text": "để",
+          "start": 13.48,
+          "end": 13.8
+        },
+        {
+          "text": "tham",
+          "start": 13.8,
+          "end": 14.06
+        },
+        {
+          "text": "dự",
+          "start": 14.06,
+          "end": 14.24
+        },
+        {
+          "text": "Hội",
+          "start": 14.24,
+          "end": 14.54
+        },
+        {
+          "text": "nghị",
+          "start": 14.54,
+          "end": 14.74
+        },
+        {
+          "text": "thượng",
+          "start": 14.74,
+          "end": 15.02
+        },
+        {
+          "text": "đỉnh",
+          "start": 15.02,
+          "end": 15.2
+        },
+        {
+          "text": "APEC",
+          "start": 15.2,
+          "end": 15.66
+        },
+        {
+          "text": "năm",
+          "start": 15.66,
+          "end": 15.86
+        },
+        {
+          "text": "2026.",
+          "start": 15.86,
+          "end": 16.34
+        },
+        {
+          "text": "Vậy",
+          "start": 16.68,
+          "end": 16.88
+        },
+        {
+          "text": "cùng",
+          "start": 16.88,
+          "end": 17.14
+        },
+        {
+          "text": "nhau",
+          "start": 17.14,
+          "end": 17.4
+        },
+        {
+          "text": "xem",
+          "start": 17.4,
+          "end": 17.66
+        },
+        {
+          "text": "là",
+          "start": 17.66,
+          "end": 17.94
+        },
+        {
+          "text": "họ",
+          "start": 17.94,
+          "end": 18.24
+        },
+        {
+          "text": "đã",
+          "start": 18.24,
+          "end": 18.52
+        },
+        {
+          "text": "bàn",
+          "start": 18.52,
+          "end": 18.8
+        },
+        {
+          "text": "bạc",
+          "start": 18.8,
+          "end": 19.0
+        },
+        {
+          "text": "và",
+          "start": 19.0,
+          "end": 19.14
+        },
+        {
+          "text": "phát",
+          "start": 19.14,
+          "end": 19.38
+        },
+        {
+          "text": "biểu",
+          "start": 19.38,
+          "end": 19.58
+        },
+        {
+          "text": "những",
+          "start": 19.58,
+          "end": 19.94
+        },
+        {
+          "text": "gì",
+          "start": 19.94,
+          "end": 20.14
+        },
+        {
+          "text": "nhé.",
+          "start": 20.14,
+          "end": 20.36
+        },
+        {
+          "text": "Trông",
+          "start": 20.56,
+          "end": 20.78
+        },
+        {
+          "text": "thì",
+          "start": 20.78,
+          "end": 21.04
+        },
+        {
+          "text": "tưởng",
+          "start": 21.04,
+          "end": 21.28
+        },
+        {
+          "text": "là",
+          "start": 21.28,
+          "end": 21.58
+        },
+        {
+          "text": "tay",
+          "start": 21.58,
+          "end": 21.76
+        },
+        {
+          "text": "bắt",
+          "start": 21.76,
+          "end": 21.94
+        },
+        {
+          "text": "mặt",
+          "start": 21.94,
+          "end": 22.14
+        },
+        {
+          "text": "mừng,",
+          "start": 22.14,
+          "end": 22.44
+        },
+        {
+          "text": "nhưng",
+          "start": 22.44,
+          "end": 22.68
+        },
+        {
+          "text": "mà",
+          "start": 22.68,
+          "end": 22.92
+        },
+        {
+          "text": "khi",
+          "start": 22.92,
+          "end": 23.08
+        },
+        {
+          "text": "mà",
+          "start": 23.08,
+          "end": 23.18
+        },
+        {
+          "text": "phát",
+          "start": 23.18,
+          "end": 23.36
+        },
+        {
+          "text": "biểu",
+          "start": 23.36,
+          "end": 23.82
+        },
+        {
+          "text": "thì",
+          "start": 23.82,
+          "end": 24.06
+        },
+        {
+          "text": "tôi",
+          "start": 24.06,
+          "end": 24.14
+        },
+        {
+          "text": "thấy",
+          "start": 24.14,
+          "end": 24.34
+        },
+        {
+          "text": "rằng",
+          "start": 24.34,
+          "end": 24.54
+        },
+        {
+          "text": "là",
+          "start": 24.54,
+          "end": 24.74
+        },
+        {
+          "text": "cũng",
+          "start": 24.74,
+          "end": 24.88
+        },
+        {
+          "text": "không",
+          "start": 24.88,
+          "end": 25.06
+        },
+        {
+          "text": "được",
+          "start": 25.06,
+          "end": 25.2
+        },
+        {
+          "text": "mừng",
+          "start": 25.2,
+          "end": 25.42
+        },
+        {
+          "text": "cho",
+          "start": 25.42,
+          "end": 25.6
+        },
+        {
+          "text": "lắm.",
+          "start": 25.6,
+          "end": 25.96
+        }
+      ]
+    },
+    {
+      "id": "arrival",
+      "text": "Đầu tiên phải nói tới là, đích thân ông Tập Cận Bình đã ra trực tiếp chân cầu thang của máy bay để đón tiếp Tổng thống Mỹ Donald Trump. Kèm theo là cũng có múa hát các kiểu và một dàn máy bay để rải màu đón tiếp Tổng thống Hoa Kỳ.",
+      "words": [
+        {
+          "text": "Đầu",
+          "start": 25.96,
+          "end": 26.24
+        },
+        {
+          "text": "tiên",
+          "start": 26.24,
+          "end": 26.46
+        },
+        {
+          "text": "phải",
+          "start": 26.46,
+          "end": 26.6
+        },
+        {
+          "text": "nói",
+          "start": 26.6,
+          "end": 26.86
+        },
+        {
+          "text": "tới",
+          "start": 26.86,
+          "end": 27.26
+        },
+        {
+          "text": "là,",
+          "start": 27.26,
+          "end": 27.72
+        },
+        {
+          "text": "đích",
+          "start": 27.72,
+          "end": 28.02
+        },
+        {
+          "text": "thân",
+          "start": 28.02,
+          "end": 28.26
+        },
+        {
+          "text": "ông",
+          "start": 28.26,
+          "end": 28.54
+        },
+        {
+          "text": "Tập",
+          "start": 28.54,
+          "end": 28.74
+        },
+        {
+          "text": "Cận",
+          "start": 28.74,
+          "end": 28.94
+        },
+        {
+          "text": "Bình",
+          "start": 28.94,
+          "end": 29.16
+        },
+        {
+          "text": "đã",
+          "start": 29.16,
+          "end": 29.58
+        },
+        {
+          "text": "ra",
+          "start": 29.58,
+          "end": 29.92
+        },
+        {
+          "text": "trực",
+          "start": 29.92,
+          "end": 30.2
+        },
+        {
+          "text": "tiếp",
+          "start": 30.2,
+          "end": 30.46
+        },
+        {
+          "text": "chân",
+          "start": 30.46,
+          "end": 30.88
+        },
+        {
+          "text": "cầu",
+          "start": 30.88,
+          "end": 31.12
+        },
+        {
+          "text": "thang",
+          "start": 31.12,
+          "end": 31.38
+        },
+        {
+          "text": "của",
+          "start": 31.38,
+          "end": 31.56
+        },
+        {
+          "text": "máy",
+          "start": 31.56,
+          "end": 31.76
+        },
+        {
+          "text": "bay",
+          "start": 31.76,
+          "end": 32.1
+        },
+        {
+          "text": "để",
+          "start": 32.1,
+          "end": 32.52
+        },
+        {
+          "text": "đón",
+          "start": 32.52,
+          "end": 32.74
+        },
+        {
+          "text": "tiếp",
+          "start": 32.74,
+          "end": 33.06
+        },
+        {
+          "text": "Tổng",
+          "start": 33.06,
+          "end": 33.34
+        },
+        {
+          "text": "thống",
+          "start": 33.34,
+          "end": 33.46
+        },
+        {
+          "text": "Mỹ",
+          "start": 33.46,
+          "end": 33.72
+        },
+        {
+          "text": "Donald",
+          "start": 33.72,
+          "end": 34.06
+        },
+        {
+          "text": "Trump.",
+          "start": 34.06,
+          "end": 34.52
+        },
+        {
+          "text": "Kèm",
+          "start": 34.6,
+          "end": 34.86
+        },
+        {
+          "text": "theo",
+          "start": 34.86,
+          "end": 35.06
+        },
+        {
+          "text": "là",
+          "start": 35.06,
+          "end": 35.22
+        },
+        {
+          "text": "cũng",
+          "start": 35.22,
+          "end": 35.36
+        },
+        {
+          "text": "có",
+          "start": 35.36,
+          "end": 35.54
+        },
+        {
+          "text": "múa",
+          "start": 35.54,
+          "end": 35.74
+        },
+        {
+          "text": "hát",
+          "start": 35.74,
+          "end": 36.04
+        },
+        {
+          "text": "các",
+          "start": 36.04,
+          "end": 36.28
+        },
+        {
+          "text": "kiểu",
+          "start": 36.28,
+          "end": 36.52
+        },
+        {
+          "text": "và",
+          "start": 36.52,
+          "end": 36.66
+        },
+        {
+          "text": "một",
+          "start": 36.66,
+          "end": 37.02
+        },
+        {
+          "text": "dàn",
+          "start": 37.02,
+          "end": 37.16
+        },
+        {
+          "text": "máy",
+          "start": 37.16,
+          "end": 37.46
+        },
+        {
+          "text": "bay",
+          "start": 37.46,
+          "end": 37.76
+        },
+        {
+          "text": "để",
+          "start": 37.76,
+          "end": 38.16
+        },
+        {
+          "text": "rải",
+          "start": 38.16,
+          "end": 38.38
+        },
+        {
+          "text": "màu",
+          "start": 38.38,
+          "end": 38.74
+        },
+        {
+          "text": "đón",
+          "start": 38.74,
+          "end": 38.94
+        },
+        {
+          "text": "tiếp",
+          "start": 38.94,
+          "end": 39.2
+        },
+        {
+          "text": "Tổng",
+          "start": 39.2,
+          "end": 39.5
+        },
+        {
+          "text": "thống",
+          "start": 39.5,
+          "end": 39.58
+        },
+        {
+          "text": "Hoa",
+          "start": 39.58,
+          "end": 39.86
+        },
+        {
+          "text": "Kỳ.",
+          "start": 39.86,
+          "end": 40.16
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "text": "Đây là lần đầu tiên trong vòng 70 năm nhà lãnh đạo cấp cao nhất của Trung Quốc đích thân ra tận sân bay để đón tiếp một nguyên thủ quốc gia của nước ngoài. Lần cuối cùng là vào năm 1959 khi mà Mao Trạch Đông trực tiếp đón Nikita Khrushchev của Liên Xô. Và tất nhiên là các nguyên thủ quốc gia khác cũng được đón một cách rất là nồng nhiệt.",
+      "words": [
+        {
+          "text": "Đây",
+          "start": 40.38,
+          "end": 40.54
+        },
+        {
+          "text": "là",
+          "start": 40.54,
+          "end": 40.72
+        },
+        {
+          "text": "lần",
+          "start": 40.72,
+          "end": 40.86
+        },
+        {
+          "text": "đầu",
+          "start": 40.86,
+          "end": 41.26
+        },
+        {
+          "text": "tiên",
+          "start": 41.26,
+          "end": 41.5
+        },
+        {
+          "text": "trong",
+          "start": 41.5,
+          "end": 41.74
+        },
+        {
+          "text": "vòng",
+          "start": 41.74,
+          "end": 41.9
+        },
+        {
+          "text": "70",
+          "start": 41.9,
+          "end": 42.26
+        },
+        {
+          "text": "năm",
+          "start": 42.26,
+          "end": 42.54
+        },
+        {
+          "text": "nhà",
+          "start": 42.54,
+          "end": 42.84
+        },
+        {
+          "text": "lãnh",
+          "start": 42.84,
+          "end": 43.04
+        },
+        {
+          "text": "đạo",
+          "start": 43.04,
+          "end": 43.26
+        },
+        {
+          "text": "cấp",
+          "start": 43.26,
+          "end": 43.5
+        },
+        {
+          "text": "cao",
+          "start": 43.5,
+          "end": 43.84
+        },
+        {
+          "text": "nhất",
+          "start": 43.84,
+          "end": 44.0
+        },
+        {
+          "text": "của",
+          "start": 44.0,
+          "end": 44.18
+        },
+        {
+          "text": "Trung",
+          "start": 44.18,
+          "end": 44.38
+        },
+        {
+          "text": "Quốc",
+          "start": 44.38,
+          "end": 44.54
+        },
+        {
+          "text": "đích",
+          "start": 44.92,
+          "end": 45.2
+        },
+        {
+          "text": "thân",
+          "start": 45.2,
+          "end": 45.44
+        },
+        {
+          "text": "ra",
+          "start": 45.44,
+          "end": 45.74
+        },
+        {
+          "text": "tận",
+          "start": 45.74,
+          "end": 46.0
+        },
+        {
+          "text": "sân",
+          "start": 46.0,
+          "end": 46.2
+        },
+        {
+          "text": "bay",
+          "start": 46.2,
+          "end": 46.62
+        },
+        {
+          "text": "để",
+          "start": 46.62,
+          "end": 46.88
+        },
+        {
+          "text": "đón",
+          "start": 46.88,
+          "end": 47.08
+        },
+        {
+          "text": "tiếp",
+          "start": 47.08,
+          "end": 47.28
+        },
+        {
+          "text": "một",
+          "start": 47.28,
+          "end": 47.52
+        },
+        {
+          "text": "nguyên",
+          "start": 47.52,
+          "end": 47.74
+        },
+        {
+          "text": "thủ",
+          "start": 47.74,
+          "end": 47.84
+        },
+        {
+          "text": "quốc",
+          "start": 47.84,
+          "end": 48.1
+        },
+        {
+          "text": "gia",
+          "start": 48.1,
+          "end": 48.32
+        },
+        {
+          "text": "của",
+          "start": 48.32,
+          "end": 48.52
+        },
+        {
+          "text": "nước",
+          "start": 48.52,
+          "end": 48.7
+        },
+        {
+          "text": "ngoài.",
+          "start": 48.7,
+          "end": 49.14
+        },
+        {
+          "text": "Lần",
+          "start": 49.32,
+          "end": 49.48
+        },
+        {
+          "text": "cuối",
+          "start": 49.48,
+          "end": 49.7
+        },
+        {
+          "text": "cùng",
+          "start": 49.7,
+          "end": 49.9
+        },
+        {
+          "text": "là",
+          "start": 49.9,
+          "end": 50.1
+        },
+        {
+          "text": "vào",
+          "start": 50.1,
+          "end": 50.24
+        },
+        {
+          "text": "năm",
+          "start": 50.24,
+          "end": 50.46
+        },
+        {
+          "text": "1959",
+          "start": 50.46,
+          "end": 51.4
+        },
+        {
+          "text": "khi",
+          "start": 51.4,
+          "end": 51.76
+        },
+        {
+          "text": "mà",
+          "start": 51.76,
+          "end": 51.94
+        },
+        {
+          "text": "Mao",
+          "start": 51.94,
+          "end": 52.06
+        },
+        {
+          "text": "Trạch",
+          "start": 52.06,
+          "end": 52.3
+        },
+        {
+          "text": "Đông",
+          "start": 52.3,
+          "end": 52.48
+        },
+        {
+          "text": "trực",
+          "start": 52.48,
+          "end": 52.76
+        },
+        {
+          "text": "tiếp",
+          "start": 52.76,
+          "end": 53.04
+        },
+        {
+          "text": "đón",
+          "start": 53.04,
+          "end": 53.34
+        },
+        {
+          "text": "Nikita",
+          "start": 53.34,
+          "end": 53.98
+        },
+        {
+          "text": "Khrushchev",
+          "start": 53.98,
+          "end": 54.52
+        },
+        {
+          "text": "của",
+          "start": 54.52,
+          "end": 54.76
+        },
+        {
+          "text": "Liên",
+          "start": 54.76,
+          "end": 55.06
+        },
+        {
+          "text": "Xô.",
+          "start": 55.06,
+          "end": 55.44
+        },
+        {
+          "text": "Và",
+          "start": 55.44,
+          "end": 55.68
+        },
+        {
+          "text": "tất",
+          "start": 55.68,
+          "end": 55.96
+        },
+        {
+          "text": "nhiên",
+          "start": 55.96,
+          "end": 56.16
+        },
+        {
+          "text": "là",
+          "start": 56.16,
+          "end": 56.34
+        },
+        {
+          "text": "các",
+          "start": 56.34,
+          "end": 56.44
+        },
+        {
+          "text": "nguyên",
+          "start": 56.44,
+          "end": 56.64
+        },
+        {
+          "text": "thủ",
+          "start": 56.64,
+          "end": 56.72
+        },
+        {
+          "text": "quốc",
+          "start": 56.72,
+          "end": 56.88
+        },
+        {
+          "text": "gia",
+          "start": 56.88,
+          "end": 57.06
+        },
+        {
+          "text": "khác",
+          "start": 57.06,
+          "end": 57.3
+        },
+        {
+          "text": "cũng",
+          "start": 57.3,
+          "end": 57.54
+        },
+        {
+          "text": "được",
+          "start": 57.54,
+          "end": 57.78
+        },
+        {
+          "text": "đón",
+          "start": 57.78,
+          "end": 57.92
+        },
+        {
+          "text": "một",
+          "start": 57.92,
+          "end": 58.12
+        },
+        {
+          "text": "cách",
+          "start": 58.12,
+          "end": 58.26
+        },
+        {
+          "text": "rất",
+          "start": 58.26,
+          "end": 58.62
+        },
+        {
+          "text": "là",
+          "start": 58.62,
+          "end": 58.74
+        },
+        {
+          "text": "nồng",
+          "start": 58.74,
+          "end": 58.88
+        },
+        {
+          "text": "nhiệt.",
+          "start": 58.88,
+          "end": 59.22
+        }
+      ]
+    },
+    {
+      "id": "protocol",
+      "text": "Tổng Bí thư Tô Lâm của Việt Nam mình cũng có múa ca nhạc, cũng tung trời lên. Tổng thống của Hàn Quốc cũng y chang như vậy, cũng múa hát các kiểu. Thế mà đến bà Thủ tướng Takaichi của Nhật Bản thì lại đách có. Kể cũng khổ bởi vì ông Nhật bây giờ đang gần như là tuyên bố đối đầu trực tiếp với cả Trung Quốc mà. Đấy, cái yếu tố ngoại giao nó cũng rất là đặc biệt ở cái điểm đó.",
+      "words": [
+        {
+          "text": "Tổng",
+          "start": 59.36,
+          "end": 59.5
+        },
+        {
+          "text": "Bí",
+          "start": 59.5,
+          "end": 59.7
+        },
+        {
+          "text": "thư",
+          "start": 59.7,
+          "end": 59.8
+        },
+        {
+          "text": "Tô",
+          "start": 59.8,
+          "end": 60.02
+        },
+        {
+          "text": "Lâm",
+          "start": 60.02,
+          "end": 60.08
+        },
+        {
+          "text": "của",
+          "start": 60.08,
+          "end": 60.22
+        },
+        {
+          "text": "Việt",
+          "start": 60.22,
+          "end": 60.44
+        },
+        {
+          "text": "Nam",
+          "start": 60.44,
+          "end": 60.54
+        },
+        {
+          "text": "mình",
+          "start": 60.54,
+          "end": 60.84
+        },
+        {
+          "text": "cũng",
+          "start": 60.84,
+          "end": 61.04
+        },
+        {
+          "text": "có",
+          "start": 61.04,
+          "end": 61.28
+        },
+        {
+          "text": "múa",
+          "start": 61.28,
+          "end": 61.52
+        },
+        {
+          "text": "ca",
+          "start": 61.52,
+          "end": 61.82
+        },
+        {
+          "text": "nhạc,",
+          "start": 61.82,
+          "end": 62.14
+        },
+        {
+          "text": "cũng",
+          "start": 62.38,
+          "end": 62.392
+        },
+        {
+          "text": "tung",
+          "start": 62.392,
+          "end": 62.64
+        },
+        {
+          "text": "trời",
+          "start": 62.64,
+          "end": 62.88
+        },
+        {
+          "text": "lên.",
+          "start": 62.88,
+          "end": 63.14
+        },
+        {
+          "text": "Tổng",
+          "start": 63.54,
+          "end": 63.78
+        },
+        {
+          "text": "thống",
+          "start": 63.78,
+          "end": 63.9
+        },
+        {
+          "text": "của",
+          "start": 63.9,
+          "end": 64.08
+        },
+        {
+          "text": "Hàn",
+          "start": 64.08,
+          "end": 64.34
+        },
+        {
+          "text": "Quốc",
+          "start": 64.34,
+          "end": 64.62
+        },
+        {
+          "text": "cũng",
+          "start": 64.62,
+          "end": 64.94
+        },
+        {
+          "text": "y",
+          "start": 64.94,
+          "end": 65.28
+        },
+        {
+          "text": "chang",
+          "start": 65.28,
+          "end": 65.42
+        },
+        {
+          "text": "như",
+          "start": 65.42,
+          "end": 65.62
+        },
+        {
+          "text": "vậy,",
+          "start": 65.62,
+          "end": 65.76
+        },
+        {
+          "text": "cũng",
+          "start": 65.78,
+          "end": 65.98
+        },
+        {
+          "text": "múa",
+          "start": 65.98,
+          "end": 66.26
+        },
+        {
+          "text": "hát",
+          "start": 66.26,
+          "end": 66.4
+        },
+        {
+          "text": "các",
+          "start": 66.4,
+          "end": 66.64
+        },
+        {
+          "text": "kiểu.",
+          "start": 66.64,
+          "end": 67.0
+        },
+        {
+          "text": "Thế",
+          "start": 67.16,
+          "end": 67.38
+        },
+        {
+          "text": "mà",
+          "start": 67.38,
+          "end": 67.52
+        },
+        {
+          "text": "đến",
+          "start": 67.52,
+          "end": 67.7
+        },
+        {
+          "text": "bà",
+          "start": 67.7,
+          "end": 67.88
+        },
+        {
+          "text": "Thủ",
+          "start": 67.88,
+          "end": 68.1
+        },
+        {
+          "text": "tướng",
+          "start": 68.1,
+          "end": 68.32
+        },
+        {
+          "text": "Takaichi",
+          "start": 68.32,
+          "end": 68.74
+        },
+        {
+          "text": "của",
+          "start": 68.74,
+          "end": 68.9
+        },
+        {
+          "text": "Nhật",
+          "start": 68.9,
+          "end": 69.1
+        },
+        {
+          "text": "Bản",
+          "start": 69.1,
+          "end": 69.62
+        },
+        {
+          "text": "thì",
+          "start": 69.62,
+          "end": 69.84
+        },
+        {
+          "text": "lại",
+          "start": 69.84,
+          "end": 69.96
+        },
+        {
+          "text": "đách",
+          "start": 69.96,
+          "end": 70.12
+        },
+        {
+          "text": "có.",
+          "start": 70.12,
+          "end": 70.46
+        },
+        {
+          "text": "Kể",
+          "start": 70.64,
+          "end": 70.78
+        },
+        {
+          "text": "cũng",
+          "start": 70.78,
+          "end": 70.98
+        },
+        {
+          "text": "khổ",
+          "start": 70.98,
+          "end": 71.36
+        },
+        {
+          "text": "bởi",
+          "start": 71.36,
+          "end": 71.48
+        },
+        {
+          "text": "vì",
+          "start": 71.48,
+          "end": 71.58
+        },
+        {
+          "text": "ông",
+          "start": 71.58,
+          "end": 71.78
+        },
+        {
+          "text": "Nhật",
+          "start": 71.78,
+          "end": 72.0
+        },
+        {
+          "text": "bây",
+          "start": 72.0,
+          "end": 72.2
+        },
+        {
+          "text": "giờ",
+          "start": 72.2,
+          "end": 72.28
+        },
+        {
+          "text": "đang",
+          "start": 72.28,
+          "end": 72.5
+        },
+        {
+          "text": "gần",
+          "start": 72.5,
+          "end": 72.62
+        },
+        {
+          "text": "như",
+          "start": 72.62,
+          "end": 72.82
+        },
+        {
+          "text": "là",
+          "start": 72.82,
+          "end": 73.0
+        },
+        {
+          "text": "tuyên",
+          "start": 73.0,
+          "end": 73.22
+        },
+        {
+          "text": "bố",
+          "start": 73.22,
+          "end": 73.38
+        },
+        {
+          "text": "đối",
+          "start": 73.38,
+          "end": 73.56
+        },
+        {
+          "text": "đầu",
+          "start": 73.56,
+          "end": 73.74
+        },
+        {
+          "text": "trực",
+          "start": 73.74,
+          "end": 73.98
+        },
+        {
+          "text": "tiếp",
+          "start": 73.98,
+          "end": 74.08
+        },
+        {
+          "text": "với",
+          "start": 74.08,
+          "end": 74.18
+        },
+        {
+          "text": "cả",
+          "start": 74.18,
+          "end": 74.3
+        },
+        {
+          "text": "Trung",
+          "start": 74.3,
+          "end": 74.48
+        },
+        {
+          "text": "Quốc",
+          "start": 74.48,
+          "end": 74.6
+        },
+        {
+          "text": "mà.",
+          "start": 74.6,
+          "end": 74.96
+        },
+        {
+          "text": "Đấy,",
+          "start": 75.34,
+          "end": 75.38
+        },
+        {
+          "text": "cái",
+          "start": 75.44,
+          "end": 75.56
+        },
+        {
+          "text": "yếu",
+          "start": 75.56,
+          "end": 75.72
+        },
+        {
+          "text": "tố",
+          "start": 75.72,
+          "end": 75.88
+        },
+        {
+          "text": "ngoại",
+          "start": 75.88,
+          "end": 76.18
+        },
+        {
+          "text": "giao",
+          "start": 76.18,
+          "end": 76.38
+        },
+        {
+          "text": "nó",
+          "start": 76.38,
+          "end": 76.92
+        },
+        {
+          "text": "cũng",
+          "start": 76.92,
+          "end": 77.08
+        },
+        {
+          "text": "rất",
+          "start": 77.08,
+          "end": 77.32
+        },
+        {
+          "text": "là",
+          "start": 77.32,
+          "end": 77.4
+        },
+        {
+          "text": "đặc",
+          "start": 77.4,
+          "end": 77.56
+        },
+        {
+          "text": "biệt",
+          "start": 77.56,
+          "end": 77.7
+        },
+        {
+          "text": "ở",
+          "start": 77.7,
+          "end": 77.86
+        },
+        {
+          "text": "cái",
+          "start": 77.86,
+          "end": 77.96
+        },
+        {
+          "text": "điểm",
+          "start": 77.96,
+          "end": 78.06
+        },
+        {
+          "text": "đó.",
+          "start": 78.06,
+          "end": 78.34
+        }
+      ]
+    },
+    {
+      "id": "vietnam",
+      "text": "Điểm sáng tiếp theo mà phải nhắc tới là vị thế của Việt Nam chúng ta bây giờ rất là khác rồi. Nhìn cái tấm ảnh chụp toàn thể với dàn lãnh đạo mà tham dự Hội nghị APEC này là chúng ta cũng thấy rõ. Hàn Quốc này, Hoa Kỳ này, Trung Quốc, Nga, rồi tới Việt Nam của chúng ta đấy. Nhìn cái ảnh này thì chắc là cái bọn ba sọc ấy, nó cay lắm.",
+      "words": [
+        {
+          "text": "Điểm",
+          "start": 78.6,
+          "end": 78.94
+        },
+        {
+          "text": "sáng",
+          "start": 78.94,
+          "end": 79.16
+        },
+        {
+          "text": "tiếp",
+          "start": 79.16,
+          "end": 79.44
+        },
+        {
+          "text": "theo",
+          "start": 79.44,
+          "end": 79.64
+        },
+        {
+          "text": "mà",
+          "start": 79.64,
+          "end": 79.78
+        },
+        {
+          "text": "phải",
+          "start": 79.78,
+          "end": 79.88
+        },
+        {
+          "text": "nhắc",
+          "start": 79.88,
+          "end": 80.04
+        },
+        {
+          "text": "tới",
+          "start": 80.04,
+          "end": 80.28
+        },
+        {
+          "text": "là",
+          "start": 80.28,
+          "end": 80.58
+        },
+        {
+          "text": "vị",
+          "start": 80.58,
+          "end": 80.82
+        },
+        {
+          "text": "thế",
+          "start": 80.82,
+          "end": 81.0
+        },
+        {
+          "text": "của",
+          "start": 81.0,
+          "end": 81.2
+        },
+        {
+          "text": "Việt",
+          "start": 81.2,
+          "end": 81.34
+        },
+        {
+          "text": "Nam",
+          "start": 81.34,
+          "end": 81.44
+        },
+        {
+          "text": "chúng",
+          "start": 81.44,
+          "end": 81.62
+        },
+        {
+          "text": "ta",
+          "start": 81.62,
+          "end": 81.96
+        },
+        {
+          "text": "bây",
+          "start": 81.96,
+          "end": 82.26
+        },
+        {
+          "text": "giờ",
+          "start": 82.26,
+          "end": 82.42
+        },
+        {
+          "text": "rất",
+          "start": 82.42,
+          "end": 82.8
+        },
+        {
+          "text": "là",
+          "start": 82.8,
+          "end": 83.0
+        },
+        {
+          "text": "khác",
+          "start": 83.0,
+          "end": 83.16
+        },
+        {
+          "text": "rồi.",
+          "start": 83.16,
+          "end": 83.44
+        },
+        {
+          "text": "Nhìn",
+          "start": 83.44,
+          "end": 83.88
+        },
+        {
+          "text": "cái",
+          "start": 83.88,
+          "end": 84.02
+        },
+        {
+          "text": "tấm",
+          "start": 84.02,
+          "end": 84.16
+        },
+        {
+          "text": "ảnh",
+          "start": 84.16,
+          "end": 84.34
+        },
+        {
+          "text": "chụp",
+          "start": 84.34,
+          "end": 84.52
+        },
+        {
+          "text": "toàn",
+          "start": 84.52,
+          "end": 84.84
+        },
+        {
+          "text": "thể",
+          "start": 84.84,
+          "end": 84.96
+        },
+        {
+          "text": "với",
+          "start": 84.96,
+          "end": 85.14
+        },
+        {
+          "text": "dàn",
+          "start": 85.14,
+          "end": 85.3
+        },
+        {
+          "text": "lãnh",
+          "start": 85.3,
+          "end": 85.5
+        },
+        {
+          "text": "đạo",
+          "start": 85.5,
+          "end": 85.62
+        },
+        {
+          "text": "mà",
+          "start": 85.62,
+          "end": 85.8
+        },
+        {
+          "text": "tham",
+          "start": 85.8,
+          "end": 85.92
+        },
+        {
+          "text": "dự",
+          "start": 85.92,
+          "end": 86.02
+        },
+        {
+          "text": "Hội",
+          "start": 86.02,
+          "end": 86.2
+        },
+        {
+          "text": "nghị",
+          "start": 86.2,
+          "end": 86.32
+        },
+        {
+          "text": "APEC",
+          "start": 86.32,
+          "end": 86.6
+        },
+        {
+          "text": "này",
+          "start": 86.6,
+          "end": 86.9
+        },
+        {
+          "text": "là",
+          "start": 86.9,
+          "end": 87.14
+        },
+        {
+          "text": "chúng",
+          "start": 87.14,
+          "end": 87.36
+        },
+        {
+          "text": "ta",
+          "start": 87.36,
+          "end": 87.46
+        },
+        {
+          "text": "cũng",
+          "start": 87.46,
+          "end": 87.62
+        },
+        {
+          "text": "thấy",
+          "start": 87.62,
+          "end": 87.8
+        },
+        {
+          "text": "rõ.",
+          "start": 87.8,
+          "end": 88.26
+        },
+        {
+          "text": "Hàn",
+          "start": 88.42,
+          "end": 88.66
+        },
+        {
+          "text": "Quốc",
+          "start": 88.66,
+          "end": 88.82
+        },
+        {
+          "text": "này,",
+          "start": 88.82,
+          "end": 89.08
+        },
+        {
+          "text": "Hoa",
+          "start": 89.16,
+          "end": 89.42
+        },
+        {
+          "text": "Kỳ",
+          "start": 89.42,
+          "end": 89.58
+        },
+        {
+          "text": "này,",
+          "start": 89.58,
+          "end": 89.8
+        },
+        {
+          "text": "Trung",
+          "start": 89.92,
+          "end": 90.2
+        },
+        {
+          "text": "Quốc,",
+          "start": 90.2,
+          "end": 90.38
+        },
+        {
+          "text": "Nga,",
+          "start": 90.68,
+          "end": 91.08
+        },
+        {
+          "text": "rồi",
+          "start": 91.34,
+          "end": 91.42
+        },
+        {
+          "text": "tới",
+          "start": 91.42,
+          "end": 91.68
+        },
+        {
+          "text": "Việt",
+          "start": 91.68,
+          "end": 92.06
+        },
+        {
+          "text": "Nam",
+          "start": 92.06,
+          "end": 92.2
+        },
+        {
+          "text": "của",
+          "start": 92.2,
+          "end": 92.42
+        },
+        {
+          "text": "chúng",
+          "start": 92.42,
+          "end": 92.6
+        },
+        {
+          "text": "ta",
+          "start": 92.6,
+          "end": 92.76
+        },
+        {
+          "text": "đấy.",
+          "start": 92.76,
+          "end": 92.98
+        },
+        {
+          "text": "Nhìn",
+          "start": 93.18,
+          "end": 93.38
+        },
+        {
+          "text": "cái",
+          "start": 93.38,
+          "end": 93.5
+        },
+        {
+          "text": "ảnh",
+          "start": 93.5,
+          "end": 93.66
+        },
+        {
+          "text": "này",
+          "start": 93.66,
+          "end": 94.04
+        },
+        {
+          "text": "thì",
+          "start": 94.04,
+          "end": 94.22
+        },
+        {
+          "text": "chắc",
+          "start": 94.22,
+          "end": 94.34
+        },
+        {
+          "text": "là",
+          "start": 94.34,
+          "end": 94.46
+        },
+        {
+          "text": "cái",
+          "start": 94.46,
+          "end": 94.62
+        },
+        {
+          "text": "bọn",
+          "start": 94.62,
+          "end": 94.68
+        },
+        {
+          "text": "ba",
+          "start": 94.68,
+          "end": 94.98
+        },
+        {
+          "text": "sọc",
+          "start": 94.98,
+          "end": 95.12
+        },
+        {
+          "text": "ấy,",
+          "start": 95.12,
+          "end": 95.48
+        },
+        {
+          "text": "nó",
+          "start": 95.58,
+          "end": 95.66
+        },
+        {
+          "text": "cay",
+          "start": 95.66,
+          "end": 95.92
+        },
+        {
+          "text": "lắm.",
+          "start": 95.92,
+          "end": 96.36
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "text": "Quay lại vấn đề của ba ông lớn kia ấy thì nói thật là ông Nga và ông Trung Quốc phát biểu như nhắm thẳng vào ông Mỹ vậy. Trung Quốc thì là chống chủ nghĩa bảo hộ. Chủ nghĩa bảo hộ tức là cái đòn thuế quan của Hoa Kỳ ấy. Và kêu gọi các nước châu Á, Thái Bình Dương cùng nhau hợp tác, thúc đẩy thương mại tự do này, kinh tế số này, AI rồi công nghệ các kiểu.",
+      "words": [
+        {
+          "text": "Quay",
+          "start": 96.44,
+          "end": 96.68
+        },
+        {
+          "text": "lại",
+          "start": 96.68,
+          "end": 96.84
+        },
+        {
+          "text": "vấn",
+          "start": 96.84,
+          "end": 97.1
+        },
+        {
+          "text": "đề",
+          "start": 97.1,
+          "end": 97.2
+        },
+        {
+          "text": "của",
+          "start": 97.2,
+          "end": 97.4
+        },
+        {
+          "text": "ba",
+          "start": 97.4,
+          "end": 97.5
+        },
+        {
+          "text": "ông",
+          "start": 97.5,
+          "end": 97.62
+        },
+        {
+          "text": "lớn",
+          "start": 97.62,
+          "end": 97.86
+        },
+        {
+          "text": "kia",
+          "start": 97.86,
+          "end": 98.0
+        },
+        {
+          "text": "ấy",
+          "start": 98.0,
+          "end": 98.22
+        },
+        {
+          "text": "thì",
+          "start": 98.22,
+          "end": 98.36
+        },
+        {
+          "text": "nói",
+          "start": 98.36,
+          "end": 98.48
+        },
+        {
+          "text": "thật",
+          "start": 98.48,
+          "end": 98.88
+        },
+        {
+          "text": "là",
+          "start": 98.88,
+          "end": 99.18
+        },
+        {
+          "text": "ông",
+          "start": 99.18,
+          "end": 99.34
+        },
+        {
+          "text": "Nga",
+          "start": 99.34,
+          "end": 99.6
+        },
+        {
+          "text": "và",
+          "start": 99.6,
+          "end": 99.68
+        },
+        {
+          "text": "ông",
+          "start": 99.68,
+          "end": 99.82
+        },
+        {
+          "text": "Trung",
+          "start": 99.82,
+          "end": 100.04
+        },
+        {
+          "text": "Quốc",
+          "start": 100.04,
+          "end": 100.14
+        },
+        {
+          "text": "phát",
+          "start": 100.14,
+          "end": 100.4
+        },
+        {
+          "text": "biểu",
+          "start": 100.4,
+          "end": 100.6
+        },
+        {
+          "text": "như",
+          "start": 100.6,
+          "end": 100.86
+        },
+        {
+          "text": "nhắm",
+          "start": 100.86,
+          "end": 101.12
+        },
+        {
+          "text": "thẳng",
+          "start": 101.12,
+          "end": 101.32
+        },
+        {
+          "text": "vào",
+          "start": 101.32,
+          "end": 101.42
+        },
+        {
+          "text": "ông",
+          "start": 101.42,
+          "end": 101.58
+        },
+        {
+          "text": "Mỹ",
+          "start": 101.58,
+          "end": 101.78
+        },
+        {
+          "text": "vậy.",
+          "start": 101.78,
+          "end": 101.98
+        },
+        {
+          "text": "Trung",
+          "start": 102.22,
+          "end": 102.5
+        },
+        {
+          "text": "Quốc",
+          "start": 102.5,
+          "end": 102.68
+        },
+        {
+          "text": "thì",
+          "start": 102.68,
+          "end": 102.86
+        },
+        {
+          "text": "là",
+          "start": 102.86,
+          "end": 102.98
+        },
+        {
+          "text": "chống",
+          "start": 102.98,
+          "end": 103.16
+        },
+        {
+          "text": "chủ",
+          "start": 103.16,
+          "end": 103.34
+        },
+        {
+          "text": "nghĩa",
+          "start": 103.34,
+          "end": 103.48
+        },
+        {
+          "text": "bảo",
+          "start": 103.48,
+          "end": 103.68
+        },
+        {
+          "text": "hộ.",
+          "start": 103.68,
+          "end": 103.98
+        },
+        {
+          "text": "Chủ",
+          "start": 104.1,
+          "end": 104.22
+        },
+        {
+          "text": "nghĩa",
+          "start": 104.22,
+          "end": 104.42
+        },
+        {
+          "text": "bảo",
+          "start": 104.42,
+          "end": 104.58
+        },
+        {
+          "text": "hộ",
+          "start": 104.58,
+          "end": 104.76
+        },
+        {
+          "text": "tức",
+          "start": 104.76,
+          "end": 105.02
+        },
+        {
+          "text": "là",
+          "start": 105.02,
+          "end": 105.24
+        },
+        {
+          "text": "cái",
+          "start": 105.24,
+          "end": 105.46
+        },
+        {
+          "text": "đòn",
+          "start": 105.46,
+          "end": 105.62
+        },
+        {
+          "text": "thuế",
+          "start": 105.62,
+          "end": 105.9
+        },
+        {
+          "text": "quan",
+          "start": 105.9,
+          "end": 106.08
+        },
+        {
+          "text": "của",
+          "start": 106.08,
+          "end": 106.3
+        },
+        {
+          "text": "Hoa",
+          "start": 106.3,
+          "end": 106.46
+        },
+        {
+          "text": "Kỳ",
+          "start": 106.46,
+          "end": 106.62
+        },
+        {
+          "text": "ấy.",
+          "start": 106.62,
+          "end": 107.1
+        },
+        {
+          "text": "Và",
+          "start": 107.12,
+          "end": 107.32
+        },
+        {
+          "text": "kêu",
+          "start": 107.32,
+          "end": 107.64
+        },
+        {
+          "text": "gọi",
+          "start": 107.64,
+          "end": 107.78
+        },
+        {
+          "text": "các",
+          "start": 107.78,
+          "end": 108.0
+        },
+        {
+          "text": "nước",
+          "start": 108.0,
+          "end": 108.24
+        },
+        {
+          "text": "châu",
+          "start": 108.24,
+          "end": 108.56
+        },
+        {
+          "text": "Á,",
+          "start": 108.56,
+          "end": 108.76
+        },
+        {
+          "text": "Thái",
+          "start": 108.84,
+          "end": 109.0
+        },
+        {
+          "text": "Bình",
+          "start": 109.0,
+          "end": 109.18
+        },
+        {
+          "text": "Dương",
+          "start": 109.18,
+          "end": 109.36
+        },
+        {
+          "text": "cùng",
+          "start": 109.36,
+          "end": 109.64
+        },
+        {
+          "text": "nhau",
+          "start": 109.64,
+          "end": 109.84
+        },
+        {
+          "text": "hợp",
+          "start": 109.84,
+          "end": 110.12
+        },
+        {
+          "text": "tác,",
+          "start": 110.12,
+          "end": 110.44
+        },
+        {
+          "text": "thúc",
+          "start": 110.44,
+          "end": 110.84
+        },
+        {
+          "text": "đẩy",
+          "start": 110.84,
+          "end": 111.0
+        },
+        {
+          "text": "thương",
+          "start": 111.0,
+          "end": 111.24
+        },
+        {
+          "text": "mại",
+          "start": 111.24,
+          "end": 111.36
+        },
+        {
+          "text": "tự",
+          "start": 111.36,
+          "end": 111.64
+        },
+        {
+          "text": "do",
+          "start": 111.64,
+          "end": 111.76
+        },
+        {
+          "text": "này,",
+          "start": 111.76,
+          "end": 111.92
+        },
+        {
+          "text": "kinh",
+          "start": 111.98,
+          "end": 112.18
+        },
+        {
+          "text": "tế",
+          "start": 112.18,
+          "end": 112.36
+        },
+        {
+          "text": "số",
+          "start": 112.36,
+          "end": 112.54
+        },
+        {
+          "text": "này,",
+          "start": 112.54,
+          "end": 112.72
+        },
+        {
+          "text": "AI",
+          "start": 112.74,
+          "end": 113.12
+        },
+        {
+          "text": "rồi",
+          "start": 113.12,
+          "end": 113.3
+        },
+        {
+          "text": "công",
+          "start": 113.3,
+          "end": 113.52
+        },
+        {
+          "text": "nghệ",
+          "start": 113.52,
+          "end": 113.66
+        },
+        {
+          "text": "các",
+          "start": 113.78,
+          "end": 113.84
+        },
+        {
+          "text": "kiểu.",
+          "start": 113.84,
+          "end": 114.24
+        }
+      ]
+    },
+    {
+      "id": "russia",
+      "text": "Ông Vladimir Putin thì tuyên bố là các đòn trừng phạt này, thuế quan và hạn chế xuất khẩu thương mại của phương Tây đã mất phần lớn những tác dụng răn đe. Và ông nhấn mạnh tầm quan trọng của châu Á, Thái Bình Dương trong một trật tự thế giới mới và đặc biệt là thương mại với cả Nga và Trung Quốc.",
+      "words": [
+        {
+          "text": "Ông",
+          "start": 114.32,
+          "end": 114.5
+        },
+        {
+          "text": "Vladimir",
+          "start": 114.5,
+          "end": 114.96
+        },
+        {
+          "text": "Putin",
+          "start": 114.96,
+          "end": 115.34
+        },
+        {
+          "text": "thì",
+          "start": 115.34,
+          "end": 115.64
+        },
+        {
+          "text": "tuyên",
+          "start": 115.64,
+          "end": 115.82
+        },
+        {
+          "text": "bố",
+          "start": 115.82,
+          "end": 116.0
+        },
+        {
+          "text": "là",
+          "start": 116.0,
+          "end": 116.14
+        },
+        {
+          "text": "các",
+          "start": 116.14,
+          "end": 116.32
+        },
+        {
+          "text": "đòn",
+          "start": 116.32,
+          "end": 116.56
+        },
+        {
+          "text": "trừng",
+          "start": 116.56,
+          "end": 116.8
+        },
+        {
+          "text": "phạt",
+          "start": 116.8,
+          "end": 116.98
+        },
+        {
+          "text": "này,",
+          "start": 116.98,
+          "end": 117.24
+        },
+        {
+          "text": "thuế",
+          "start": 117.24,
+          "end": 117.46
+        },
+        {
+          "text": "quan",
+          "start": 117.46,
+          "end": 117.8
+        },
+        {
+          "text": "và",
+          "start": 117.8,
+          "end": 118.1
+        },
+        {
+          "text": "hạn",
+          "start": 118.1,
+          "end": 118.36
+        },
+        {
+          "text": "chế",
+          "start": 118.36,
+          "end": 118.48
+        },
+        {
+          "text": "xuất",
+          "start": 118.48,
+          "end": 118.68
+        },
+        {
+          "text": "khẩu",
+          "start": 118.68,
+          "end": 118.88
+        },
+        {
+          "text": "thương",
+          "start": 118.88,
+          "end": 119.12
+        },
+        {
+          "text": "mại",
+          "start": 119.12,
+          "end": 119.22
+        },
+        {
+          "text": "của",
+          "start": 119.22,
+          "end": 119.4
+        },
+        {
+          "text": "phương",
+          "start": 119.4,
+          "end": 119.58
+        },
+        {
+          "text": "Tây",
+          "start": 119.58,
+          "end": 119.92
+        },
+        {
+          "text": "đã",
+          "start": 119.92,
+          "end": 120.24
+        },
+        {
+          "text": "mất",
+          "start": 120.24,
+          "end": 120.52
+        },
+        {
+          "text": "phần",
+          "start": 120.52,
+          "end": 120.72
+        },
+        {
+          "text": "lớn",
+          "start": 120.72,
+          "end": 121.02
+        },
+        {
+          "text": "những",
+          "start": 121.02,
+          "end": 121.18
+        },
+        {
+          "text": "tác",
+          "start": 121.18,
+          "end": 121.48
+        },
+        {
+          "text": "dụng",
+          "start": 121.48,
+          "end": 121.62
+        },
+        {
+          "text": "răn",
+          "start": 121.62,
+          "end": 121.84
+        },
+        {
+          "text": "đe.",
+          "start": 121.84,
+          "end": 122.28
+        },
+        {
+          "text": "Và",
+          "start": 122.4,
+          "end": 122.56
+        },
+        {
+          "text": "ông",
+          "start": 122.56,
+          "end": 122.74
+        },
+        {
+          "text": "nhấn",
+          "start": 122.74,
+          "end": 122.96
+        },
+        {
+          "text": "mạnh",
+          "start": 122.96,
+          "end": 123.14
+        },
+        {
+          "text": "tầm",
+          "start": 123.14,
+          "end": 123.46
+        },
+        {
+          "text": "quan",
+          "start": 123.46,
+          "end": 123.76
+        },
+        {
+          "text": "trọng",
+          "start": 123.76,
+          "end": 123.94
+        },
+        {
+          "text": "của",
+          "start": 123.94,
+          "end": 124.22
+        },
+        {
+          "text": "châu",
+          "start": 124.22,
+          "end": 124.42
+        },
+        {
+          "text": "Á,",
+          "start": 124.42,
+          "end": 124.64
+        },
+        {
+          "text": "Thái",
+          "start": 124.7,
+          "end": 124.88
+        },
+        {
+          "text": "Bình",
+          "start": 124.88,
+          "end": 125.04
+        },
+        {
+          "text": "Dương",
+          "start": 125.04,
+          "end": 125.42
+        },
+        {
+          "text": "trong",
+          "start": 125.42,
+          "end": 125.74
+        },
+        {
+          "text": "một",
+          "start": 125.74,
+          "end": 126.04
+        },
+        {
+          "text": "trật",
+          "start": 126.04,
+          "end": 126.24
+        },
+        {
+          "text": "tự",
+          "start": 126.24,
+          "end": 126.36
+        },
+        {
+          "text": "thế",
+          "start": 126.36,
+          "end": 126.66
+        },
+        {
+          "text": "giới",
+          "start": 126.66,
+          "end": 126.78
+        },
+        {
+          "text": "mới",
+          "start": 126.78,
+          "end": 127.02
+        },
+        {
+          "text": "và",
+          "start": 127.02,
+          "end": 127.2
+        },
+        {
+          "text": "đặc",
+          "start": 127.2,
+          "end": 127.44
+        },
+        {
+          "text": "biệt",
+          "start": 127.44,
+          "end": 127.62
+        },
+        {
+          "text": "là",
+          "start": 127.62,
+          "end": 127.76
+        },
+        {
+          "text": "thương",
+          "start": 127.76,
+          "end": 128.0
+        },
+        {
+          "text": "mại",
+          "start": 128.0,
+          "end": 128.16
+        },
+        {
+          "text": "với",
+          "start": 128.16,
+          "end": 128.34
+        },
+        {
+          "text": "cả",
+          "start": 128.34,
+          "end": 128.5
+        },
+        {
+          "text": "Nga",
+          "start": 128.5,
+          "end": 128.72
+        },
+        {
+          "text": "và",
+          "start": 128.72,
+          "end": 128.86
+        },
+        {
+          "text": "Trung",
+          "start": 128.86,
+          "end": 129.06
+        },
+        {
+          "text": "Quốc.",
+          "start": 129.06,
+          "end": 129.24
+        }
+      ]
+    },
+    {
+      "id": "nuclear",
+      "text": "Ông Trump thì tư tưởng cũng rất là rõ ràng, đặc biệt là muốn bàn về vấn đề hạt nhân, cùng nhau kiểm soát số lượng đầu đạn hạt nhân của Nga và cả Trung Quốc. Bởi vì tại sao? Bởi vì hiệp ước START giữa Nga và Mỹ đã hết hạn từ tháng 5 rồi. Hiệp ước này là hiệp ước không phổ biến vũ khí hạt nhân. Trung Quốc thì đứng ngoài hiệp ước này nên là ông Trung Quốc cứ phải gọi là sản xuất vũ khí hạt nhân liên tục.",
+      "words": [
+        {
+          "text": "Ông",
+          "start": 129.48,
+          "end": 129.64
+        },
+        {
+          "text": "Trump",
+          "start": 129.64,
+          "end": 129.88
+        },
+        {
+          "text": "thì",
+          "start": 129.88,
+          "end": 130.1
+        },
+        {
+          "text": "tư",
+          "start": 130.1,
+          "end": 130.26
+        },
+        {
+          "text": "tưởng",
+          "start": 130.26,
+          "end": 130.46
+        },
+        {
+          "text": "cũng",
+          "start": 130.46,
+          "end": 130.7
+        },
+        {
+          "text": "rất",
+          "start": 130.7,
+          "end": 130.9
+        },
+        {
+          "text": "là",
+          "start": 130.9,
+          "end": 131.02
+        },
+        {
+          "text": "rõ",
+          "start": 131.02,
+          "end": 131.16
+        },
+        {
+          "text": "ràng,",
+          "start": 131.16,
+          "end": 131.6
+        },
+        {
+          "text": "đặc",
+          "start": 131.74,
+          "end": 132.06
+        },
+        {
+          "text": "biệt",
+          "start": 132.06,
+          "end": 132.28
+        },
+        {
+          "text": "là",
+          "start": 132.28,
+          "end": 132.46
+        },
+        {
+          "text": "muốn",
+          "start": 132.46,
+          "end": 132.64
+        },
+        {
+          "text": "bàn",
+          "start": 132.64,
+          "end": 132.86
+        },
+        {
+          "text": "về",
+          "start": 132.86,
+          "end": 133.0
+        },
+        {
+          "text": "vấn",
+          "start": 133.0,
+          "end": 133.2
+        },
+        {
+          "text": "đề",
+          "start": 133.2,
+          "end": 133.28
+        },
+        {
+          "text": "hạt",
+          "start": 133.28,
+          "end": 133.52
+        },
+        {
+          "text": "nhân,",
+          "start": 133.52,
+          "end": 133.9
+        },
+        {
+          "text": "cùng",
+          "start": 134.08,
+          "end": 134.26
+        },
+        {
+          "text": "nhau",
+          "start": 134.26,
+          "end": 134.5
+        },
+        {
+          "text": "kiểm",
+          "start": 134.5,
+          "end": 134.84
+        },
+        {
+          "text": "soát",
+          "start": 134.84,
+          "end": 134.98
+        },
+        {
+          "text": "số",
+          "start": 134.98,
+          "end": 135.24
+        },
+        {
+          "text": "lượng",
+          "start": 135.24,
+          "end": 135.38
+        },
+        {
+          "text": "đầu",
+          "start": 135.38,
+          "end": 135.62
+        },
+        {
+          "text": "đạn",
+          "start": 135.62,
+          "end": 135.66
+        },
+        {
+          "text": "hạt",
+          "start": 135.66,
+          "end": 135.88
+        },
+        {
+          "text": "nhân",
+          "start": 135.88,
+          "end": 136.06
+        },
+        {
+          "text": "của",
+          "start": 136.06,
+          "end": 136.3
+        },
+        {
+          "text": "Nga",
+          "start": 136.3,
+          "end": 136.56
+        },
+        {
+          "text": "và",
+          "start": 136.56,
+          "end": 136.68
+        },
+        {
+          "text": "cả",
+          "start": 136.68,
+          "end": 136.8
+        },
+        {
+          "text": "Trung",
+          "start": 136.8,
+          "end": 137.04
+        },
+        {
+          "text": "Quốc.",
+          "start": 137.04,
+          "end": 137.36
+        },
+        {
+          "text": "Bởi",
+          "start": 137.36,
+          "end": 137.66
+        },
+        {
+          "text": "vì",
+          "start": 137.66,
+          "end": 137.8
+        },
+        {
+          "text": "tại",
+          "start": 137.8,
+          "end": 137.94
+        },
+        {
+          "text": "sao?",
+          "start": 137.94,
+          "end": 138.32
+        },
+        {
+          "text": "Bởi",
+          "start": 138.42,
+          "end": 138.6
+        },
+        {
+          "text": "vì",
+          "start": 138.6,
+          "end": 138.68
+        },
+        {
+          "text": "hiệp",
+          "start": 138.68,
+          "end": 139.0
+        },
+        {
+          "text": "ước",
+          "start": 139.0,
+          "end": 139.08
+        },
+        {
+          "text": "START",
+          "start": 139.08,
+          "end": 139.54
+        },
+        {
+          "text": "giữa",
+          "start": 139.54,
+          "end": 139.78
+        },
+        {
+          "text": "Nga",
+          "start": 139.78,
+          "end": 140.14
+        },
+        {
+          "text": "và",
+          "start": 140.14,
+          "end": 140.32
+        },
+        {
+          "text": "Mỹ",
+          "start": 140.32,
+          "end": 140.58
+        },
+        {
+          "text": "đã",
+          "start": 140.58,
+          "end": 141.04
+        },
+        {
+          "text": "hết",
+          "start": 141.04,
+          "end": 141.24
+        },
+        {
+          "text": "hạn",
+          "start": 141.24,
+          "end": 141.48
+        },
+        {
+          "text": "từ",
+          "start": 141.48,
+          "end": 141.62
+        },
+        {
+          "text": "tháng",
+          "start": 141.62,
+          "end": 141.78
+        },
+        {
+          "text": "5",
+          "start": 141.78,
+          "end": 141.96
+        },
+        {
+          "text": "rồi.",
+          "start": 141.96,
+          "end": 142.2
+        },
+        {
+          "text": "Hiệp",
+          "start": 142.48,
+          "end": 142.68
+        },
+        {
+          "text": "ước",
+          "start": 142.68,
+          "end": 142.78
+        },
+        {
+          "text": "này",
+          "start": 142.78,
+          "end": 143.08
+        },
+        {
+          "text": "là",
+          "start": 143.08,
+          "end": 143.24
+        },
+        {
+          "text": "hiệp",
+          "start": 143.24,
+          "end": 143.46
+        },
+        {
+          "text": "ước",
+          "start": 143.46,
+          "end": 143.66
+        },
+        {
+          "text": "không",
+          "start": 143.66,
+          "end": 143.96
+        },
+        {
+          "text": "phổ",
+          "start": 143.96,
+          "end": 144.18
+        },
+        {
+          "text": "biến",
+          "start": 144.18,
+          "end": 144.36
+        },
+        {
+          "text": "vũ",
+          "start": 144.36,
+          "end": 144.58
+        },
+        {
+          "text": "khí",
+          "start": 144.58,
+          "end": 144.62
+        },
+        {
+          "text": "hạt",
+          "start": 144.62,
+          "end": 144.78
+        },
+        {
+          "text": "nhân.",
+          "start": 144.78,
+          "end": 144.96
+        },
+        {
+          "text": "Trung",
+          "start": 145.42,
+          "end": 145.62
+        },
+        {
+          "text": "Quốc",
+          "start": 145.62,
+          "end": 145.82
+        },
+        {
+          "text": "thì",
+          "start": 145.82,
+          "end": 146.02
+        },
+        {
+          "text": "đứng",
+          "start": 146.02,
+          "end": 146.18
+        },
+        {
+          "text": "ngoài",
+          "start": 146.18,
+          "end": 146.38
+        },
+        {
+          "text": "hiệp",
+          "start": 146.38,
+          "end": 146.54
+        },
+        {
+          "text": "ước",
+          "start": 146.54,
+          "end": 146.68
+        },
+        {
+          "text": "này",
+          "start": 146.68,
+          "end": 147.14
+        },
+        {
+          "text": "nên",
+          "start": 147.14,
+          "end": 147.44
+        },
+        {
+          "text": "là",
+          "start": 147.44,
+          "end": 147.58
+        },
+        {
+          "text": "ông",
+          "start": 147.58,
+          "end": 147.68
+        },
+        {
+          "text": "Trung",
+          "start": 147.68,
+          "end": 147.9
+        },
+        {
+          "text": "Quốc",
+          "start": 147.9,
+          "end": 148.0
+        },
+        {
+          "text": "cứ",
+          "start": 148.0,
+          "end": 148.28
+        },
+        {
+          "text": "phải",
+          "start": 148.28,
+          "end": 148.48
+        },
+        {
+          "text": "gọi",
+          "start": 148.48,
+          "end": 148.68
+        },
+        {
+          "text": "là",
+          "start": 148.68,
+          "end": 148.86
+        },
+        {
+          "text": "sản",
+          "start": 148.86,
+          "end": 149.06
+        },
+        {
+          "text": "xuất",
+          "start": 149.06,
+          "end": 149.14
+        },
+        {
+          "text": "vũ",
+          "start": 149.14,
+          "end": 149.34
+        },
+        {
+          "text": "khí",
+          "start": 149.34,
+          "end": 149.4
+        },
+        {
+          "text": "hạt",
+          "start": 149.4,
+          "end": 149.54
+        },
+        {
+          "text": "nhân",
+          "start": 149.54,
+          "end": 149.66
+        },
+        {
+          "text": "liên",
+          "start": 149.66,
+          "end": 149.88
+        },
+        {
+          "text": "tục.",
+          "start": 149.88,
+          "end": 150.22
+        }
+      ]
+    },
+    {
+      "id": "iran",
+      "text": "Còn quan trọng hơn nữa là Iran tại khu vực Trung Đông cũng đang hướng tới thay đổi học thuyết hạt nhân để sở hữu được vũ khí hạt nhân.",
+      "words": [
+        {
+          "text": "Còn",
+          "start": 150.34,
+          "end": 150.54
+        },
+        {
+          "text": "quan",
+          "start": 150.54,
+          "end": 150.82
+        },
+        {
+          "text": "trọng",
+          "start": 150.82,
+          "end": 150.96
+        },
+        {
+          "text": "hơn",
+          "start": 150.96,
+          "end": 151.06
+        },
+        {
+          "text": "nữa",
+          "start": 151.06,
+          "end": 151.34
+        },
+        {
+          "text": "là",
+          "start": 151.34,
+          "end": 151.6
+        },
+        {
+          "text": "Iran",
+          "start": 151.6,
+          "end": 152.12
+        },
+        {
+          "text": "tại",
+          "start": 152.12,
+          "end": 152.32
+        },
+        {
+          "text": "khu",
+          "start": 152.32,
+          "end": 152.48
+        },
+        {
+          "text": "vực",
+          "start": 152.48,
+          "end": 152.56
+        },
+        {
+          "text": "Trung",
+          "start": 152.56,
+          "end": 152.76
+        },
+        {
+          "text": "Đông",
+          "start": 152.76,
+          "end": 153.0
+        },
+        {
+          "text": "cũng",
+          "start": 153.0,
+          "end": 153.34
+        },
+        {
+          "text": "đang",
+          "start": 153.34,
+          "end": 153.56
+        },
+        {
+          "text": "hướng",
+          "start": 153.56,
+          "end": 153.82
+        },
+        {
+          "text": "tới",
+          "start": 153.82,
+          "end": 154.24
+        },
+        {
+          "text": "thay",
+          "start": 154.24,
+          "end": 154.56
+        },
+        {
+          "text": "đổi",
+          "start": 154.56,
+          "end": 154.72
+        },
+        {
+          "text": "học",
+          "start": 154.72,
+          "end": 154.88
+        },
+        {
+          "text": "thuyết",
+          "start": 154.88,
+          "end": 155.02
+        },
+        {
+          "text": "hạt",
+          "start": 155.02,
+          "end": 155.22
+        },
+        {
+          "text": "nhân",
+          "start": 155.22,
+          "end": 155.5
+        },
+        {
+          "text": "để",
+          "start": 155.5,
+          "end": 155.92
+        },
+        {
+          "text": "sở",
+          "start": 155.92,
+          "end": 156.18
+        },
+        {
+          "text": "hữu",
+          "start": 156.18,
+          "end": 156.4
+        },
+        {
+          "text": "được",
+          "start": 156.4,
+          "end": 156.52
+        },
+        {
+          "text": "vũ",
+          "start": 156.52,
+          "end": 156.68
+        },
+        {
+          "text": "khí",
+          "start": 156.68,
+          "end": 156.78
+        },
+        {
+          "text": "hạt",
+          "start": 156.78,
+          "end": 156.9
+        },
+        {
+          "text": "nhân.",
+          "start": 156.9,
+          "end": 157.32
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "text": "Đồng thời, ông Mỹ cũng đã siết chặt hàng loạt những công nghệ cao, công nghệ liên quan tới chip bán dẫn nhắm tới một vài quốc gia tại khu vực Đông Nam Á như Malaysia và Singapore, bởi vì nguy cơ là các quốc gia này đang sử dụng nền tảng công nghệ đó để cung cấp dịch vụ cho Trung Quốc.",
+      "words": [
+        {
+          "text": "Đồng",
+          "start": 157.42,
+          "end": 157.62
+        },
+        {
+          "text": "thời,",
+          "start": 157.62,
+          "end": 157.86
+        },
+        {
+          "text": "ông",
+          "start": 157.98,
+          "end": 158.12
+        },
+        {
+          "text": "Mỹ",
+          "start": 158.12,
+          "end": 158.36
+        },
+        {
+          "text": "cũng",
+          "start": 158.36,
+          "end": 158.68
+        },
+        {
+          "text": "đã",
+          "start": 158.68,
+          "end": 158.94
+        },
+        {
+          "text": "siết",
+          "start": 158.94,
+          "end": 159.12
+        },
+        {
+          "text": "chặt",
+          "start": 159.12,
+          "end": 159.34
+        },
+        {
+          "text": "hàng",
+          "start": 159.34,
+          "end": 159.6
+        },
+        {
+          "text": "loạt",
+          "start": 159.6,
+          "end": 159.78
+        },
+        {
+          "text": "những",
+          "start": 159.78,
+          "end": 159.94
+        },
+        {
+          "text": "công",
+          "start": 159.94,
+          "end": 160.14
+        },
+        {
+          "text": "nghệ",
+          "start": 160.14,
+          "end": 160.26
+        },
+        {
+          "text": "cao,",
+          "start": 160.26,
+          "end": 160.64
+        },
+        {
+          "text": "công",
+          "start": 160.66,
+          "end": 160.9
+        },
+        {
+          "text": "nghệ",
+          "start": 160.9,
+          "end": 161.02
+        },
+        {
+          "text": "liên",
+          "start": 161.02,
+          "end": 161.28
+        },
+        {
+          "text": "quan",
+          "start": 161.28,
+          "end": 161.36
+        },
+        {
+          "text": "tới",
+          "start": 161.36,
+          "end": 161.6
+        },
+        {
+          "text": "chip",
+          "start": 161.6,
+          "end": 161.84
+        },
+        {
+          "text": "bán",
+          "start": 161.84,
+          "end": 162.06
+        },
+        {
+          "text": "dẫn",
+          "start": 162.06,
+          "end": 162.44
+        },
+        {
+          "text": "nhắm",
+          "start": 162.44,
+          "end": 162.76
+        },
+        {
+          "text": "tới",
+          "start": 162.76,
+          "end": 162.98
+        },
+        {
+          "text": "một",
+          "start": 162.98,
+          "end": 163.26
+        },
+        {
+          "text": "vài",
+          "start": 163.26,
+          "end": 163.4
+        },
+        {
+          "text": "quốc",
+          "start": 163.4,
+          "end": 163.64
+        },
+        {
+          "text": "gia",
+          "start": 163.64,
+          "end": 163.78
+        },
+        {
+          "text": "tại",
+          "start": 163.78,
+          "end": 163.94
+        },
+        {
+          "text": "khu",
+          "start": 163.94,
+          "end": 164.08
+        },
+        {
+          "text": "vực",
+          "start": 164.08,
+          "end": 164.2
+        },
+        {
+          "text": "Đông",
+          "start": 164.2,
+          "end": 164.36
+        },
+        {
+          "text": "Nam",
+          "start": 164.36,
+          "end": 164.46
+        },
+        {
+          "text": "Á",
+          "start": 164.46,
+          "end": 164.7
+        },
+        {
+          "text": "như",
+          "start": 164.7,
+          "end": 164.9
+        },
+        {
+          "text": "Malaysia",
+          "start": 164.9,
+          "end": 165.6
+        },
+        {
+          "text": "và",
+          "start": 165.6,
+          "end": 165.82
+        },
+        {
+          "text": "Singapore,",
+          "start": 165.82,
+          "end": 166.36
+        },
+        {
+          "text": "bởi",
+          "start": 166.36,
+          "end": 166.8
+        },
+        {
+          "text": "vì",
+          "start": 166.8,
+          "end": 166.88
+        },
+        {
+          "text": "nguy",
+          "start": 166.88,
+          "end": 167.12
+        },
+        {
+          "text": "cơ",
+          "start": 167.12,
+          "end": 167.3
+        },
+        {
+          "text": "là",
+          "start": 167.3,
+          "end": 167.54
+        },
+        {
+          "text": "các",
+          "start": 167.54,
+          "end": 167.68
+        },
+        {
+          "text": "quốc",
+          "start": 167.68,
+          "end": 167.88
+        },
+        {
+          "text": "gia",
+          "start": 167.88,
+          "end": 168.04
+        },
+        {
+          "text": "này",
+          "start": 168.04,
+          "end": 168.32
+        },
+        {
+          "text": "đang",
+          "start": 168.32,
+          "end": 168.56
+        },
+        {
+          "text": "sử",
+          "start": 168.56,
+          "end": 168.86
+        },
+        {
+          "text": "dụng",
+          "start": 168.86,
+          "end": 169.04
+        },
+        {
+          "text": "nền",
+          "start": 169.04,
+          "end": 169.46
+        },
+        {
+          "text": "tảng",
+          "start": 169.46,
+          "end": 169.64
+        },
+        {
+          "text": "công",
+          "start": 169.64,
+          "end": 169.84
+        },
+        {
+          "text": "nghệ",
+          "start": 169.84,
+          "end": 169.96
+        },
+        {
+          "text": "đó",
+          "start": 169.96,
+          "end": 170.3
+        },
+        {
+          "text": "để",
+          "start": 170.3,
+          "end": 170.46
+        },
+        {
+          "text": "cung",
+          "start": 170.46,
+          "end": 170.68
+        },
+        {
+          "text": "cấp",
+          "start": 170.68,
+          "end": 170.8
+        },
+        {
+          "text": "dịch",
+          "start": 170.8,
+          "end": 171.04
+        },
+        {
+          "text": "vụ",
+          "start": 171.04,
+          "end": 171.3
+        },
+        {
+          "text": "cho",
+          "start": 171.3,
+          "end": 171.6
+        },
+        {
+          "text": "Trung",
+          "start": 171.6,
+          "end": 171.9
+        },
+        {
+          "text": "Quốc.",
+          "start": 171.9,
+          "end": 172.26
+        }
+      ]
+    },
+    {
+      "id": "closing",
+      "text": "Về cơ bản thì ba ông này cũng đã quá rõ ràng là Nga và Trung Quốc đang chung một thuyền rồi. Như này thì tôi thấy là vẫn khá là căng thẳng đấy. Nó kiểu bằng mặt nhưng mà không bằng lòng. Vẫn chưa có dấu hiệu là sẽ đạt được một cái thỏa thuận mang tính chất nó rõ ràng. Và cuộc chiến giữa Nga và Ukraine, cuộc chiến giữa Mỹ và Iran tại khu vực Trung Đông, khả năng là cũng chưa có được một cái gì để có dấu hiệu kết thúc ở đây cả. Chưa ăn thua các bạn ạ.",
+      "words": [
+        {
+          "text": "Về",
+          "start": 172.42,
+          "end": 172.54
+        },
+        {
+          "text": "cơ",
+          "start": 172.54,
+          "end": 172.74
+        },
+        {
+          "text": "bản",
+          "start": 172.74,
+          "end": 172.94
+        },
+        {
+          "text": "thì",
+          "start": 172.94,
+          "end": 173.14
+        },
+        {
+          "text": "ba",
+          "start": 173.14,
+          "end": 173.24
+        },
+        {
+          "text": "ông",
+          "start": 173.24,
+          "end": 173.34
+        },
+        {
+          "text": "này",
+          "start": 173.34,
+          "end": 173.56
+        },
+        {
+          "text": "cũng",
+          "start": 173.56,
+          "end": 173.74
+        },
+        {
+          "text": "đã",
+          "start": 173.74,
+          "end": 173.92
+        },
+        {
+          "text": "quá",
+          "start": 173.92,
+          "end": 174.08
+        },
+        {
+          "text": "rõ",
+          "start": 174.08,
+          "end": 174.32
+        },
+        {
+          "text": "ràng",
+          "start": 174.32,
+          "end": 174.54
+        },
+        {
+          "text": "là",
+          "start": 174.54,
+          "end": 174.74
+        },
+        {
+          "text": "Nga",
+          "start": 174.74,
+          "end": 174.96
+        },
+        {
+          "text": "và",
+          "start": 174.96,
+          "end": 175.08
+        },
+        {
+          "text": "Trung",
+          "start": 175.08,
+          "end": 175.32
+        },
+        {
+          "text": "Quốc",
+          "start": 175.32,
+          "end": 175.42
+        },
+        {
+          "text": "đang",
+          "start": 175.42,
+          "end": 175.64
+        },
+        {
+          "text": "chung",
+          "start": 175.64,
+          "end": 175.78
+        },
+        {
+          "text": "một",
+          "start": 175.78,
+          "end": 175.94
+        },
+        {
+          "text": "thuyền",
+          "start": 175.94,
+          "end": 176.18
+        },
+        {
+          "text": "rồi.",
+          "start": 176.18,
+          "end": 176.38
+        },
+        {
+          "text": "Như",
+          "start": 176.62,
+          "end": 176.8
+        },
+        {
+          "text": "này",
+          "start": 176.8,
+          "end": 177.1
+        },
+        {
+          "text": "thì",
+          "start": 177.1,
+          "end": 177.3
+        },
+        {
+          "text": "tôi",
+          "start": 177.3,
+          "end": 177.38
+        },
+        {
+          "text": "thấy",
+          "start": 177.38,
+          "end": 177.6
+        },
+        {
+          "text": "là",
+          "start": 177.6,
+          "end": 177.86
+        },
+        {
+          "text": "vẫn",
+          "start": 177.86,
+          "end": 178.08
+        },
+        {
+          "text": "khá",
+          "start": 178.08,
+          "end": 178.44
+        },
+        {
+          "text": "là",
+          "start": 178.44,
+          "end": 178.58
+        },
+        {
+          "text": "căng",
+          "start": 178.58,
+          "end": 178.74
+        },
+        {
+          "text": "thẳng",
+          "start": 178.74,
+          "end": 178.88
+        },
+        {
+          "text": "đấy.",
+          "start": 178.88,
+          "end": 179.12
+        },
+        {
+          "text": "Nó",
+          "start": 179.24,
+          "end": 179.44
+        },
+        {
+          "text": "kiểu",
+          "start": 179.44,
+          "end": 179.7
+        },
+        {
+          "text": "bằng",
+          "start": 179.7,
+          "end": 179.96
+        },
+        {
+          "text": "mặt",
+          "start": 179.96,
+          "end": 180.18
+        },
+        {
+          "text": "nhưng",
+          "start": 180.18,
+          "end": 180.44
+        },
+        {
+          "text": "mà",
+          "start": 180.44,
+          "end": 180.56
+        },
+        {
+          "text": "không",
+          "start": 180.56,
+          "end": 180.72
+        },
+        {
+          "text": "bằng",
+          "start": 180.72,
+          "end": 180.9
+        },
+        {
+          "text": "lòng.",
+          "start": 180.9,
+          "end": 181.2
+        },
+        {
+          "text": "Vẫn",
+          "start": 181.36,
+          "end": 181.58
+        },
+        {
+          "text": "chưa",
+          "start": 181.58,
+          "end": 181.86
+        },
+        {
+          "text": "có",
+          "start": 181.86,
+          "end": 182.1
+        },
+        {
+          "text": "dấu",
+          "start": 182.1,
+          "end": 182.24
+        },
+        {
+          "text": "hiệu",
+          "start": 182.24,
+          "end": 182.5
+        },
+        {
+          "text": "là",
+          "start": 182.5,
+          "end": 182.8
+        },
+        {
+          "text": "sẽ",
+          "start": 182.8,
+          "end": 183.08
+        },
+        {
+          "text": "đạt",
+          "start": 183.08,
+          "end": 183.3
+        },
+        {
+          "text": "được",
+          "start": 183.3,
+          "end": 183.48
+        },
+        {
+          "text": "một",
+          "start": 183.48,
+          "end": 183.74
+        },
+        {
+          "text": "cái",
+          "start": 183.74,
+          "end": 183.76
+        },
+        {
+          "text": "thỏa",
+          "start": 183.76,
+          "end": 183.94
+        },
+        {
+          "text": "thuận",
+          "start": 183.94,
+          "end": 184.14
+        },
+        {
+          "text": "mang",
+          "start": 184.14,
+          "end": 184.4
+        },
+        {
+          "text": "tính",
+          "start": 184.4,
+          "end": 184.58
+        },
+        {
+          "text": "chất",
+          "start": 184.58,
+          "end": 184.72
+        },
+        {
+          "text": "nó",
+          "start": 184.72,
+          "end": 184.9
+        },
+        {
+          "text": "rõ",
+          "start": 184.9,
+          "end": 185.12
+        },
+        {
+          "text": "ràng.",
+          "start": 185.12,
+          "end": 185.42
+        },
+        {
+          "text": "Và",
+          "start": 185.7,
+          "end": 185.86
+        },
+        {
+          "text": "cuộc",
+          "start": 185.86,
+          "end": 186.08
+        },
+        {
+          "text": "chiến",
+          "start": 186.08,
+          "end": 186.26
+        },
+        {
+          "text": "giữa",
+          "start": 186.26,
+          "end": 186.5
+        },
+        {
+          "text": "Nga",
+          "start": 186.5,
+          "end": 186.78
+        },
+        {
+          "text": "và",
+          "start": 186.78,
+          "end": 186.9
+        },
+        {
+          "text": "Ukraine,",
+          "start": 186.9,
+          "end": 187.22
+        },
+        {
+          "text": "cuộc",
+          "start": 187.62,
+          "end": 187.8
+        },
+        {
+          "text": "chiến",
+          "start": 187.8,
+          "end": 187.98
+        },
+        {
+          "text": "giữa",
+          "start": 187.98,
+          "end": 188.16
+        },
+        {
+          "text": "Mỹ",
+          "start": 188.16,
+          "end": 188.36
+        },
+        {
+          "text": "và",
+          "start": 188.36,
+          "end": 188.52
+        },
+        {
+          "text": "Iran",
+          "start": 188.52,
+          "end": 188.82
+        },
+        {
+          "text": "tại",
+          "start": 188.82,
+          "end": 189.0
+        },
+        {
+          "text": "khu",
+          "start": 189.0,
+          "end": 189.1
+        },
+        {
+          "text": "vực",
+          "start": 189.1,
+          "end": 189.22
+        },
+        {
+          "text": "Trung",
+          "start": 189.22,
+          "end": 189.4
+        },
+        {
+          "text": "Đông,",
+          "start": 189.4,
+          "end": 189.56
+        },
+        {
+          "text": "khả",
+          "start": 189.92,
+          "end": 190.12
+        },
+        {
+          "text": "năng",
+          "start": 190.12,
+          "end": 190.26
+        },
+        {
+          "text": "là",
+          "start": 190.26,
+          "end": 190.44
+        },
+        {
+          "text": "cũng",
+          "start": 190.44,
+          "end": 190.66
+        },
+        {
+          "text": "chưa",
+          "start": 190.66,
+          "end": 190.84
+        },
+        {
+          "text": "có",
+          "start": 190.84,
+          "end": 191.04
+        },
+        {
+          "text": "được",
+          "start": 191.04,
+          "end": 191.14
+        },
+        {
+          "text": "một",
+          "start": 191.14,
+          "end": 191.22
+        },
+        {
+          "text": "cái",
+          "start": 191.22,
+          "end": 191.36
+        },
+        {
+          "text": "gì",
+          "start": 191.36,
+          "end": 191.64
+        },
+        {
+          "text": "để",
+          "start": 191.64,
+          "end": 191.92
+        },
+        {
+          "text": "có",
+          "start": 191.92,
+          "end": 192.18
+        },
+        {
+          "text": "dấu",
+          "start": 192.18,
+          "end": 192.36
+        },
+        {
+          "text": "hiệu",
+          "start": 192.36,
+          "end": 192.56
+        },
+        {
+          "text": "kết",
+          "start": 192.56,
+          "end": 192.78
+        },
+        {
+          "text": "thúc",
+          "start": 192.78,
+          "end": 192.86
+        },
+        {
+          "text": "ở",
+          "start": 192.86,
+          "end": 193.02
+        },
+        {
+          "text": "đây",
+          "start": 193.02,
+          "end": 193.12
+        },
+        {
+          "text": "cả.",
+          "start": 193.12,
+          "end": 193.36
+        },
+        {
+          "text": "Chưa",
+          "start": 193.52,
+          "end": 193.76
+        },
+        {
+          "text": "ăn",
+          "start": 193.76,
+          "end": 193.96
+        },
+        {
+          "text": "thua",
+          "start": 193.96,
+          "end": 194.18
+        },
+        {
+          "text": "các",
+          "start": 194.18,
+          "end": 194.34
+        },
+        {
+          "text": "bạn",
+          "start": 194.34,
+          "end": 194.48
+        },
+        {
+          "text": "ạ.",
+          "start": 194.48,
+          "end": 194.5
+        }
+      ]
+    }
+  ]
+}
