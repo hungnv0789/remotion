@@ -1,0 +1,37 @@
+# FED PHÁT TÍN HIỆU – VÌ SAO CHỨNG KHOÁN, VÀNG VÀ DẦU GIẢM?
+
+## 1. hook
+
+Fed chưa tăng lãi suất, mới chỉ phát tín hiệu, vậy mà chỉ sau một đêm, chứng khoán, vàng và dầu cùng lao dốc. Tại sao?
+
+## 2. news
+
+Đêm 18 tháng 11, Fed công bố biên bản cuộc họp gần nhất. Gần như tất cả các quan chức đều cho rằng cần tăng lãi suất thêm vì lạm phát ở Mỹ vẫn chưa chịu hạ. Ngay lập tức, thị trường đặt cược khoảng 91% Fed sẽ tăng lãi suất vào tháng 12.
+
+## 3. mechanism
+
+Muốn hiểu, hãy coi tiền cũng là một món hàng, và giá của nó chính là lãi suất. Khi Fed tăng lãi suất, các ngân hàng phải vay tiền đắt hơn, nên họ cũng cho bạn vay đắt hơn.
+
+## 4. loan
+
+Ví dụ, bạn vay 1 tỷ đồng mua nhà, lãi suất 5% một năm, mỗi năm bạn trả 50 triệu tiền lãi. Lãi suất lên 7%, bạn phải trả 70 triệu. Thêm 20 triệu mỗi năm mà căn nhà vẫn y nguyên. Đó là tiền đắt hơn.
+
+## 5. savings
+
+Ở chiều ngược lại, gửi tiết kiệm được trả lãi cao hơn. Thế là người ta có xu hướng vay ít đi, tiêu ít đi và để dành nhiều hơn.
+
+## 6. stocks
+
+Khi tiền đắt lên, mọi tài sản đều phải được định giá lại. Với cổ phiếu có hai lý do. Thứ nhất, doanh nghiệp phải trả lãi vay cao hơn, lợi nhuận bị bóp lại. Thứ hai, khi trái phiếu chính phủ Mỹ đã trả khoảng 5% một năm, gần như không rủi ro, nhiều nhà đầu tư không còn muốn ôm cổ phiếu đầy rủi ro nữa. Tiền rút khỏi cổ phiếu, chỉ số S&P 500 giảm phiên thứ năm liên tiếp.
+
+## 7. gold
+
+Còn vàng thì khác cổ phiếu, vàng không sinh ra lãi. Khi gửi đô la được trả lãi ngày càng cao, giữ vàng trở nên kém hấp dẫn. Đô la mạnh lên cũng khiến vàng đắt hơn với người mua bằng đồng tiền khác. Thế là giá vàng giảm 3,5%, xuống mức thấp nhất từ tháng 9 năm ngoái.
+
+## 8. oil
+
+Với dầu, lãi suất cao làm kinh tế chậm lại. Người dân chi tiêu ít, nhà máy sản xuất ít, xe cộ chạy ít, nên thế giới cần ít dầu hơn. Cộng thêm tồn kho dầu tại Mỹ đang tăng, giá dầu giảm hơn 3% chỉ trong một ngày.
+
+## 9. closing
+
+Nhưng không phải tất cả đều giảm. Nasdaq vẫn tăng nhẹ nhờ cổ phiếu chip, vì mỗi nhóm ngành có câu chuyện riêng. Điều quan trọng nhất là thông điệp của Fed: họ sẵn sàng chấp nhận kinh tế chậm lại để dập lạm phát. Hãy nhớ một câu: khi tiền đắt lên, mọi tài sản đều phải định giá lại. Và Fed chỉ cần nói thôi, thị trường đã phản ứng trước.
