@@ -1,0 +1,16 @@
+{
+  "sourceSha256": "6f56f81084877c7ec7474c2342140a51cc506e917bbcbf0611b0e60f55d1a885",
+  "model": "faster-whisper large-v3-turbo",
+  "sourceWindow": [
+    190,
+    207
+  ],
+  "segments": [
+    {
+      "start": 190.0,
+      "end": 206.9,
+      "text": " Trung Quốc cũng đánh chúng ta trong vòng 10 năm, một quốc gia đi từ đống cho tàn, tôi gọi là đi từ đáy của xã hội, đáy của thế giới này. Chúng ta được gỡ cấm vận vào năm 1994, chúng ta gia nhập WTO, giao thương, mở cửa với cả thế giới vào năm 2007. Các bạn ơi!"
+    }
+  ],
+  "reviewedCorrection": "Đáy của thế giới này; WTO. Orthographic normalization: tro tàn."
+}

@@ -1,0 +1,1377 @@
+[
+  {
+    "id": "hook",
+    "section": "VÌ SAO CÔNG NGHỆ LÕI TẬP TRUNG?",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Vì sao công nghệ lõi\ntập trung ở cường quốc?",
+        "value": "CÔNG NGHỆ LÕI",
+        "label": "NGUỒN LỰC • NĂNG LỰC • LỊCH SỬ",
+        "detail": "Nhìn ra thế giới để hiểu câu chuyện phát triển.",
+        "graphic": "chip",
+        "nodes": [
+          "MỸ",
+          "CHÂU ÂU",
+          "NHẬT BẢN",
+          "VIỆT NAM"
+        ],
+        "values": [],
+        "metrics": [
+          "LÕI"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "ví dụ như",
+        "title": "Mỹ, châu Âu, Nhật Bản:\nnền tảng công nghệ.",
+        "value": "NĂNG LỰC CÔNG NGHỆ",
+        "label": "CÁC TRUNG TÂM CÔNG NGHIỆP",
+        "detail": "Điều gì tạo nên lợi thế của những quốc gia này?",
+        "graphic": "globe",
+        "nodes": [
+          "MỸ",
+          "CHÂU ÂU",
+          "NHẬT BẢN",
+          "CÔNG NGHỆ"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "độc quyền luôn",
+        "title": "Công nghệ\nvà vị thế quốc gia.",
+        "value": "LỢI THẾ CHIẾN LƯỢC",
+        "label": "TỪ CÔNG NGHỆ TỚI SỨC MẠNH",
+        "detail": "Vai trò của năng lực làm chủ công nghệ.",
+        "graphic": "chip",
+        "nodes": [
+          "NGHIÊN CỨU",
+          "SÁNG CHẾ",
+          "CÔNG NGHIỆP",
+          "VỊ THẾ"
+        ],
+        "values": [],
+        "metrics": [
+          "LÕI"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Trong khi đó",
+        "title": "Nhìn sang Việt Nam:\nbài toán công nghệ.",
+        "value": "VIỆT NAM",
+        "label": "CÂU HỎI VỀ NĂNG LỰC TỰ CHỦ",
+        "detail": "Đặt câu hỏi trong cả quá trình phát triển.",
+        "graphic": "comparison",
+        "nodes": [
+          "VIỆT NAM",
+          "CƯỜNG QUỐC"
+        ],
+        "values": [],
+        "metrics": [
+          "TỰ CHỦ?",
+          "NỀN TẢNG"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Hãy vểnh",
+        "title": "Muốn hiểu hiện tại,\nhãy nhìn lại quá trình.",
+        "value": "NHÌN RỘNG HƠN",
+        "label": "LỊCH SỬ TÍCH LŨY & PHÁT TRIỂN",
+        "detail": "Bắt đầu từ nguồn lực và thời gian.",
+        "graphic": "timeline",
+        "nodes": [
+          "LỊCH SỬ",
+          "TÍCH LŨY",
+          "CÔNG NGHỆ"
+        ],
+        "values": [],
+        "metrics": [
+          "01",
+          "02",
+          "03"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      0,
+      7
+    ]
+  },
+  {
+    "id": "world",
+    "section": "CÔNG NGHỆ THƯỢNG NGUỒN",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Hơn 200 quốc gia.\nAi làm chủ thượng nguồn?",
+        "value": "HƠN 200",
+        "label": "QUỐC GIA VÀ VÙNG LÃNH THỔ",
+        "detail": "Quy mô thế giới và mức độ tập trung công nghệ.",
+        "graphic": "globe",
+        "nodes": [
+          "QUỐC GIA",
+          "NGUỒN LỰC",
+          "CÔNG NGHỆ",
+          "THƯỢNG NGUỒN"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Nhưng mà thực tế",
+        "title": "Công nghệ lõi\nkhông phân bố đều.",
+        "value": "10 QUỐC GIA",
+        "label": "LÀM CHỦ CÔNG NGHỆ THƯỢNG NGUỒN",
+        "detail": "Một nhóm nhỏ giữ năng lực công nghệ đặc biệt.",
+        "graphic": "chip",
+        "nodes": [
+          "TỰ CHỦ",
+          "SÁNG CHẾ",
+          "BÍ QUYẾT",
+          "THƯỢNG NGUỒN"
+        ],
+        "values": [],
+        "metrics": [
+          "10"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "kể cả",
+        "title": "Giàu có chưa đủ\nđể tự chủ công nghệ.",
+        "value": "GIÀU CÓ ≠ TỰ CHỦ",
+        "label": "HAI KHÁI NIỆM CẦN PHÂN BIỆT",
+        "detail": "Năng lực công nghệ không chỉ là quy mô kinh tế.",
+        "graphic": "comparison",
+        "nodes": [
+          "GIÀU CÓ",
+          "CÔNG NGHỆ LÕI"
+        ],
+        "values": [],
+        "metrics": [
+          "NGUỒN VỐN",
+          "BÍ QUYẾT"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "cũng đều",
+        "title": "Làm chủ\ncông nghệ thượng nguồn.",
+        "value": "BÀI TOÁN TỰ CHỦ",
+        "label": "KHẢ NĂNG NẮM GIỮ CÔNG NGHỆ",
+        "detail": "Cần nhìn sâu hơn vào quá trình hình thành.",
+        "graphic": "chip",
+        "nodes": [
+          "VỐN",
+          "NHÂN LỰC",
+          "NGHIÊN CỨU",
+          "TỰ CHỦ"
+        ],
+        "values": [],
+        "metrics": [
+          "LÕI"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      8,
+      11
+    ]
+  },
+  {
+    "id": "history",
+    "section": "NHÌN LẠI LỊCH SỬ",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Điểm chung\nđược đặt ra từ lịch sử.",
+        "value": "NHÌN VỀ QUÁ KHỨ",
+        "label": "CÔNG NGHỆ & QUÁ TRÌNH TÍCH LŨY",
+        "detail": "Nền tảng phát triển không hình thành tức thì.",
+        "graphic": "timeline",
+        "nodes": [
+          "QUÁ KHỨ",
+          "NGUỒN LỰC",
+          "HIỆN TẠI"
+        ],
+        "values": [],
+        "metrics": [
+          "01",
+          "02",
+          "03"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Đấy chính là",
+        "title": "Cường quốc công nghệ\nvà dấu ấn quá khứ.",
+        "value": "NỀN TẢNG TÍCH LŨY",
+        "label": "TỪ LỊCH SỬ TỚI NĂNG LỰC",
+        "detail": "Lời dẫn đi vào bối cảnh các đế quốc.",
+        "graphic": "factory",
+        "nodes": [
+          "NGUỒN LỰC CHO CÔNG NGHIỆP",
+          "LỊCH SỬ CÔNG NGHIỆP"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Trong quá khứ",
+        "title": "Lịch sử thuộc địa\nvà nguồn lực tích lũy.",
+        "value": "THUỘC ĐỊA",
+        "label": "BỐI CẢNH LỊCH SỬ ĐƯỢC NHẮC ĐẾN",
+        "detail": "Câu chuyện có cả Việt Nam trong đó.",
+        "graphic": "globe",
+        "nodes": [
+          "ANH",
+          "PHÁP",
+          "THUỘC ĐỊA",
+          "VIỆT NAM"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "danger",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      12,
+      15
+    ]
+  },
+  {
+    "id": "empires",
+    "section": "THẾ GIỚI TRƯỚC NĂM 1914",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Trước Thế chiến I:\nmột thế giới phân chia.",
+        "value": "1914",
+        "label": "MỐC LỊCH SỬ TRONG LỜI DẪN",
+        "detail": "Lãnh thổ và quyền kiểm soát của các đế quốc.",
+        "graphic": "timeline",
+        "nodes": [
+          "THUỘC ĐỊA",
+          "THẾ CHIẾN I",
+          "CÔNG NGHIỆP"
+        ],
+        "values": [],
+        "metrics": [
+          "TRƯỚC",
+          "1914",
+          "NỀN TẢNG"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "thì 84%",
+        "title": "84% diện tích\nđất liền thế giới.",
+        "value": "84%",
+        "label": "DIỆN TÍCH ĐẤT LIỀN ĐƯỢC NHẮC",
+        "detail": "Quyền kiểm soát tập trung trong một nhóm nhỏ.",
+        "graphic": "donut",
+        "nodes": [
+          "DIỆN TÍCH ĐẤT LIỀN",
+          "QUYỀN KIỂM SOÁT",
+          "TRƯỚC NĂM 1914"
+        ],
+        "values": [
+          84
+        ],
+        "metrics": [
+          "84%"
+        ],
+        "tone": "danger",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "ví dụ như",
+        "title": "Các đế quốc\nvà nền công nghiệp.",
+        "value": "NHÓM NHỎ",
+        "label": "ANH • PHÁP • ĐỨC • BỈ • Ý • MỸ",
+        "detail": "Sự tập trung quyền lực và nguồn lực.",
+        "graphic": "globe",
+        "nodes": [
+          "ANH • PHÁP",
+          "ĐỨC • BỈ",
+          "Ý • MỸ",
+          "CÔNG NGHIỆP"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      16,
+      18
+    ]
+  },
+  {
+    "id": "europe",
+    "section": "ANH & PHÁP TRONG LỊCH SỬ",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Đế quốc Anh:\nquy mô kiểm soát.",
+        "value": "1/4 THẾ GIỚI",
+        "label": "DIỆN TÍCH ĐƯỢC NHẮC TRONG LỜI DẪN",
+        "detail": "Một mạng lưới thuộc địa trải rộng.",
+        "graphic": "donut",
+        "nodes": [
+          "ĐẾ QUỐC ANH",
+          "QUY MÔ LÃNH THỔ",
+          "MẠNG LƯỚI THUỘC ĐỊA"
+        ],
+        "values": [
+          25
+        ],
+        "metrics": [
+          "1/4"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Đừng quên",
+        "title": "“Mặt trời chưa bao giờ\nlặn dưới lá cờ Anh.”",
+        "value": "ĐẾ QUỐC ANH",
+        "label": "CÂU NÓI VỀ PHẠM VI THUỘC ĐỊA",
+        "detail": "Minh họa bằng các kết nối trên quả địa cầu.",
+        "graphic": "globe",
+        "nodes": [
+          "ANH QUỐC",
+          "THUỘC ĐỊA",
+          "LÃNH THỔ",
+          "NGUỒN LỰC"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Pháp chiếm",
+        "title": "Pháp và hệ thống\nthuộc địa.",
+        "value": "PHÁP • ĐÔNG DƯƠNG",
+        "label": "TÂY PHI • BẮC PHI • ĐÔNG DƯƠNG",
+        "detail": "Việt Nam xuất hiện trong câu chuyện lịch sử.",
+        "graphic": "globe",
+        "nodes": [
+          "PHÁP",
+          "TÂY PHI",
+          "BẮC PHI",
+          "ĐÔNG DƯƠNG"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "danger",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      19,
+      21
+    ]
+  },
+  {
+    "id": "america",
+    "section": "MỸ • MỞ RỘNG LÃNH THỔ",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Mỹ sau độc lập:\nmở rộng lãnh thổ.",
+        "value": "GẤP 10 LẦN",
+        "label": "TỪ BỜ ĐÔNG TỚI BỜ TÂY",
+        "detail": "Lời dẫn đặt sự mở rộng vào bối cảnh tích lũy.",
+        "graphic": "flow",
+        "nodes": [
+          "BỜ ĐÔNG",
+          "BỜ TÂY",
+          "LÃNH THỔ",
+          "NGUỒN LỰC",
+          "CÔNG NGHIỆP"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Chiếm hoàn toàn",
+        "title": "Người Mỹ bản địa\ntrong lịch sử lãnh thổ.",
+        "value": "NGƯỜI MỸ BẢN ĐỊA",
+        "label": "LỊCH SỬ HÌNH THÀNH NƯỚC MỸ",
+        "detail": "Câu chuyện về cư dân và quyền kiểm soát đất.",
+        "graphic": "cards",
+        "nodes": [
+          "CƯ DÂN BẢN ĐỊA",
+          "ĐẤT ĐAI",
+          "DI DÂN",
+          "LỊCH SỬ"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "danger",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Người da trắng",
+        "title": "Nguồn gốc dân cư\nđược nhắc trong lời dẫn.",
+        "value": "LỊCH SỬ DÂN CƯ",
+        "label": "ANH QUỐC & QUÁ TRÌNH DI DÂN",
+        "detail": "Một khía cạnh của lịch sử mở rộng.",
+        "graphic": "globe",
+        "nodes": [
+          "ANH QUỐC",
+          "BẮC MỸ",
+          "DI DÂN",
+          "LÃNH THỔ"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Mỹ cũng",
+        "title": "Các vị trí chiến lược\nngoài lục địa.",
+        "value": "THÁI BÌNH DƯƠNG",
+        "label": "THÁI BÌNH DƯƠNG • CARIBBEAN",
+        "detail": "Sự mở rộng sang các khu vực chiến lược.",
+        "graphic": "globe",
+        "nodes": [
+          "MỸ",
+          "THÁI BÌNH DƯƠNG",
+          "CARIBBEAN",
+          "CHIẾN LƯỢC"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      22,
+      26
+    ]
+  },
+  {
+    "id": "japan",
+    "section": "NHẬT BẢN • NỀN TẢNG LỊCH SỬ",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Nhật Bản\nvà Tây Thái Bình Dương.",
+        "value": "NHẬT BẢN",
+        "label": "PHẠM VI LỊCH SỬ ĐƯỢC NHẮC",
+        "detail": "Mãn Châu, Trung Quốc, Đông Dương và Đông Nam Á.",
+        "graphic": "globe",
+        "nodes": [
+          "MÃN CHÂU",
+          "TRUNG QUỐC",
+          "ĐÔNG DƯƠNG",
+          "ĐÔNG NAM Á"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "danger",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Thái Lan",
+        "title": "Các khu vực\ntrong câu chuyện lịch sử.",
+        "value": "THÁI LAN • INDONESIA",
+        "label": "NHÌN VỀ NỀN TẢNG SỨC MẠNH",
+        "detail": "Lịch sử phát triển trước quan hệ hợp tác hiện đại.",
+        "graphic": "cards",
+        "nodes": [
+          "NHẬT BẢN",
+          "THÁI LAN",
+          "INDONESIA",
+          "CÔNG NGHIỆP"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Đế quốc Nhật nó",
+        "title": "Không chỉ nhìn\nvào hợp tác với Mỹ.",
+        "value": "NỀN TẢNG CÓ SẴN",
+        "label": "LỊCH SỬ SỨC MẠNH CÔNG NGHIỆP",
+        "detail": "Đặt sự phát triển trong cả một quá trình.",
+        "graphic": "factory",
+        "nodes": [
+          "TÍCH LŨY & CÔNG NGHIỆP",
+          "NHẬT BẢN"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      27,
+      29
+    ]
+  },
+  {
+    "id": "capital",
+    "section": "THỜI GIAN TÍCH LŨY TƯ BẢN",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "150–400 năm\ntích lũy nguồn lực.",
+        "value": "150–400 NĂM",
+        "label": "KHOẢNG THỜI GIAN ĐƯỢC NHẮC",
+        "detail": "Nguồn lực được hình thành qua nhiều thế hệ.",
+        "graphic": "timeline",
+        "nodes": [
+          "TÍCH LŨY",
+          "NGUỒN VỐN",
+          "CÔNG NGHỆ"
+        ],
+        "values": [],
+        "metrics": [
+          "150 NĂM",
+          "→",
+          "400 NĂM"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Vơ vét",
+        "title": "Tài nguyên thuộc địa\nvà dòng vốn về chính quốc.",
+        "value": "DÒNG NGUỒN LỰC",
+        "label": "TÀI NGUYÊN → VỐN TÍCH LŨY",
+        "detail": "Nguồn vốn được đặt ở trung tâm lập luận.",
+        "graphic": "flow",
+        "nodes": [
+          "THUỘC ĐỊA",
+          "CHÍNH QUỐC",
+          "TÀI NGUYÊN",
+          "NGUỒN VỐN",
+          "CÔNG NGHIỆP"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "danger",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "và chính những cái dòng vốn",
+        "title": "Thặng dư tư bản\nvà sức mạnh tài trợ.",
+        "value": "NGUỒN VỐN LỚN",
+        "label": "CƠ SỞ TÀI TRỢ CHO CÔNG NGHỆ",
+        "detail": "Từ tài nguyên đến năng lực đầu tư.",
+        "graphic": "flow",
+        "nodes": [
+          "TÍCH LŨY",
+          "NGUỒN VỐN",
+          "NGHIÊN CỨU",
+          "SÁNG CHẾ",
+          "CÔNG NGHỆ"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      30,
+      32
+    ]
+  },
+  {
+    "id": "research",
+    "section": "NGUỒN VỐN TÀI TRỢ PHÁT MINH",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Vốn tích lũy\ntài trợ cho công nghệ.",
+        "value": "NGHIÊN CỨU TỐN KÉM",
+        "label": "KHẢ NĂNG TÀI TRỢ CHO PHÁT MINH",
+        "detail": "Nghiên cứu cần thời gian và nguồn lực.",
+        "graphic": "flow",
+        "nodes": [
+          "NGUỒN VỐN",
+          "NGHIÊN CỨU",
+          "SÁNG CHẾ",
+          "THỬ NGHIỆM",
+          "CÔNG NGHỆ"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "ví dụ như",
+        "title": "Từ máy hơi nước\nđến công nghệ bán dẫn.",
+        "value": "CÁC THẾ HỆ CÔNG NGHỆ",
+        "label": "MÁY HƠI NƯỚC • LUYỆN KIM • BÁN DẪN",
+        "detail": "Lịch sử công nghiệp nối tiếp qua nhiều giai đoạn.",
+        "graphic": "timeline",
+        "nodes": [
+          "HƠI NƯỚC",
+          "LUYỆN KIM",
+          "BÁN DẪN"
+        ],
+        "values": [],
+        "metrics": [
+          "01",
+          "02",
+          "03"
+        ],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "mà không bao giờ",
+        "title": "Nguồn lực lớn:\nkhả năng chịu thất bại.",
+        "value": "CHẤP NHẬN RỦI RO",
+        "label": "KHẢ NĂNG DUY TRÌ NGHIÊN CỨU",
+        "detail": "Không phải mọi nghiên cứu đều thành công.",
+        "graphic": "chip",
+        "nodes": [
+          "NGUỒN VỐN",
+          "THỬ NGHIỆM",
+          "THẤT BẠI",
+          "TIẾP TỤC"
+        ],
+        "values": [],
+        "metrics": [
+          "R&D"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      33,
+      37
+    ]
+  },
+  {
+    "id": "resources",
+    "section": "TÀI NGUYÊN & LỢI ÍCH CHIẾN LƯỢC",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Tài nguyên\nvà lợi ích chiến lược.",
+        "value": "DẦU MỎ",
+        "label": "MỘT PHẦN TRONG LẬP LUẬN NGUỒN LỰC",
+        "detail": "Câu chuyện chuyển sang các điểm nóng hiện tại.",
+        "graphic": "globe",
+        "nodes": [
+          "MỸ",
+          "CHÂU ÂU",
+          "TRUNG ĐÔNG",
+          "DẦU MỎ"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Vơ vét",
+        "title": "Dầu mỏ và các\nkhu vực được nhắc.",
+        "value": "TRUNG ĐÔNG",
+        "label": "TRUNG ĐÔNG • VENEZUELA",
+        "detail": "Nguồn tài nguyên trong quan hệ quốc tế.",
+        "graphic": "globe",
+        "nodes": [
+          "TRUNG ĐÔNG",
+          "VENEZUELA",
+          "TÀI NGUYÊN",
+          "NGUỒN LỰC"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "danger",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Tấn công Iran",
+        "title": "Iran trong\ncâu chuyện dầu mỏ.",
+        "value": "IRAN",
+        "label": "DẦU MỎ & LỢI ÍCH CHIẾN LƯỢC",
+        "detail": "Nhìn từ góc độ nguồn lực và quyền lực.",
+        "graphic": "globe",
+        "nodes": [
+          "IRAN",
+          "DẦU MỎ",
+          "NGUỒN LỰC",
+          "CHIẾN LƯỢC"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "danger",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      38,
+      41
+    ]
+  },
+  {
+    "id": "vietnam",
+    "section": "VIỆT NAM • ĐIỂM XUẤT PHÁT",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Trở lại Việt Nam:\nnhìn từ điểm xuất phát.",
+        "value": "VIỆT NAM",
+        "label": "THUỘC ĐỊA • CHIẾN TRANH • TÁI THIẾT",
+        "detail": "Quá trình phát triển bắt đầu từ đâu?",
+        "graphic": "globe",
+        "nodes": [
+          "VIỆT NAM",
+          "LỊCH SỬ",
+          "NGUỒN LỰC",
+          "PHÁT TRIỂN"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Chúng ta là",
+        "title": "Gần một thế kỷ\ntrong lịch sử thuộc địa.",
+        "value": "GẦN 100 NĂM",
+        "label": "BỐI CẢNH THUỘC ĐỊA ĐƯỢC NHẮC",
+        "detail": "Các cuộc chiến nối tiếp trong lời dẫn.",
+        "graphic": "timeline",
+        "nodes": [
+          "THUỘC ĐỊA",
+          "CHIẾN TRANH",
+          "TÁI THIẾT"
+        ],
+        "values": [],
+        "metrics": [
+          "LỊCH SỬ",
+          "TIẾP NỐI",
+          "PHÁT TRIỂN"
+        ],
+        "tone": "danger",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Rồi đế quốc Mỹ",
+        "title": "Những khoảng thời gian\nchiến tranh được nhắc.",
+        "value": "20 NĂM • 10 NĂM",
+        "label": "CÁC GIAI ĐOẠN TRONG LỜI DẪN",
+        "detail": "Nhiều thời kỳ khó khăn nối tiếp nhau.",
+        "graphic": "comparison",
+        "nodes": [
+          "MỸ",
+          "TRUNG QUỐC"
+        ],
+        "values": [],
+        "metrics": [
+          "20 NĂM",
+          "10 NĂM"
+        ],
+        "tone": "danger",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Một quốc gia đi từ",
+        "title": "Từ tro tàn\ntới công cuộc tái thiết.",
+        "value": "ĐIỂM XUẤT PHÁT",
+        "label": "NHÌN VÀO ĐIỀU KIỆN BAN ĐẦU",
+        "detail": "Nền tảng lịch sử ảnh hưởng tới quá trình tích lũy.",
+        "graphic": "factory",
+        "nodes": [
+          "TÁI THIẾT VÀ PHÁT TRIỂN",
+          "VIỆT NAM"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      42,
+      47
+    ]
+  },
+  {
+    "id": "opening",
+    "section": "CÁC MỐC MỞ CỬA KINH TẾ",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Những cột mốc\ntrên đường mở cửa.",
+        "value": "1994 → 2007",
+        "label": "GỠ CẤM VẬN • GIA NHẬP WTO",
+        "detail": "Hai mốc được nhắc trong quá trình hội nhập.",
+        "graphic": "timeline",
+        "nodes": [
+          "GỠ CẤM VẬN",
+          "GIA NHẬP WTO"
+        ],
+        "values": [],
+        "metrics": [
+          "1994",
+          "2007"
+        ],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "chúng ta được gỡ",
+        "title": "Gỡ cấm vận:\nmột cột mốc mở cửa.",
+        "value": "1994",
+        "label": "GIAO THƯƠNG & HỘI NHẬP",
+        "detail": "Điều kiện mới cho phát triển kinh tế.",
+        "graphic": "globe",
+        "nodes": [
+          "VIỆT NAM",
+          "GIAO THƯƠNG",
+          "MỞ CỬA",
+          "THẾ GIỚI"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "chúng ta gia nhập",
+        "title": "Gia nhập WTO:\nhội nhập với thế giới.",
+        "value": "2007",
+        "label": "VIỆT NAM • WTO",
+        "detail": "Giao thương và mở rộng kết nối kinh tế.",
+        "graphic": "globe",
+        "nodes": [
+          "VIỆT NAM",
+          "WTO",
+          "GIAO THƯƠNG",
+          "THẾ GIỚI"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      48,
+      48
+    ]
+  },
+  {
+    "id": "comparison",
+    "section": "THỜI GIAN PHÁT TRIỂN",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "30 năm phát triển\ntrong phép so sánh.",
+        "value": "30 NĂM",
+        "label": "KHOẢNG THỜI GIAN ĐƯỢC NHẮC",
+        "detail": "Đặt cạnh quá trình tích lũy dài hơn ở các nước.",
+        "graphic": "bars",
+        "nodes": [
+          "VIỆT NAM",
+          "PHÁT TRIỂN"
+        ],
+        "values": [
+          30,
+          300
+        ],
+        "metrics": [
+          "30 NĂM",
+          "~300 NĂM"
+        ],
+        "tone": "accent",
+        "note": "SO SÁNH THỜI GIAN ĐƯỢC NÊU • KHÁC BỐI CẢNH"
+      },
+      {
+        "anchor": "Một quãng",
+        "title": "So sánh cùng\nbối cảnh lịch sử.",
+        "value": "30 ↔ 300 NĂM",
+        "label": "THỜI GIAN TÍCH LŨY NGUỒN LỰC",
+        "detail": "Quy mô thời gian làm thay đổi cách nhìn.",
+        "graphic": "comparison",
+        "nodes": [
+          "VIỆT NAM",
+          "CÁC NƯỚC"
+        ],
+        "values": [],
+        "metrics": [
+          "30 NĂM",
+          "~300 NĂM"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "70 năm",
+        "title": "Tích lũy trong\nđiều kiện hòa bình.",
+        "value": "70 NĂM",
+        "label": "HÀN QUỐC • NHẬT BẢN • TRUNG QUỐC",
+        "detail": "Điều kiện lịch sử là một phần của câu chuyện.",
+        "graphic": "cards",
+        "nodes": [
+          "HÀN QUỐC",
+          "NHẬT BẢN",
+          "TRUNG QUỐC",
+          "TÍCH LŨY"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      49,
+      51
+    ]
+  },
+  {
+    "id": "perspective",
+    "section": "ĐẶT ĐÚNG BỐI CẢNH",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Xuất phát điểm\nkhông phải lá chắn.",
+        "value": "NHÌN NHẬN CÔNG TÂM",
+        "label": "HIỂU BỐI CẢNH PHÁT TRIỂN",
+        "detail": "Nhìn thẳng vào lịch sử và điều kiện tích lũy.",
+        "graphic": "comparison",
+        "nodes": [
+          "XUẤT PHÁT ĐIỂM",
+          "SỰ PHÁT TRIỂN"
+        ],
+        "values": [],
+        "metrics": [
+          "BỐI CẢNH",
+          "THỜI GIAN"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Không phải chúng ta lấy",
+        "title": "Hiểu hoàn cảnh,\nkhông dùng làm lá chắn.",
+        "value": "BỐI CẢNH LỊCH SỬ",
+        "label": "LÀM RÕ ĐIỀU KIỆN PHÁT TRIỂN",
+        "detail": "Điểm xuất phát giúp lý giải quá trình.",
+        "graphic": "timeline",
+        "nodes": [
+          "XUẤT PHÁT",
+          "NỖ LỰC",
+          "PHÁT TRIỂN"
+        ],
+        "values": [],
+        "metrics": [
+          "01",
+          "02",
+          "03"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Nhưng mà tôi muốn",
+        "title": "Hãy cho Việt Nam\nthời gian phát triển.",
+        "value": "THỜI GIAN",
+        "label": "NHÌN NHẬN CẢ MỘT QUÁ TRÌNH",
+        "detail": "Đánh giá sự phát triển trong bối cảnh lịch sử.",
+        "graphic": "factory",
+        "nodes": [
+          "TÍCH LŨY • XÂY DỰNG • PHÁT TRIỂN",
+          "VIỆT NAM"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      52,
+      55
+    ]
+  },
+  {
+    "id": "reflection",
+    "section": "NHÌN LẠI CẢ QUÁ TRÌNH",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Tìm hiểu lịch sử\nđể nhìn rộng hơn.",
+        "value": "NHÌN VỀ LỊCH SỬ",
+        "label": "VIỆT NAM & THẾ GIỚI",
+        "detail": "Quá khứ giúp đặt hiện tại vào bối cảnh.",
+        "graphic": "globe",
+        "nodes": [
+          "VIỆT NAM",
+          "THẾ GIỚI",
+          "LỊCH SỬ",
+          "HIỆN TẠI"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Và nó sẽ",
+        "title": "So sánh cần xét\nđiều kiện tích lũy.",
+        "value": "ĐIỀU KIỆN BAN ĐẦU",
+        "label": "KHÔNG CHỈ NHÌN VÀO HIỆN TẠI",
+        "detail": "Khác biệt về lịch sử, nguồn lực và thời gian.",
+        "graphic": "comparison",
+        "nodes": [
+          "XUẤT PHÁT ĐIỂM",
+          "TÍCH LŨY DÀI"
+        ],
+        "values": [],
+        "metrics": [
+          "TÁI THIẾT",
+          "NGUỒN LỰC"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "mang ra so sánh",
+        "title": "Nhìn toàn cảnh\ntrước khi so sánh.",
+        "value": "LỊCH SỬ • NGUỒN LỰC",
+        "label": "NHỮNG YẾU TỐ CẦN ĐẶT CẠNH NHAU",
+        "detail": "Từ tro tàn tái thiết tới năng lực phát triển.",
+        "graphic": "cards",
+        "nodes": [
+          "LỊCH SỬ",
+          "NGUỒN LỰC",
+          "THỜI GIAN",
+          "NĂNG LỰC"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      56,
+      57
+    ]
+  },
+  {
+    "id": "transfer",
+    "section": "CÔNG NGHỆ KHÔNG TỰ ĐẾN",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Công nghệ lõi\nkhông tự nhiên có.",
+        "value": "BÍ QUYẾT CÔNG NGHỆ",
+        "label": "TỰ CHỦ KHÔNG CHỈ TỪ TRAO ĐỔI",
+        "detail": "Năng lực làm chủ đòi hỏi đầu tư và nghiên cứu.",
+        "graphic": "chip",
+        "nodes": [
+          "BÍ QUYẾT",
+          "SÁNG CHẾ",
+          "NGHIÊN CỨU",
+          "TỰ CHỦ"
+        ],
+        "values": [],
+        "metrics": [
+          "LÕI"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Không tự nhiên có",
+        "title": "Không chờ người khác\ntrao bí quyết cho mình.",
+        "value": "CHỦ ĐỘNG NGHIÊN CỨU",
+        "label": "BÍ QUYẾT & NĂNG LỰC LÀM CHỦ",
+        "detail": "Lời dẫn chuyển sang giải pháp cho Việt Nam.",
+        "graphic": "comparison",
+        "nodes": [
+          "CHỜ CHUYỂN GIAO",
+          "CHỦ ĐỘNG"
+        ],
+        "values": [],
+        "metrics": [
+          "BÊN NGOÀI",
+          "NỘI LỰC"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      58,
+      59
+    ]
+  },
+  {
+    "id": "investment",
+    "section": "CHỦ ĐỘNG ĐẦU TƯ NGHIÊN CỨU",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Không ngồi chờ\nchuyển giao công nghệ.",
+        "value": "CHỦ ĐỘNG",
+        "label": "TẠO NĂNG LỰC TỪ NGUỒN LỰC TRONG NƯỚC",
+        "detail": "Tập trung vào nghiên cứu và doanh nghiệp nòng cốt.",
+        "graphic": "chip",
+        "nodes": [
+          "VIỆT NAM",
+          "NGHIÊN CỨU",
+          "NỘI LỰC",
+          "DOANH NGHIỆP"
+        ],
+        "values": [],
+        "metrics": [
+          "R&D"
+        ],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "đặc biệt là",
+        "title": "Đầu tư nghiên cứu\nlà việc phải làm.",
+        "value": "ĐẦU TƯ R&D",
+        "label": "NGHIÊN CỨU & PHÁT TRIỂN",
+        "detail": "Tự tạo ra năng lực công nghệ của mình.",
+        "graphic": "flow",
+        "nodes": [
+          "NGUỒN LỰC",
+          "NGHIÊN CỨU",
+          "THỬ NGHIỆM",
+          "SÁNG CHẾ",
+          "CÔNG NGHỆ"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "chủ động dùng",
+        "title": "Nguồn lực trong nước\nvà doanh nghiệp nòng cốt.",
+        "value": "DOANH NGHIỆP NÒNG CỐT",
+        "label": "TẬP TRUNG NGUỒN LỰC CHIẾN LƯỢC",
+        "detail": "Tạo nền tảng để phát triển công nghệ phù hợp.",
+        "graphic": "factory",
+        "nodes": [
+          "NGHIÊN CỨU • NĂNG LỰC • CÔNG NGHỆ",
+          "DOANH NGHIỆP NÒNG CỐT"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      60,
+      62
+    ]
+  },
+  {
+    "id": "niche",
+    "section": "CÔNG NGHỆ NGÁCH CHIẾN LƯỢC",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Chọn công nghệ ngách\nmột cách chiến lược.",
+        "value": "CÔNG NGHỆ NGÁCH",
+        "label": "TẬP TRUNG VÀO NĂNG LỰC CÓ THỂ BÁN",
+        "detail": "Từ nghiên cứu tới sản phẩm và dịch vụ.",
+        "graphic": "chip",
+        "nodes": [
+          "CHIẾN LƯỢC",
+          "SẢN PHẨM",
+          "DỊCH VỤ",
+          "THỊ TRƯỜNG"
+        ],
+        "values": [],
+        "metrics": [
+          "NGÁCH"
+        ],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "một cái thứ",
+        "title": "Sản phẩm và dịch vụ\ncho thị trường thế giới.",
+        "value": "BÁN CHO THẾ GIỚI",
+        "label": "CÔNG NGHỆ & DỊCH VỤ",
+        "detail": "Tạo giá trị từ năng lực của Việt Nam.",
+        "graphic": "flow",
+        "nodes": [
+          "VIỆT NAM",
+          "THẾ GIỚI",
+          "CÔNG NGHỆ",
+          "SẢN PHẨM",
+          "DỊCH VỤ"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      63,
+      64
+    ]
+  },
+  {
+    "id": "process",
+    "section": "ĐỪNG CHỈ NHÌN MỘT KHUNG HÌNH",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Đừng chỉ nhìn\nmột khung hình hiện tại.",
+        "value": "HIỆN TẠI ≠ TOÀN CẢNH",
+        "label": "HÃY NHÌN CẢ QUÁ TRÌNH",
+        "detail": "Đánh giá phát triển qua những dấu mốc lịch sử.",
+        "graphic": "comparison",
+        "nodes": [
+          "MỘT THỜI ĐIỂM",
+          "CẢ QUÁ TRÌNH"
+        ],
+        "values": [],
+        "metrics": [
+          "KHUNG HÌNH",
+          "LỊCH SỬ"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "mà hãy nhìn",
+        "title": "Nhìn cả quá trình,\ncả những dấu mốc.",
+        "value": "CÁC DẤU MỐC",
+        "label": "VIỆT NAM ĐÃ TRẢI QUA NHỮNG GÌ?",
+        "detail": "Từ lịch sử tới công cuộc phát triển hiện tại.",
+        "graphic": "timeline",
+        "nodes": [
+          "LỊCH SỬ",
+          "MỞ CỬA",
+          "NGHIÊN CỨU",
+          "PHÁT TRIỂN"
+        ],
+        "values": [],
+        "metrics": [
+          "01",
+          "02",
+          "03",
+          "04"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "và các quốc gia",
+        "title": "Cường quốc đã\nphát triển như thế nào?",
+        "value": "HIỂU QUÁ TRÌNH",
+        "label": "THỜI GIAN • NGUỒN LỰC • TÍCH LŨY",
+        "detail": "Đặt các quốc gia vào bối cảnh đã trải qua.",
+        "graphic": "globe",
+        "nodes": [
+          "QUÁ KHỨ",
+          "TÍCH LŨY",
+          "CÔNG NGHỆ",
+          "HIỆN TẠI"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      65,
+      68
+    ]
+  },
+  {
+    "id": "closing",
+    "section": "TRÂN TRỌNG & CHO THỜI GIAN",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Yêu Việt Nam.\nTrân trọng hành trình.",
+        "value": "VIỆT NAM",
+        "label": "HIỂU LỊCH SỬ • TRÂN TRỌNG HIỆN TẠI",
+        "detail": "Nhìn sự phát triển trong cả một quá trình.",
+        "graphic": "globe",
+        "nodes": [
+          "VIỆT NAM",
+          "TRÂN TRỌNG",
+          "NỖ LỰC",
+          "PHÁT TRIỂN"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "và làm ơn",
+        "title": "Hãy cho Việt Nam\nthời gian phát triển.",
+        "value": "THỜI GIAN PHÁT TRIỂN",
+        "label": "NGUỒN LỰC • NGHIÊN CỨU • NỘI LỰC",
+        "detail": "Kiên trì xây dựng năng lực công nghệ.",
+        "graphic": "chip",
+        "nodes": [
+          "NGUỒN LỰC",
+          "NGHIÊN CỨU",
+          "DOANH NGHIỆP",
+          "CÔNG NGHỆ"
+        ],
+        "values": [],
+        "metrics": [
+          "VIỆT NAM"
+        ],
+        "tone": "teal",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ],
+    "rawSegments": [
+      69,
+      70
+    ]
+  }
+]
