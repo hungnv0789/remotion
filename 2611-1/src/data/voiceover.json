@@ -1,0 +1,958 @@
+{
+  "audioSrc": "audio/2611-1/2611-1.mp3",
+  "durationSeconds": 51.245,
+  "sourceSha256": "084f7485862cd1221bd3ca949e9deb1ea52f187257e0307955a60eae114f5f2e",
+  "scenes": [
+    {
+      "id": "hook",
+      "text": "Tổng thống Trump đề xuất áp thêm thuế lên 14 nền kinh tế, trong đó có Việt Nam.",
+      "words": [
+        {
+          "text": "Tổng",
+          "start": 0.0,
+          "end": 0.14
+        },
+        {
+          "text": "thống",
+          "start": 0.14,
+          "end": 0.24
+        },
+        {
+          "text": "Trump",
+          "start": 0.24,
+          "end": 0.4
+        },
+        {
+          "text": "đề",
+          "start": 0.4,
+          "end": 0.6
+        },
+        {
+          "text": "xuất",
+          "start": 0.6,
+          "end": 0.78
+        },
+        {
+          "text": "áp",
+          "start": 0.78,
+          "end": 0.94
+        },
+        {
+          "text": "thêm",
+          "start": 0.94,
+          "end": 1.12
+        },
+        {
+          "text": "thuế",
+          "start": 1.12,
+          "end": 1.38
+        },
+        {
+          "text": "lên",
+          "start": 1.38,
+          "end": 1.62
+        },
+        {
+          "text": "14",
+          "start": 1.62,
+          "end": 1.96
+        },
+        {
+          "text": "nền",
+          "start": 1.96,
+          "end": 2.18
+        },
+        {
+          "text": "kinh",
+          "start": 2.18,
+          "end": 2.36
+        },
+        {
+          "text": "tế,",
+          "start": 2.36,
+          "end": 2.56
+        },
+        {
+          "text": "trong",
+          "start": 2.84,
+          "end": 2.98
+        },
+        {
+          "text": "đó",
+          "start": 2.98,
+          "end": 3.14
+        },
+        {
+          "text": "có",
+          "start": 3.14,
+          "end": 3.36
+        },
+        {
+          "text": "Việt",
+          "start": 3.36,
+          "end": 3.54
+        },
+        {
+          "text": "Nam.",
+          "start": 3.54,
+          "end": 3.68
+        }
+      ]
+    },
+    {
+      "id": "proposal",
+      "text": "Theo đề xuất công bố ngày 25 tháng 11 của Đại diện Thương mại Mỹ, USTR, 14 nền kinh tế nằm trong danh sách áp thuế đợt này gồm:",
+      "words": [
+        {
+          "text": "Theo",
+          "start": 3.98,
+          "end": 4.22
+        },
+        {
+          "text": "đề",
+          "start": 4.22,
+          "end": 4.38
+        },
+        {
+          "text": "xuất",
+          "start": 4.38,
+          "end": 4.56
+        },
+        {
+          "text": "công",
+          "start": 4.56,
+          "end": 4.7
+        },
+        {
+          "text": "bố",
+          "start": 4.7,
+          "end": 4.88
+        },
+        {
+          "text": "ngày",
+          "start": 4.88,
+          "end": 5.04
+        },
+        {
+          "text": "25",
+          "start": 5.04,
+          "end": 5.4
+        },
+        {
+          "text": "tháng",
+          "start": 5.4,
+          "end": 5.66
+        },
+        {
+          "text": "11",
+          "start": 5.66,
+          "end": 5.9
+        },
+        {
+          "text": "của",
+          "start": 5.9,
+          "end": 6.12
+        },
+        {
+          "text": "Đại",
+          "start": 6.12,
+          "end": 6.26
+        },
+        {
+          "text": "diện",
+          "start": 6.26,
+          "end": 6.44
+        },
+        {
+          "text": "Thương",
+          "start": 6.44,
+          "end": 6.6
+        },
+        {
+          "text": "mại",
+          "start": 6.6,
+          "end": 6.72
+        },
+        {
+          "text": "Mỹ,",
+          "start": 6.72,
+          "end": 6.94
+        },
+        {
+          "text": "USTR,",
+          "start": 7.08,
+          "end": 7.62
+        },
+        {
+          "text": "14",
+          "start": 7.98,
+          "end": 8.22
+        },
+        {
+          "text": "nền",
+          "start": 8.22,
+          "end": 8.42
+        },
+        {
+          "text": "kinh",
+          "start": 8.42,
+          "end": 8.6
+        },
+        {
+          "text": "tế",
+          "start": 8.6,
+          "end": 8.74
+        },
+        {
+          "text": "nằm",
+          "start": 8.74,
+          "end": 8.96
+        },
+        {
+          "text": "trong",
+          "start": 8.96,
+          "end": 9.12
+        },
+        {
+          "text": "danh",
+          "start": 9.12,
+          "end": 9.36
+        },
+        {
+          "text": "sách",
+          "start": 9.36,
+          "end": 9.5
+        },
+        {
+          "text": "áp",
+          "start": 9.5,
+          "end": 9.68
+        },
+        {
+          "text": "thuế",
+          "start": 9.68,
+          "end": 9.82
+        },
+        {
+          "text": "đợt",
+          "start": 9.82,
+          "end": 9.96
+        },
+        {
+          "text": "này",
+          "start": 9.96,
+          "end": 10.12
+        },
+        {
+          "text": "gồm:",
+          "start": 10.12,
+          "end": 10.4
+        }
+      ]
+    },
+    {
+      "id": "groups",
+      "text": "EU, Nhật Bản, Hàn Quốc, Thụy Sĩ, Đài Loan chịu mức 15%. Bangladesh, Campuchia, Indonesia, Malaysia, Thái Lan tối đa 18%. Singapore 20%, Ấn Độ 25%.",
+      "words": [
+        {
+          "text": "EU,",
+          "start": 10.4,
+          "end": 10.94
+        },
+        {
+          "text": "Nhật",
+          "start": 11.3,
+          "end": 11.44
+        },
+        {
+          "text": "Bản,",
+          "start": 11.44,
+          "end": 11.64
+        },
+        {
+          "text": "Hàn",
+          "start": 11.86,
+          "end": 12.06
+        },
+        {
+          "text": "Quốc,",
+          "start": 12.06,
+          "end": 12.22
+        },
+        {
+          "text": "Thụy",
+          "start": 12.42,
+          "end": 12.58
+        },
+        {
+          "text": "Sĩ,",
+          "start": 12.58,
+          "end": 12.8
+        },
+        {
+          "text": "Đài",
+          "start": 13.26,
+          "end": 13.42
+        },
+        {
+          "text": "Loan",
+          "start": 13.42,
+          "end": 13.6
+        },
+        {
+          "text": "chịu",
+          "start": 13.6,
+          "end": 13.8
+        },
+        {
+          "text": "mức",
+          "start": 13.8,
+          "end": 13.94
+        },
+        {
+          "text": "15%.",
+          "start": 13.94,
+          "end": 14.6
+        },
+        {
+          "text": "Bangladesh,",
+          "start": 14.6,
+          "end": 15.04
+        },
+        {
+          "text": "Campuchia,",
+          "start": 15.56,
+          "end": 16.1
+        },
+        {
+          "text": "Indonesia,",
+          "start": 16.38,
+          "end": 16.74
+        },
+        {
+          "text": "Malaysia,",
+          "start": 17.22,
+          "end": 17.52
+        },
+        {
+          "text": "Thái",
+          "start": 18.1,
+          "end": 18.26
+        },
+        {
+          "text": "Lan",
+          "start": 18.26,
+          "end": 18.4
+        },
+        {
+          "text": "tối",
+          "start": 18.4,
+          "end": 18.6
+        },
+        {
+          "text": "đa",
+          "start": 18.6,
+          "end": 18.74
+        },
+        {
+          "text": "18%.",
+          "start": 18.74,
+          "end": 19.5
+        },
+        {
+          "text": "Singapore",
+          "start": 19.5,
+          "end": 20.06
+        },
+        {
+          "text": "20%,",
+          "start": 20.06,
+          "end": 21.0
+        },
+        {
+          "text": "Ấn",
+          "start": 21.0,
+          "end": 21.26
+        },
+        {
+          "text": "Độ",
+          "start": 21.26,
+          "end": 21.4
+        },
+        {
+          "text": "25%.",
+          "start": 21.4,
+          "end": 22.44
+        }
+      ]
+    },
+    {
+      "id": "highest",
+      "text": "Còn Trung Quốc và Việt Nam đối mặt mức cao nhất lên tới 35%, trong khi Mexico và Na Uy chưa bị đề xuất áp thuế.",
+      "words": [
+        {
+          "text": "Còn",
+          "start": 22.44,
+          "end": 22.7
+        },
+        {
+          "text": "Trung",
+          "start": 22.7,
+          "end": 22.84
+        },
+        {
+          "text": "Quốc",
+          "start": 22.84,
+          "end": 23.04
+        },
+        {
+          "text": "và",
+          "start": 23.04,
+          "end": 23.2
+        },
+        {
+          "text": "Việt",
+          "start": 23.2,
+          "end": 23.36
+        },
+        {
+          "text": "Nam",
+          "start": 23.36,
+          "end": 23.54
+        },
+        {
+          "text": "đối",
+          "start": 23.54,
+          "end": 23.68
+        },
+        {
+          "text": "mặt",
+          "start": 23.68,
+          "end": 23.76
+        },
+        {
+          "text": "mức",
+          "start": 23.76,
+          "end": 23.96
+        },
+        {
+          "text": "cao",
+          "start": 23.96,
+          "end": 24.12
+        },
+        {
+          "text": "nhất",
+          "start": 24.12,
+          "end": 24.26
+        },
+        {
+          "text": "lên",
+          "start": 24.26,
+          "end": 24.46
+        },
+        {
+          "text": "tới",
+          "start": 24.46,
+          "end": 24.62
+        },
+        {
+          "text": "35%,",
+          "start": 24.62,
+          "end": 25.46
+        },
+        {
+          "text": "trong",
+          "start": 25.46,
+          "end": 25.72
+        },
+        {
+          "text": "khi",
+          "start": 25.72,
+          "end": 25.94
+        },
+        {
+          "text": "Mexico",
+          "start": 25.94,
+          "end": 26.32
+        },
+        {
+          "text": "và",
+          "start": 26.32,
+          "end": 26.62
+        },
+        {
+          "text": "Na",
+          "start": 26.62,
+          "end": 26.77
+        },
+        {
+          "text": "Uy",
+          "start": 26.77,
+          "end": 26.92
+        },
+        {
+          "text": "chưa",
+          "start": 26.92,
+          "end": 27.12
+        },
+        {
+          "text": "bị",
+          "start": 27.12,
+          "end": 27.26
+        },
+        {
+          "text": "đề",
+          "start": 27.26,
+          "end": 27.38
+        },
+        {
+          "text": "xuất",
+          "start": 27.38,
+          "end": 27.54
+        },
+        {
+          "text": "áp",
+          "start": 27.54,
+          "end": 27.68
+        },
+        {
+          "text": "thuế.",
+          "start": 27.68,
+          "end": 27.88
+        }
+      ]
+    },
+    {
+      "id": "response",
+      "text": "Ngay trong tối 25 tháng 11, ít giờ sau thông báo sơ bộ từ phía Mỹ, Bộ Công Thương Việt Nam đã chính thức lên tiếng trấn an khi nhấn mạnh đây mới chỉ là đề xuất của USTR và chưa có hiệu lực áp dụng ngay.",
+      "words": [
+        {
+          "text": "Ngay",
+          "start": 27.88,
+          "end": 28.52
+        },
+        {
+          "text": "trong",
+          "start": 28.52,
+          "end": 28.66
+        },
+        {
+          "text": "tối",
+          "start": 28.66,
+          "end": 28.86
+        },
+        {
+          "text": "25",
+          "start": 28.86,
+          "end": 29.28
+        },
+        {
+          "text": "tháng",
+          "start": 29.28,
+          "end": 29.58
+        },
+        {
+          "text": "11,",
+          "start": 29.58,
+          "end": 29.86
+        },
+        {
+          "text": "ít",
+          "start": 30.18,
+          "end": 30.4
+        },
+        {
+          "text": "giờ",
+          "start": 30.4,
+          "end": 30.5
+        },
+        {
+          "text": "sau",
+          "start": 30.5,
+          "end": 30.7
+        },
+        {
+          "text": "thông",
+          "start": 30.7,
+          "end": 30.84
+        },
+        {
+          "text": "báo",
+          "start": 30.84,
+          "end": 31.0
+        },
+        {
+          "text": "sơ",
+          "start": 31.0,
+          "end": 31.18
+        },
+        {
+          "text": "bộ",
+          "start": 31.18,
+          "end": 31.34
+        },
+        {
+          "text": "từ",
+          "start": 31.34,
+          "end": 31.5
+        },
+        {
+          "text": "phía",
+          "start": 31.5,
+          "end": 31.66
+        },
+        {
+          "text": "Mỹ,",
+          "start": 31.66,
+          "end": 31.84
+        },
+        {
+          "text": "Bộ",
+          "start": 32.18,
+          "end": 32.32
+        },
+        {
+          "text": "Công",
+          "start": 32.32,
+          "end": 32.5
+        },
+        {
+          "text": "Thương",
+          "start": 32.5,
+          "end": 32.62
+        },
+        {
+          "text": "Việt",
+          "start": 32.62,
+          "end": 32.78
+        },
+        {
+          "text": "Nam",
+          "start": 32.78,
+          "end": 32.98
+        },
+        {
+          "text": "đã",
+          "start": 32.98,
+          "end": 33.16
+        },
+        {
+          "text": "chính",
+          "start": 33.16,
+          "end": 33.32
+        },
+        {
+          "text": "thức",
+          "start": 33.32,
+          "end": 33.52
+        },
+        {
+          "text": "lên",
+          "start": 33.52,
+          "end": 33.66
+        },
+        {
+          "text": "tiếng",
+          "start": 33.66,
+          "end": 33.9
+        },
+        {
+          "text": "trấn",
+          "start": 33.9,
+          "end": 34.1
+        },
+        {
+          "text": "an",
+          "start": 34.1,
+          "end": 34.26
+        },
+        {
+          "text": "khi",
+          "start": 34.26,
+          "end": 34.64
+        },
+        {
+          "text": "nhấn",
+          "start": 34.64,
+          "end": 34.8
+        },
+        {
+          "text": "mạnh",
+          "start": 34.8,
+          "end": 34.98
+        },
+        {
+          "text": "đây",
+          "start": 34.98,
+          "end": 35.2
+        },
+        {
+          "text": "mới",
+          "start": 35.2,
+          "end": 35.38
+        },
+        {
+          "text": "chỉ",
+          "start": 35.38,
+          "end": 35.56
+        },
+        {
+          "text": "là",
+          "start": 35.56,
+          "end": 35.7
+        },
+        {
+          "text": "đề",
+          "start": 35.7,
+          "end": 35.84
+        },
+        {
+          "text": "xuất",
+          "start": 35.84,
+          "end": 36.06
+        },
+        {
+          "text": "của",
+          "start": 36.06,
+          "end": 36.26
+        },
+        {
+          "text": "USTR",
+          "start": 36.26,
+          "end": 36.9
+        },
+        {
+          "text": "và",
+          "start": 36.9,
+          "end": 37.38
+        },
+        {
+          "text": "chưa",
+          "start": 37.38,
+          "end": 37.6
+        },
+        {
+          "text": "có",
+          "start": 37.6,
+          "end": 37.78
+        },
+        {
+          "text": "hiệu",
+          "start": 37.78,
+          "end": 37.92
+        },
+        {
+          "text": "lực",
+          "start": 37.92,
+          "end": 38.06
+        },
+        {
+          "text": "áp",
+          "start": 38.06,
+          "end": 38.24
+        },
+        {
+          "text": "dụng",
+          "start": 38.24,
+          "end": 38.4
+        },
+        {
+          "text": "ngay.",
+          "start": 38.4,
+          "end": 38.56
+        }
+      ]
+    },
+    {
+      "id": "negotiation",
+      "text": "Đặc biệt, mức thuế tối đa 35% hoàn toàn có thể được kéo giảm đến ngưỡng 20% nếu hai nước đạt được hiệp định thương mại đối ứng công bằng và cân bằng trong thời gian tới.",
+      "words": [
+        {
+          "text": "Đặc",
+          "start": 38.56,
+          "end": 39.18
+        },
+        {
+          "text": "biệt,",
+          "start": 39.18,
+          "end": 39.38
+        },
+        {
+          "text": "mức",
+          "start": 39.52,
+          "end": 39.64
+        },
+        {
+          "text": "thuế",
+          "start": 39.64,
+          "end": 39.86
+        },
+        {
+          "text": "tối",
+          "start": 39.86,
+          "end": 40.06
+        },
+        {
+          "text": "đa",
+          "start": 40.06,
+          "end": 40.24
+        },
+        {
+          "text": "35%",
+          "start": 40.24,
+          "end": 40.6
+        },
+        {
+          "text": "hoàn",
+          "start": 40.88,
+          "end": 41.42
+        },
+        {
+          "text": "toàn",
+          "start": 41.42,
+          "end": 41.6
+        },
+        {
+          "text": "có",
+          "start": 41.6,
+          "end": 41.74
+        },
+        {
+          "text": "thể",
+          "start": 41.74,
+          "end": 41.88
+        },
+        {
+          "text": "được",
+          "start": 41.88,
+          "end": 42.04
+        },
+        {
+          "text": "kéo",
+          "start": 42.04,
+          "end": 42.26
+        },
+        {
+          "text": "giảm",
+          "start": 42.26,
+          "end": 42.5
+        },
+        {
+          "text": "đến",
+          "start": 42.5,
+          "end": 42.64
+        },
+        {
+          "text": "ngưỡng",
+          "start": 42.64,
+          "end": 42.86
+        },
+        {
+          "text": "20%",
+          "start": 42.86,
+          "end": 43.06
+        },
+        {
+          "text": "nếu",
+          "start": 43.4,
+          "end": 43.86
+        },
+        {
+          "text": "hai",
+          "start": 43.86,
+          "end": 44.0
+        },
+        {
+          "text": "nước",
+          "start": 44.0,
+          "end": 44.2
+        },
+        {
+          "text": "đạt",
+          "start": 44.2,
+          "end": 44.4
+        },
+        {
+          "text": "được",
+          "start": 44.4,
+          "end": 44.54
+        },
+        {
+          "text": "hiệp",
+          "start": 44.54,
+          "end": 44.72
+        },
+        {
+          "text": "định",
+          "start": 44.72,
+          "end": 44.88
+        },
+        {
+          "text": "thương",
+          "start": 44.88,
+          "end": 45.06
+        },
+        {
+          "text": "mại",
+          "start": 45.06,
+          "end": 45.2
+        },
+        {
+          "text": "đối",
+          "start": 45.2,
+          "end": 45.38
+        },
+        {
+          "text": "ứng",
+          "start": 45.38,
+          "end": 45.54
+        },
+        {
+          "text": "công",
+          "start": 45.54,
+          "end": 45.8
+        },
+        {
+          "text": "bằng",
+          "start": 45.8,
+          "end": 46.02
+        },
+        {
+          "text": "và",
+          "start": 46.02,
+          "end": 46.2
+        },
+        {
+          "text": "cân",
+          "start": 46.2,
+          "end": 46.36
+        },
+        {
+          "text": "bằng",
+          "start": 46.36,
+          "end": 46.52
+        },
+        {
+          "text": "trong",
+          "start": 46.52,
+          "end": 46.68
+        },
+        {
+          "text": "thời",
+          "start": 46.68,
+          "end": 46.84
+        },
+        {
+          "text": "gian",
+          "start": 46.84,
+          "end": 46.98
+        },
+        {
+          "text": "tới.",
+          "start": 46.98,
+          "end": 47.14
+        }
+      ]
+    }
+  ]
+}

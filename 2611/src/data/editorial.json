@@ -1,0 +1,501 @@
+[
+  {
+    "id": "hook",
+    "section": "VÀNG NHẪN • CHÊNH LỆCH 2 TRIỆU",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "PNJ bán vàng nhẫn\nrẻ hơn 2 triệu/lượng?",
+        "value": "CHÊNH 2 TRIỆU",
+        "label": "SO VỚI SJC & DOJI",
+        "detail": "Một diễn biến mới trên thị trường vàng nhẫn.",
+        "graphic": "gold",
+        "nodes": [
+          "VÀNG NHẪN",
+          "PNJ",
+          "CHÊNH LỆCH GIÁ"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "bán rẻ hơn",
+        "title": "Cùng vàng nhẫn,\nkhác mức giá bán.",
+        "value": "PNJ • SJC • DOJI",
+        "label": "CHÊNH LỆCH ĐƯỢC NHẮC ĐẾN",
+        "detail": "Mỗi lượng có thể chênh tới 2 triệu đồng.",
+        "graphic": "comparison",
+        "nodes": [
+          "PNJ",
+          "SJC • DOJI"
+        ],
+        "values": [],
+        "metrics": [
+          "131,5",
+          "133,5"
+        ],
+        "tone": "accent",
+        "note": "GIÁ BÁN · TRIỆU ĐỒNG/LƯỢNG"
+      }
+    ]
+  },
+  {
+    "id": "news",
+    "section": "DIỄN BIẾN MỚI TRÊN THỊ TRƯỜNG",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Thị trường vàng\ncó diễn biến bất ngờ.",
+        "value": "VÀNG NHẪN TRƠN",
+        "label": "CHÊNH LỆCH GIỮA CÁC THƯƠNG HIỆU",
+        "detail": "PNJ đưa giá bán xuống thấp hơn nhóm so sánh.",
+        "graphic": "gold",
+        "nodes": [
+          "VÀNG NHẪN TRƠN",
+          "GIÁ BÁN",
+          "CHÊNH LỆCH"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "PNJ, một",
+        "title": "PNJ và mức giá\nthấp hơn đối thủ.",
+        "value": "PNJ",
+        "label": "MỘT TRONG CÁC THƯƠNG HIỆU LỚN",
+        "detail": "Đặt cạnh SJC, DOJI và Mi Hồng.",
+        "graphic": "quotes",
+        "nodes": [
+          "PNJ",
+          "SJC",
+          "DOJI",
+          "Mi Hồng"
+        ],
+        "values": [],
+        "metrics": [
+          "131,5",
+          "133,5",
+          "133,5",
+          "134"
+        ],
+        "tone": "accent",
+        "note": "GIÁ BÁN VÀNG NHẪN ĐƯỢC NÊU • SÁNG 25/11",
+        "headers": [
+          "THƯƠNG HIỆU",
+          "GIÁ BÁN · TRIỆU ĐỒNG/LƯỢNG"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "quotes",
+    "section": "BẢNG GIÁ VÀNG NHẪN • 25/11",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Sáng 25/11:\ngiá vàng nhẫn PNJ.",
+        "value": "25 / 11",
+        "label": "MỐC THỜI GIAN CỦA BẢNG GIÁ",
+        "detail": "Đơn vị: triệu đồng mỗi lượng.",
+        "graphic": "comparison",
+        "nodes": [
+          "PNJ MUA VÀO",
+          "PNJ BÁN RA"
+        ],
+        "values": [],
+        "metrics": [
+          "126",
+          "131,5"
+        ],
+        "tone": "accent",
+        "note": "GIÁ VÀNG NHẪN · TRIỆU ĐỒNG/LƯỢNG"
+      },
+      {
+        "anchor": "ở mức 126",
+        "title": "PNJ mua vào:\n126 triệu mỗi lượng.",
+        "value": "126 TRIỆU",
+        "label": "GIÁ MUA VÀO • PNJ",
+        "detail": "Phân biệt giá mua vào với giá bán ra.",
+        "graphic": "gold",
+        "nodes": [
+          "MUA VÀO",
+          "126 TRIỆU/LƯỢNG",
+          "PNJ"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "và 131,5",
+        "title": "PNJ bán ra:\n131,5 triệu mỗi lượng.",
+        "value": "131,5 TRIỆU",
+        "label": "GIÁ BÁN RA • PNJ",
+        "detail": "Đây là mức giá dùng để so sánh bên bán.",
+        "graphic": "gold",
+        "nodes": [
+          "BÁN RA",
+          "131,5 TRIỆU/LƯỢNG",
+          "PNJ"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Trong khi đó",
+        "title": "SJC và DOJI:\n133,5 triệu mỗi lượng.",
+        "value": "133,5 TRIỆU",
+        "label": "GIÁ BÁN RA • SJC & DOJI",
+        "detail": "Cao hơn PNJ 2 triệu đồng mỗi lượng.",
+        "graphic": "quotes",
+        "nodes": [
+          "PNJ",
+          "SJC",
+          "DOJI",
+          "Mi Hồng"
+        ],
+        "values": [],
+        "metrics": [
+          "131,5",
+          "133,5",
+          "133,5",
+          "134"
+        ],
+        "tone": "accent",
+        "note": "GIÁ BÁN VÀNG NHẪN ĐƯỢC NÊU • SÁNG 25/11",
+        "headers": [
+          "THƯƠNG HIỆU",
+          "GIÁ BÁN · TRIỆU ĐỒNG/LƯỢNG"
+        ]
+      },
+      {
+        "anchor": "Còn Mi Hồng",
+        "title": "Mi Hồng:\n134 triệu mỗi lượng.",
+        "value": "134 TRIỆU",
+        "label": "GIÁ BÁN RA • MI HỒNG",
+        "detail": "Cao hơn PNJ 2,5 triệu đồng mỗi lượng.",
+        "graphic": "quotes",
+        "nodes": [
+          "PNJ",
+          "SJC",
+          "DOJI",
+          "Mi Hồng"
+        ],
+        "values": [],
+        "metrics": [
+          "131,5",
+          "133,5",
+          "133,5",
+          "134"
+        ],
+        "tone": "accent",
+        "note": "GIÁ BÁN VÀNG NHẪN ĐƯỢC NÊU • SÁNG 25/11",
+        "headers": [
+          "THƯƠNG HIỆU",
+          "GIÁ BÁN · TRIỆU ĐỒNG/LƯỢNG"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "difference",
+    "section": "CHÊNH LỆCH GIÁ GIỮA CÁC HÃNG",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "PNJ thấp hơn\nSJC và DOJI.",
+        "value": "2 TRIỆU / LƯỢNG",
+        "label": "CHÊNH LỆCH GIÁ BÁN",
+        "detail": "131,5 so với 133,5 triệu đồng mỗi lượng.",
+        "graphic": "comparison",
+        "nodes": [
+          "PNJ",
+          "SJC • DOJI"
+        ],
+        "values": [],
+        "metrics": [
+          "131,5",
+          "133,5"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Và 2,5",
+        "title": "So với Mi Hồng:\nchênh 2,5 triệu/lượng.",
+        "value": "2,5 TRIỆU / LƯỢNG",
+        "label": "CHÊNH LỆCH GIÁ BÁN",
+        "detail": "131,5 so với 134 triệu đồng mỗi lượng.",
+        "graphic": "comparison",
+        "nodes": [
+          "PNJ",
+          "MI HỒNG"
+        ],
+        "values": [],
+        "metrics": [
+          "131,5",
+          "134"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ]
+  },
+  {
+    "id": "position",
+    "section": "KHÁC VỚI VỊ THẾ GIÁ TRƯỚC ĐÓ",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Không chỉ là\nmột lần điều chỉnh giá.",
+        "value": "VỊ THẾ GIÁ THAY ĐỔI",
+        "label": "ĐIỀU GÌ KHIẾN DIỄN BIẾN ĐÁNG CHÚ Ý?",
+        "detail": "So sánh mức giá PNJ trước đây và hiện tại.",
+        "graphic": "gold",
+        "nodes": [
+          "VỊ THẾ GIÁ",
+          "PNJ",
+          "THỊ TRƯỜNG"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Bởi trước đó",
+        "title": "Trước đó:\nthường cao hơn hoặc xấp xỉ.",
+        "value": "TRƯỚC ĐÂY",
+        "label": "GIÁ PNJ SO VỚI THƯƠNG HIỆU LỚN",
+        "detail": "Nền so sánh khác với diễn biến hiện tại.",
+        "graphic": "comparison",
+        "nodes": [
+          "TRƯỚC ĐÓ",
+          "HIỆN TẠI"
+        ],
+        "values": [],
+        "metrics": [
+          "CAO / NGANG",
+          "THẤP HƠN"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Nhưng hiện tại",
+        "title": "Hiện tại:\nthấp nhất nhóm so sánh.",
+        "value": "GIÁ THẤP HƠN NHÓM",
+        "label": "PNJ • SJC • DOJI • MI HỒNG",
+        "detail": "Bảng giá cho thấy khoảng cách rõ rệt.",
+        "graphic": "quotes",
+        "nodes": [
+          "PNJ",
+          "SJC",
+          "DOJI",
+          "Mi Hồng"
+        ],
+        "values": [],
+        "metrics": [
+          "131,5",
+          "133,5",
+          "133,5",
+          "134"
+        ],
+        "tone": "accent",
+        "note": "GIÁ BÁN VÀNG NHẪN ĐƯỢC NÊU • SÁNG 25/11",
+        "headers": [
+          "THƯƠNG HIỆU",
+          "GIÁ BÁN · TRIỆU ĐỒNG/LƯỢNG"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "market",
+    "section": "BỐI CẢNH ĐIỀU CHỈNH MẠNH",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Thị trường vàng\nđang điều chỉnh mạnh.",
+        "value": "ĐIỀU CHỈNH MẠNH",
+        "label": "BỐI CẢNH CỦA DIỄN BIẾN GIÁ",
+        "detail": "Mức giảm được đặt cạnh đỉnh đầu tháng 3.",
+        "graphic": "line",
+        "nodes": [
+          "XU HƯỚNG GIÁ VÀNG",
+          "ĐIỀU CHỈNH TỪ VÙNG ĐỈNH"
+        ],
+        "values": [
+          100,
+          96,
+          98,
+          88,
+          84,
+          75,
+          70
+        ],
+        "metrics": [],
+        "tone": "danger",
+        "note": "XU HƯỚNG MINH HỌA • KHÔNG PHẢI DỮ LIỆU GIAO DỊCH"
+      },
+      {
+        "anchor": "Giá vàng đã giảm",
+        "title": "Giảm gần 30%\nso với vùng đỉnh.",
+        "value": "GẦN 30%",
+        "label": "MỨC GIẢM ĐƯỢC NÊU",
+        "detail": "Một đợt điều chỉnh lớn trên thị trường trong nước.",
+        "graphic": "donut",
+        "nodes": [
+          "MỨC GIẢM ĐƯỢC NÊU",
+          "SO VỚI VÙNG ĐỈNH",
+          "ĐẦU THÁNG 3"
+        ],
+        "values": [
+          30
+        ],
+        "metrics": [
+          "~30%"
+        ],
+        "tone": "danger",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "so với mức đỉnh",
+        "title": "Vùng đỉnh được nhắc:\n191 triệu mỗi lượng.",
+        "value": "191 TRIỆU",
+        "label": "MỨC ĐỈNH HỒI ĐẦU THÁNG 3",
+        "detail": "Đặt diễn biến hiện tại trong bối cảnh điều chỉnh.",
+        "graphic": "timeline",
+        "nodes": [
+          "VÙNG ĐỈNH",
+          "ĐIỀU CHỈNH"
+        ],
+        "values": [],
+        "metrics": [
+          "ĐẦU THÁNG 3",
+          "HIỆN TẠI"
+        ],
+        "tone": "danger",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ]
+  },
+  {
+    "id": "premium",
+    "section": "GIÁ TRONG NƯỚC & THẾ GIỚI",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Giá giảm mạnh,\nchênh lệch vẫn lớn.",
+        "value": "NGHỊCH LÝ GIÁ VÀNG",
+        "label": "TRONG NƯỚC SO VỚI THẾ GIỚI",
+        "detail": "Không chỉ nhìn mức giảm, hãy nhìn cả khoảng cách.",
+        "graphic": "comparison",
+        "nodes": [
+          "TRONG NƯỚC",
+          "THẾ GIỚI"
+        ],
+        "values": [],
+        "metrics": [
+          "GIÁ GIẢM",
+          "CHÊNH LỚN"
+        ],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Vàng miếng SJC",
+        "title": "Vàng miếng SJC:\ncao hơn gần 23 triệu.",
+        "value": "GẦN 23 TRIỆU",
+        "label": "CHÊNH GIÁ THẾ GIỚI QUY ĐỔI • MỖI LƯỢNG",
+        "detail": "Khoảng cách giá được nhắc cho vàng miếng.",
+        "graphic": "gold",
+        "nodes": [
+          "VÀNG MIẾNG SJC",
+          "CHÊNH LỆCH GIÁ",
+          "THẾ GIỚI QUY ĐỔI"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "danger",
+        "note": "ĐỒ HỌA MINH HỌA"
+      },
+      {
+        "anchor": "Trong khi vàng nhẫn",
+        "title": "Vàng nhẫn:\nchênh 20–23 triệu.",
+        "value": "20–23 TRIỆU",
+        "label": "CAO HƠN GIÁ THẾ GIỚI QUY ĐỔI",
+        "detail": "Phân biệt mức giá nội địa và giá thế giới.",
+        "graphic": "comparison",
+        "nodes": [
+          "VÀNG MIẾNG SJC",
+          "VÀNG NHẪN"
+        ],
+        "values": [],
+        "metrics": [
+          "~23 TRIỆU",
+          "20–23 TRIỆU"
+        ],
+        "tone": "danger",
+        "note": "CHÊNH GIÁ THẾ GIỚI QUY ĐỔI · TRIỆU ĐỒNG/LƯỢNG"
+      }
+    ]
+  },
+  {
+    "id": "closing",
+    "section": "CUỘC ĐUA GIÁ GIỮA CÁC NHÀ VÀNG",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Cuộc đua giá mới\nđang dần lộ diện.",
+        "value": "CUỘC ĐUA GIÁ",
+        "label": "GIỮA CÁC THƯƠNG HIỆU VÀNG",
+        "detail": "PNJ đưa ra một động thái đáng chú ý.",
+        "graphic": "quotes",
+        "nodes": [
+          "PNJ",
+          "SJC",
+          "DOJI",
+          "Mi Hồng"
+        ],
+        "values": [],
+        "metrics": [
+          "131,5",
+          "133,5",
+          "133,5",
+          "134"
+        ],
+        "tone": "accent",
+        "note": "GIÁ BÁN VÀNG NHẪN ĐƯỢC NÊU • SÁNG 25/11",
+        "headers": [
+          "THƯƠNG HIỆU",
+          "GIÁ BÁN · TRIỆU ĐỒNG/LƯỢNG"
+        ]
+      },
+      {
+        "anchor": "Và PNJ vừa có",
+        "title": "PNJ chủ động\nhạ giá bán so với nhóm.",
+        "value": "131,5 TRIỆU",
+        "label": "GIÁ BÁN VÀNG NHẪN PNJ • SÁNG 25/11",
+        "detail": "Thấp hơn SJC và DOJI 2 triệu đồng mỗi lượng.",
+        "graphic": "gold",
+        "nodes": [
+          "PNJ",
+          "CHÊNH 2 TRIỆU",
+          "VÀNG NHẪN TRƠN"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỒ HỌA MINH HỌA"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "path": "audio/2611-1/2611-1.mp3",
+    "bytes": 560323,
+    "sha256": "084f7485862cd1221bd3ca949e9deb1ea52f187257e0307955a60eae114f5f2e"
+  },
+  {
+    "path": "audio/2611-1/finance-news.wav",
+    "bytes": 5015564,
+    "sha256": "98094e08d274d470bdf673b8eb05c1fdbfaff1f0df44322c2c51c18ab4404b26"
+  },
+  {
+    "path": "audio/2611-1/mix-calibration.json",
+    "bytes": 557,
+    "sha256": "8e5d903072311ec2540fb9e7046ad4bbaf441ed7340adae1d88401495c0c602e"
+  },
+  {
+    "path": "audio/2611-1/news-sting.wav",
+    "bytes": 33644,
+    "sha256": "0af89199ca760cd227d7faa4ceef4b31bc476251bc0a1dd8add07e9afe667dc8"
+  },
+  {
+    "path": "audio/2611-1/production-manifest.json",
+    "bytes": 1093,
+    "sha256": "cacddec2d119b91ca21745b8814ea599fd7062fdb5cd742e47e3276461c61fd5"
+  },
+  {
+    "path": "audio/2611-1/voiceover.wav",
+    "bytes": 4919598,
+    "sha256": "a9998acf2da28282e0f13d92437971457301a0f06a76b16279e7f43e46ae1c7d"
+  }
+]

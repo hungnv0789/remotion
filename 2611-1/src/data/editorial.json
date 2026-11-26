@@ -1,0 +1,338 @@
+[
+  {
+    "id": "hook",
+    "section": "ĐỀ XUẤT THUẾ • 14 NỀN KINH TẾ",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Mỹ đề xuất thêm thuế:\n14 nền kinh tế.",
+        "value": "14 NỀN KINH TẾ",
+        "label": "DANH SÁCH CÓ VIỆT NAM",
+        "detail": "Đề xuất thuế, chưa có hiệu lực áp dụng ngay.",
+        "graphic": "globe",
+        "nodes": [
+          "MỸ",
+          "EU",
+          "CHÂU Á",
+          "VIỆT NAM"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỀ XUẤT THUẾ • CHƯA CÓ HIỆU LỰC"
+      }
+    ]
+  },
+  {
+    "id": "proposal",
+    "section": "THÔNG BÁO USTR • 25/11",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Đề xuất USTR\ncông bố ngày 25/11.",
+        "value": "25 / 11",
+        "label": "ĐẠI DIỆN THƯƠNG MẠI MỸ • USTR",
+        "detail": "Phân biệt thông báo đề xuất với thời điểm áp dụng.",
+        "graphic": "cards",
+        "nodes": [
+          "USTR",
+          "ĐỀ XUẤT THUẾ",
+          "14 NỀN KINH TẾ",
+          "25 / 11"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỀ XUẤT THUẾ • CHƯA CÓ HIỆU LỰC"
+      },
+      {
+        "anchor": "14 nền kinh tế",
+        "title": "Những nền kinh tế\nnằm trong danh sách.",
+        "value": "DANH SÁCH ĐỀ XUẤT",
+        "label": "CÁC NHÓM THUẾ ĐƯỢC NÊU",
+        "detail": "Mức thuế khác nhau giữa các nhóm.",
+        "graphic": "globe",
+        "nodes": [
+          "EU",
+          "CHÂU Á",
+          "TRUNG QUỐC",
+          "VIỆT NAM"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỀ XUẤT THUẾ • CHƯA CÓ HIỆU LỰC"
+      }
+    ]
+  },
+  {
+    "id": "groups",
+    "section": "CÁC NHÓM THUẾ ĐƯỢC ĐỀ XUẤT",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Nhóm được nêu\nở mức 15%.",
+        "value": "15%",
+        "label": "EU • NHẬT BẢN • HÀN QUỐC • THỤY SĨ • ĐÀI LOAN",
+        "detail": "Năm nền kinh tế trong nhóm đầu tiên.",
+        "graphic": "tariffs",
+        "nodes": [
+          "EU",
+          "Nhật Bản",
+          "Hàn Quốc",
+          "Thụy Sĩ",
+          "Đài Loan"
+        ],
+        "values": [],
+        "metrics": [
+          "15%",
+          "15%",
+          "15%",
+          "15%",
+          "15%"
+        ],
+        "tone": "accent",
+        "note": "ĐỀ XUẤT THUẾ • CHƯA CÓ HIỆU LỰC",
+        "headers": [
+          "NỀN KINH TẾ",
+          "THUẾ ĐỀ XUẤT"
+        ]
+      },
+      {
+        "anchor": "Bangladesh",
+        "title": "Nhóm tiếp theo:\ntối đa 18%.",
+        "value": "TỐI ĐA 18%",
+        "label": "BANGLADESH • CAMPUCHIA • INDONESIA",
+        "detail": "Cùng Malaysia và Thái Lan trong nhóm này.",
+        "graphic": "tariffs",
+        "nodes": [
+          "Bangladesh",
+          "Campuchia",
+          "Indonesia",
+          "Malaysia",
+          "Thái Lan"
+        ],
+        "values": [],
+        "metrics": [
+          "≤18%",
+          "≤18%",
+          "≤18%",
+          "≤18%",
+          "≤18%"
+        ],
+        "tone": "accent",
+        "note": "ĐỀ XUẤT THUẾ • CHƯA CÓ HIỆU LỰC",
+        "headers": [
+          "NỀN KINH TẾ",
+          "MỨC TỐI ĐA"
+        ]
+      },
+      {
+        "anchor": "Singapore",
+        "title": "Singapore:\nmức được nêu là 20%.",
+        "value": "20%",
+        "label": "MỨC THUẾ ĐỀ XUẤT • SINGAPORE",
+        "detail": "Đặt cạnh mức 25% được nêu cho Ấn Độ.",
+        "graphic": "comparison",
+        "nodes": [
+          "SINGAPORE",
+          "ẤN ĐỘ"
+        ],
+        "values": [],
+        "metrics": [
+          "20%",
+          "25%"
+        ],
+        "tone": "accent",
+        "note": "ĐỀ XUẤT THUẾ • CHƯA CÓ HIỆU LỰC"
+      },
+      {
+        "anchor": "Ấn Độ",
+        "title": "Ấn Độ:\nmức được nêu là 25%.",
+        "value": "25%",
+        "label": "MỨC THUẾ ĐỀ XUẤT • ẤN ĐỘ",
+        "detail": "Đây là các mức trong danh sách đề xuất.",
+        "graphic": "comparison",
+        "nodes": [
+          "SINGAPORE",
+          "ẤN ĐỘ"
+        ],
+        "values": [],
+        "metrics": [
+          "20%",
+          "25%"
+        ],
+        "tone": "accent",
+        "note": "ĐỀ XUẤT THUẾ • CHƯA CÓ HIỆU LỰC"
+      }
+    ]
+  },
+  {
+    "id": "highest",
+    "section": "VIỆT NAM & TRUNG QUỐC",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Việt Nam, Trung Quốc:\nđề xuất tới 35%.",
+        "value": "TỐI ĐA 35%",
+        "label": "MỨC CAO NHẤT TRONG DANH SÁCH",
+        "detail": "Đây là mức đề xuất, chưa áp dụng ngay.",
+        "graphic": "comparison",
+        "nodes": [
+          "VIỆT NAM",
+          "TRUNG QUỐC"
+        ],
+        "values": [],
+        "metrics": [
+          "35%",
+          "35%"
+        ],
+        "tone": "danger",
+        "note": "ĐỀ XUẤT THUẾ • CHƯA CÓ HIỆU LỰC"
+      },
+      {
+        "anchor": "trong khi Mexico",
+        "title": "Mexico và Na Uy:\nchưa bị đề xuất đợt này.",
+        "value": "MEXICO • NA UY",
+        "label": "KHÁC VỚI NHÓM TRONG DANH SÁCH",
+        "detail": "Phạm vi theo thông báo được nhắc đến.",
+        "graphic": "cards",
+        "nodes": [
+          "MEXICO",
+          "NA UY",
+          "CHƯA BỊ ĐỀ XUẤT",
+          "ĐỢT NÀY"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "accent",
+        "note": "ĐỀ XUẤT THUẾ • CHƯA CÓ HIỆU LỰC"
+      }
+    ]
+  },
+  {
+    "id": "response",
+    "section": "PHẢN HỒI TỪ BỘ CÔNG THƯƠNG",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "Việt Nam phản hồi\nngay tối 25/11.",
+        "value": "TỐI 25 / 11",
+        "label": "SAU THÔNG BÁO SƠ BỘ TỪ PHÍA MỸ",
+        "detail": "Bộ Công Thương lên tiếng làm rõ.",
+        "graphic": "timeline",
+        "nodes": [
+          "THÔNG BÁO MỸ",
+          "VIỆT NAM PHẢN HỒI"
+        ],
+        "values": [],
+        "metrics": [
+          "25 / 11",
+          "TỐI 25 / 11"
+        ],
+        "tone": "accent",
+        "note": "ĐỀ XUẤT THUẾ • CHƯA CÓ HIỆU LỰC"
+      },
+      {
+        "anchor": "Bộ Công Thương",
+        "title": "Bộ Công Thương:\nđây mới là đề xuất.",
+        "value": "MỚI LÀ ĐỀ XUẤT",
+        "label": "USTR • THÔNG BÁO SƠ BỘ",
+        "detail": "Chưa có hiệu lực áp dụng ngay.",
+        "graphic": "comparison",
+        "nodes": [
+          "ĐỀ XUẤT",
+          "HIỆU LỰC"
+        ],
+        "values": [],
+        "metrics": [
+          "USTR",
+          "CHƯA CÓ"
+        ],
+        "tone": "teal",
+        "note": "ĐỀ XUẤT THUẾ • CHƯA CÓ HIỆU LỰC"
+      },
+      {
+        "anchor": "đây mới chỉ là",
+        "title": "Điểm cần nhớ:\nchưa áp dụng ngay.",
+        "value": "CHƯA CÓ HIỆU LỰC",
+        "label": "ĐỀ XUẤT ≠ MỨC THUẾ ĐÃ ÁP DỤNG",
+        "detail": "Tránh đồng nhất đề xuất với quyết định có hiệu lực.",
+        "graphic": "cards",
+        "nodes": [
+          "MỚI LÀ ĐỀ XUẤT",
+          "CHƯA ÁP DỤNG",
+          "USTR",
+          "BỘ CÔNG THƯƠNG"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "teal",
+        "note": "ĐỀ XUẤT THUẾ • CHƯA CÓ HIỆU LỰC"
+      }
+    ]
+  },
+  {
+    "id": "negotiation",
+    "section": "KHẢ NĂNG ĐÀM PHÁN • CÓ ĐIỀU KIỆN",
+    "shots": [
+      {
+        "anchor": "",
+        "title": "35% có thể giảm?\nCòn phụ thuộc đàm phán.",
+        "value": "35% → 20%?",
+        "label": "KHẢ NĂNG CÓ ĐIỀU KIỆN",
+        "detail": "Nếu hai nước đạt được hiệp định thương mại.",
+        "graphic": "comparison",
+        "nodes": [
+          "TỐI ĐA ĐỀ XUẤT",
+          "NẾU ĐẠT HIỆP ĐỊNH"
+        ],
+        "values": [],
+        "metrics": [
+          "35%",
+          "20%"
+        ],
+        "tone": "teal",
+        "note": "KHẢ NĂNG ĐÀM PHÁN • KHÔNG PHẢI MỨC ĐÃ CHỐT"
+      },
+      {
+        "anchor": "đến ngưỡng 20%",
+        "title": "Ngưỡng 20%:\nkhông phải tự động.",
+        "value": "CÓ THỂ GIẢM",
+        "label": "ĐIỀU KIỆN: ĐẠT HIỆP ĐỊNH HAI NƯỚC",
+        "detail": "Mức thuế phụ thuộc kết quả đàm phán.",
+        "graphic": "comparison",
+        "nodes": [
+          "ĐỀ XUẤT TỐI ĐA",
+          "NGƯỠNG CÓ THỂ"
+        ],
+        "values": [],
+        "metrics": [
+          "35%",
+          "20%"
+        ],
+        "tone": "teal",
+        "note": "NẾU ĐẠT HIỆP ĐỊNH THƯƠNG MẠI"
+      },
+      {
+        "anchor": "nếu hai nước",
+        "title": "Điều kiện quan trọng:\nđạt hiệp định thương mại.",
+        "value": "ĐÀM PHÁN",
+        "label": "ĐỐI ỨNG • CÔNG BẰNG • CÂN BẰNG",
+        "detail": "Mới là đề xuất; việc giảm thuế có điều kiện.",
+        "graphic": "flow",
+        "nodes": [
+          "MỸ",
+          "VIỆT NAM",
+          "ĐỐI ỨNG",
+          "CÔNG BẰNG",
+          "CÂN BẰNG"
+        ],
+        "values": [],
+        "metrics": [],
+        "tone": "teal",
+        "note": "NẾU HAI NƯỚC ĐẠT HIỆP ĐỊNH"
+      }
+    ]
+  }
+]

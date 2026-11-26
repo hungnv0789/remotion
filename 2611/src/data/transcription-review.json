@@ -1,0 +1,215 @@
+{
+  "sourceSha256": "48818f5f539b8c41c8e091de79fa1fe530679209445680429f25463ae5001922",
+  "model": "Systran/faster-whisper-medium",
+  "sourceWindow": [
+    0,
+    7
+  ],
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.7,
+      "text": " Chuyện gì đang xảy ra, PNJ bất ngờ phá thấy vàng nhẫn, bán rẻ hơn SJC, DOJI tới 2 triệu đồng một lượng."
+    }
+  ],
+  "reviewedSpelling": {
+    "P&G": "PNJ",
+    "SGC": "SJC",
+    "Doji": "DOJI",
+    "mì hồng": "Mi Hồng",
+    "vảng nhẫn chân": "vàng nhẫn trơn"
+  },
+  "hookPhrase": "phá thế vàng nhẫn; retain source phrase and use price-comparison headline on screen.",
+  "tailReview": {
+    "sourceWindow": [
+      69,
+      80.804
+    ],
+    "model": "Systran/faster-whisper-medium",
+    "segments": [
+      {
+        "start": 69.42,
+        "end": 76.5,
+        "text": " Một cuộc đua gia mới giữa các nhà ván đang dẫn lổ diện và PNJ vừa có một động thái đáng chú ý khi chủ động đưa gia bán xuống thấp hơn mặt bạc chung.",
+        "words": [
+          {
+            "text": " Một",
+            "start": 69.42,
+            "end": 69.82
+          },
+          {
+            "text": " cuộc",
+            "start": 69.82,
+            "end": 69.98
+          },
+          {
+            "text": " đua",
+            "start": 69.98,
+            "end": 70.18
+          },
+          {
+            "text": " gia",
+            "start": 70.18,
+            "end": 70.38
+          },
+          {
+            "text": " mới",
+            "start": 70.38,
+            "end": 70.56
+          },
+          {
+            "text": " giữa",
+            "start": 70.56,
+            "end": 70.74
+          },
+          {
+            "text": " các",
+            "start": 70.74,
+            "end": 70.9
+          },
+          {
+            "text": " nhà",
+            "start": 70.9,
+            "end": 71.14
+          },
+          {
+            "text": " ván",
+            "start": 71.14,
+            "end": 71.3
+          },
+          {
+            "text": " đang",
+            "start": 71.3,
+            "end": 71.5
+          },
+          {
+            "text": " dẫn",
+            "start": 71.5,
+            "end": 71.68
+          },
+          {
+            "text": " lổ",
+            "start": 71.68,
+            "end": 71.84
+          },
+          {
+            "text": " diện",
+            "start": 71.84,
+            "end": 72.12
+          },
+          {
+            "text": " và",
+            "start": 72.12,
+            "end": 72.4
+          },
+          {
+            "text": " PNJ",
+            "start": 72.4,
+            "end": 72.82
+          },
+          {
+            "text": " vừa",
+            "start": 72.82,
+            "end": 72.96
+          },
+          {
+            "text": " có",
+            "start": 72.96,
+            "end": 73.16
+          },
+          {
+            "text": " một",
+            "start": 73.16,
+            "end": 73.28
+          },
+          {
+            "text": " động",
+            "start": 73.28,
+            "end": 73.44
+          },
+          {
+            "text": " thái",
+            "start": 73.44,
+            "end": 73.64
+          },
+          {
+            "text": " đáng",
+            "start": 73.64,
+            "end": 73.84
+          },
+          {
+            "text": " chú",
+            "start": 73.84,
+            "end": 74.06
+          },
+          {
+            "text": " ý",
+            "start": 74.06,
+            "end": 74.26
+          },
+          {
+            "text": " khi",
+            "start": 74.26,
+            "end": 74.46
+          },
+          {
+            "text": " chủ",
+            "start": 74.46,
+            "end": 74.66
+          },
+          {
+            "text": " động",
+            "start": 74.66,
+            "end": 74.82
+          },
+          {
+            "text": " đưa",
+            "start": 74.82,
+            "end": 75.02
+          },
+          {
+            "text": " gia",
+            "start": 75.02,
+            "end": 75.22
+          },
+          {
+            "text": " bán",
+            "start": 75.22,
+            "end": 75.46
+          },
+          {
+            "text": " xuống",
+            "start": 75.46,
+            "end": 75.66
+          },
+          {
+            "text": " thấp",
+            "start": 75.66,
+            "end": 75.8
+          },
+          {
+            "text": " hơn",
+            "start": 75.8,
+            "end": 76.0
+          },
+          {
+            "text": " mặt",
+            "start": 76.0,
+            "end": 76.14
+          },
+          {
+            "text": " bạc",
+            "start": 76.14,
+            "end": 76.34
+          },
+          {
+            "text": " chung.",
+            "start": 76.34,
+            "end": 76.5
+          }
+        ]
+      }
+    ],
+    "decision": "No additional speech detected by either recognizer after final phrase; retain full source audio, including its ending."
+  }
+}
